@@ -1,0 +1,36 @@
+@use "../abstracts/breakpoints" as b;
+@use "../abstracts/mixins" as m;
+@use "../abstracts/variables" as v;
+
+.card {
+  font-size: 14px;
+  padding: 1em;
+  border: 1px dotted var(--border-base);
+  box-shadow: var(--shadow-sm);
+  background-color: var(--background-second);
+  border-radius: 0.25em;
+
+  &__img-container {
+    width: 100%;
+    overflow: hidden;
+  }
+
+  &__img {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  &__title {
+    border: none;
+    margin: 0;
+    a {
+      text-decoration: none;
+    }
+  }
+
+  &__body {
+    font-size: v.$fs-sm;
+  }
+}

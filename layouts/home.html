@@ -4,18 +4,46 @@
       <h1>{{ site.Title }}</h1>
       {{ .Content }}
     </section>
+
+    
+    <div class="taxonomy">
+      {{ range $taxonomyName, $taxonomyTerms := site.Taxonomies }}
+        <nav class="taxonomy__container">
+          <h2 class="taxonomy__label" onclick="window.location.href=`{{ $taxonomyName }}`">{{ title $taxonomyName }}</h2>
+          <div class="taxonomy__running-wrapper">
+            <div class="taxonomy__running-track">
+              {{ range $termName, $term := $taxonomyTerms }}
+                <a href="{{ $term.Page.RelPermalink }}" class="taxonomy__link">{{ $termName | title }}</a>
+              {{ end }}
+
+              <!-- Duplicate isi biar looping halus -->
+              {{ range $termName, $term := $taxonomyTerms }}
+                <a href="{{ $term.Page.RelPermalink }}" class="taxonomy__link">{{ $termName | title }}</a>
+              {{ end }}
+            </div>
+          </div>
+        </nav>
+      {{ end }}
+    </div>
+
   </article>
   <div class="markdown site-main__content site-main__content--home">
+    <hr />
     <div class="post-list">
       {{ range .Paginator.Pages }}
         {{ $title := .LinkTitle }}
         <article class="post-list__item">
-          <div class="card" onclick="window.location.href=`{{ .RelPermalink }}`">
+          <div
+            class="card"
+            onclick="window.location.href=`{{ .RelPermalink }}`">
             <header class="card__header">
               {{ if .Params.images }}
                 {{ with index .Params.images 0 }}
                   <div class="card__img-container">
-                    <img src="{{ . | safeURL }}" alt="Image In {{ $title }}" class="card__img">
+                    <img
+                      src="{{ . | safeURL }}"
+                      alt="Image In {{ $title }}"
+                      class="card__img" />
                   </div>
                 {{ end }}
               {{ end }}
@@ -30,6 +58,6 @@
         </article>
       {{ end }}
     </div>
-    {{ partial "components/pagination.html" (dict "page" . "format" "default") }}
+    {{ partial "pagination.html" (dict "page" . "format" "default") }}
   </div>
 {{ end }}

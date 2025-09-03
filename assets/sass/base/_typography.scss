@@ -12,7 +12,7 @@
   overflow-wrap: anywhere;
   hyphens: auto;
   padding-inline: 1em;
-  
+
   h1,
   h2,
   h3,
@@ -118,17 +118,22 @@
   }
 
   img {
+    @include m.transition(all);
     display: inline-block;
     padding: 0.5em;
     border: 1px dotted var(--border-base);
     border-radius: 0.5em;
     box-shadow: var(--shadow-sm);
+    filter: grayscale(1);
+
+    &:hover {
+      filter: grayscale(0);
+    }
 
     + img {
       margin-block: 1em;
     }
   }
-
   blockquote {
     letter-spacing: 0.025em;
     margin-block: 1.5em;
