@@ -30,7 +30,7 @@
   h3 {
     font-family: v.$font-serif;
     font-size: v.$fs-3xl;
-    border-block-end: 1px solid var(--border-base);
+    border-block-end: 1px dotted var(--border-base);
     letter-spacing: 0.05em;
   }
 
@@ -45,6 +45,34 @@
 
     + p {
       margin-block: 1em 1.5em;
+    }
+  }
+
+  a {
+    text-decoration: underline dotted 1px;
+    color: var(--color-second);
+
+    &.footnote-ref {
+      margin-inline-start: 0.1em;
+      text-decoration: underline solid;
+
+      &::before {
+        content: "[";
+      }
+      &::after {
+        content: "]";
+      }
+    }
+
+    &:hover,
+    &:focus-visible,
+    &:active {
+      color: var(--color-third);
+    }
+
+    &:focus-visible {
+      outline: dotted 1px;
+      text-decoration: none;
     }
   }
 
@@ -171,6 +199,97 @@
     }
     .line {
       display: flex;
+    }
+  }
+
+  .table-container {
+    display: flow-root;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: auto;
+    margin: 1.5em 0;
+    border-radius: 0.25em;
+    border: 1px dotted var(--border-base);
+    border-block-end: none;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 65ch;
+    background-color: var(--background-base);
+  }
+
+  thead {
+    background-color: var(--background-second);
+  }
+
+  th {
+    text-align: start;
+    padding: 1em 1.5em;
+    font-weight: 600;
+    color: var(--color-second);
+    border-block-end: 1px dotted var(--border-base);
+    white-space: nowrap;
+  }
+
+  td {
+    padding: 1em 1.5em;
+    border-block-end: 1px dotted var(--border-base);
+    color: var(--color-third);
+    white-space: nowrap;
+  }
+
+  tbody tr:hover {
+    background-color: var(--background-second);
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: var(--background-second);
+  }
+
+  // FOOTNOTE
+  .footnote-ref {
+    font-size: v.$fs-xl;
+    text-decoration: none;
+    &::before {
+      content: "[";
+    }
+
+    &::after {
+      content: "]";
+    }
+  }
+
+  .footnotes {
+    margin-block-start: 6em;
+
+    &::before {
+      content: "References";
+      display: block;
+      font-size: v.$fs-8xl;
+      border-block-end: 1px dotted var(--border-base);
+      color: var(--color-second);
+      line-height: 1.75;
+      font-family: v.$font-serif;
+    }
+
+    hr {
+      display: none;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    @include b.min(md) {
+      ol {
+        column-count: 2;
+      }
+
+      li {
+        break-inside: avoid;
+        margin-inline: 1em;
+      }
     }
   }
 }
