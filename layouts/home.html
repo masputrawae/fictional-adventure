@@ -8,21 +8,23 @@
     
     <div class="taxonomy">
       {{ range $taxonomyName, $taxonomyTerms := site.Taxonomies }}
-        <nav class="taxonomy__container">
-          <h2 class="taxonomy__label" onclick="window.location.href=`{{ $taxonomyName }}`">{{ title $taxonomyName }}</h2>
-          <div class="taxonomy__running-wrapper">
-            <div class="taxonomy__running-track">
-              {{ range $termName, $term := $taxonomyTerms }}
-                <a href="{{ $term.Page.RelPermalink }}" class="taxonomy__link">{{ $termName | title }}</a>
-              {{ end }}
+        {{ if or (eq $taxonomyName "categories") (eq $taxonomyName "tags") }}
+          <nav class="taxonomy__container">
+            <h2 class="taxonomy__label">{{ title $taxonomyName }}</h2>
+            <div class="taxonomy__running-wrapper">
+              <div class="taxonomy__running-track">
+                {{ range $termName, $term := $taxonomyTerms }}
+                  <a href="{{ $term.Page.RelPermalink }}" class="taxonomy__link">{{ $termName }}</a>
+                {{ end }}
 
-              <!-- Duplicate isi biar looping halus -->
-              {{ range $termName, $term := $taxonomyTerms }}
-                <a href="{{ $term.Page.RelPermalink }}" class="taxonomy__link">{{ $termName | title }}</a>
-              {{ end }}
+                <!-- Duplicate isi biar looping halus -->
+                {{ range $termName, $term := $taxonomyTerms }}
+                  <a href="{{ $term.Page.RelPermalink }}" class="taxonomy__link">{{ $termName }}</a>
+                {{ end }}
+              </div>
             </div>
-          </div>
-        </nav>
+          </nav>
+        {{ end }}
       {{ end }}
     </div>
 

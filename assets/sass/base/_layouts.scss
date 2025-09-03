@@ -6,6 +6,16 @@ button {
   cursor: pointer;
 }
 
+.grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
+
+  &--fluid-lg {
+    grid-template-columns: repeat(auto-fit, minmax(30em, 1fr));
+  }
+}
+
 html,
 body {
   @include m.transition(background-color, color, font-size);
