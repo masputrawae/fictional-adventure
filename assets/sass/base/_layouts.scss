@@ -37,6 +37,7 @@ body {
   background-color: var(--background-second);
 
   visibility: hidden;
+  z-index: 200;
 
   &__btn-close {
     position: absolute;
@@ -51,95 +52,29 @@ body {
   }
 }
 
-.site-brand {
-  &__logo {
-    @include m.size(100px);
-    padding: 0.25em;
-    border: 1px solid var(--border-base);
-    border-radius: 0.15em;
-    box-shadow: var(--shadow-sm);
-  }
+.site-mobile-header {
+  @include m.flex-justify(space-between, center);
+  @include m.width-height(100%, 4em);
+  background-color: var(--background-second);
+  border-block-end: 1px solid var(--border-base);
+  box-shadow: var(--shadow-md);
+
+  position: fixed;
+  inset-inline-start: 0;
+  inset-inline-end: 0;
+
+  padding-inline: 1em;
+  z-index: 100;
 
   &__title {
-    color: var(--color-second);
-    font-size: v.$fs-5xl;
+    letter-spacing: 0.05em;
+    font-size: v.$fs-6xl;
     font-family: v.$font-serif;
-    font-style: normal;
+    color: var(--color-second);
   }
 }
 
-// NAVIGATION
-.nav {
-  display: grid;
-  margin-block: 1em 2.5em;
-
-  &__label {
-    letter-spacing: 0.05em;
-    font-family: v.$font-serif;
-    border-bottom: 1px solid var(--border-base);
-    color: var(--color-second);
-    margin-block: 0 1em;
-  }
-
-  &__link {
-    @include m.transition(all);
-    position: relative;
-    display: block;
-    color: var(--color-third);
-    font-size: v.$fs-sm;
-    padding: 0.15em;
-    margin-block: 0.25em;
-    margin-inline-start: 1em;
-    cursor: pointer;
-
-    &::before,
-    &::after {
-      @include m.transition(all);
-      content: "";
-      position: absolute;
-      inset-inline-start: 0;
-      inset-block-start: 0;
-      box-shadow: var(--shadow-sm);
-      height: 100%;
-      z-index: -1;
-      border-radius: 0.15em;
-    }
-
-    &::before {
-      margin-inline-start: -1em;
-      width: 3px;
-      background-color: var(--background-base);
-    }
-
-    &::after {
-      margin-inline-start: -0.5em;
-      width: 0;
-      background-color: var(--color-black-fix);
-    }
-
-    &--is-active {
-      color: var(--color-second);
-
-      &::after {
-        width: 100%;
-        background-color: var(--background-base);
-      }
-    }
-
-    &:hover,
-    &:focus-visible,
-    &:active {
-      color: var(--color-white-fix);
-      outline: none;
-
-      &::before,
-      &::after {
-        background-color: var(--color-black-fix);
-        box-shadow: var(--shadow-md);
-      }
-      &::after {
-        width: 100%;
-      }
-    }
-  }
+.site-main {
+  padding-block-start: 4em;
+  padding-inline: 1em;
 }

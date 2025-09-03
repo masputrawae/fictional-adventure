@@ -1,0 +1,21 @@
+@use "../abstracts/breakpoints" as b;
+@use "../abstracts/mixins" as m;
+@use "../abstracts/variables" as v;
+
+.site-brand {
+  &__logo {
+    @include m.size(100px);
+    padding: 0.25em;
+    border: 1px solid var(--border-base);
+    border-radius: 0.15em;
+    box-shadow: var(--shadow-sm);
+  }
+
+  &__title {
+    color: var(--color-second);
+    font-size: v.$fs-5xl;
+    font-family: v.$font-serif;
+    font-style: normal;
+  }
+}
+

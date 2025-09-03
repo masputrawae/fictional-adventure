@@ -1,0 +1,79 @@
+@use "../abstracts/breakpoints" as b;
+@use "../abstracts/mixins" as m;
+@use "../abstracts/variables" as v;
+
+// NAVIGATION
+.nav {
+  display: grid;
+  margin-block: 1em 2.5em;
+
+  &__label {
+    letter-spacing: 0.05em;
+    font-family: v.$font-serif;
+    border-bottom: 1px solid var(--border-base);
+    color: var(--color-second);
+    margin-block: 0 1em;
+  }
+
+  &__link {
+    @include m.transition(all);
+    position: relative;
+    display: block;
+    color: var(--color-third);
+    font-size: v.$fs-sm;
+    padding: 0.15em;
+    margin-block: 0.25em;
+    margin-inline-start: 1em;
+    cursor: pointer;
+
+    &::before,
+    &::after {
+      @include m.transition(all);
+      content: "";
+      position: absolute;
+      inset-inline-start: 0;
+      inset-block-start: 0;
+      box-shadow: var(--shadow-sm);
+      height: 100%;
+      z-index: -1;
+      border-radius: 0.15em;
+    }
+
+    &::before {
+      margin-inline-start: -1em;
+      width: 3px;
+      background-color: var(--background-base);
+    }
+
+    &::after {
+      margin-inline-start: -0.5em;
+      width: 0;
+      background-color: var(--color-black-fix);
+    }
+
+    &--is-active {
+      color: var(--color-second);
+
+      &::after {
+        width: 100%;
+        background-color: var(--background-base);
+      }
+    }
+
+    &:hover,
+    &:focus-visible,
+    &:active {
+      color: var(--color-white-fix);
+      outline: none;
+
+      &::before,
+      &::after {
+        background-color: var(--color-black-fix);
+        box-shadow: var(--shadow-md);
+      }
+      &::after {
+        width: 100%;
+      }
+    }
+  }
+}
