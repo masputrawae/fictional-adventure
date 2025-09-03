@@ -1,0 +1,140 @@
+baseURL: https://masputrawae.github.io/
+languageCode: id
+title: My Notes
+timeZone: Asia/Jakarta
+enableEmoji: true
+
+# enableGitInfo: true
+
+#===================
+# SERVICES
+#===================
+services:
+  googleAnalytics:
+    id: G-W9TMTZZYG5
+
+#===================
+# PRIVACY
+#===================
+privacy:
+  googleAnalytics:
+    disable: false
+    respectDoNotTrack: true
+
+#===================
+# TAXONOMIES
+#===================
+taxonomies:
+  tag: tags
+  category: categories
+
+#===================
+# CUSTOM OUTPUT
+#===================
+# mediaType: "application/json"
+# outputFormats:
+#   search:
+#     mediaType: "application/json"
+#     baseName: "search"
+#     isPlainText: true
+#     notAlternative: true
+
+#   manifest:
+#     mediaType: "application/json"
+#     baseName: "manifest"
+#     isPlainText: true
+#     notAlternative: true
+
+# outputs:
+#   home:
+#     - html
+#     - rss
+#     - sitemap
+#     - search
+#     - manifest
+
+#===================
+# MODULES
+#===================
+module:
+  hugoVersion:
+    extended: true
+    min: 0.149.0
+  mounts:
+    - source: node_modules/bootstrap-icons/icons
+      target: assets/icons
+    - source: assets
+      target: assets
+
+
+menu:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+
+    - name: Recent Change
+      pageRef: /recent_change
+      weight: 30
+
+    - name: Random Page
+      pageRef: /random_page/
+      weight: 40
+
+    - name: Tags
+      pageRef: /tags
+      weight: 50
+
+    - name: Archives
+      pageRef: /archives
+      weight: 60
+
+  footer:
+    - name: About Putra
+      pageRef: /docs/about
+      weight: 10
+
+    - name: Disclaimer
+      pageRef: /docs/disclaimer
+      weight: 20
+
+    - name: License
+      pageRef: /docs/license
+      weight: 30
+
+    - name: Privacy Policy
+      pageRef: /docs/privacy_policy
+      weight: 40
+
+    - name: Credits
+      pageRef: /docs/credits
+      weight: 50
+
+    - name: Email
+      url: mailto:masputrawae.official@gmail.com
+      weight: 60
+
+  social:
+    - name: Twitter X
+      url: https://x.com/Masputrawae
+      weight: 10
+
+    - name: Instagram
+      url: https://www.instagram.com/masputrawae/
+      weight: 20
+
+    - name: Facebook
+      url: https://www.facebook.com/profile.php?id=61566134978045
+      weight: 30
+
+    - name: Discord
+      url: https://discord.gg/nM4EP8DJFZ
+      weight: 40
+
+    - name: Github
+      url: https://github.com/masputrawae
+      weight: 50
+
+    - name: Rss Feed
+      url: index.xml
+      weight: 60

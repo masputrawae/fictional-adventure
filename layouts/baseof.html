@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html 
+lang="{{- site.Language.LanguageCode -}}" 
+dir="{{- or site.Language.LanguageDirection `ltr` -}}"
+data-theme="dark">
+<head>
+  {{- partial "head/main.html" . -}}
+</head>
+<body>
+  {{- partial "layouts/sidebar.html" . -}}
+  {{- partial "layouts/header.html" . -}}
+  <main class="main-page">
+    {{- block "main" . -}}{{- end -}}
+  </main>
+  {{- partial "layouts/footer.html" . -}}
+</body>
+</html>

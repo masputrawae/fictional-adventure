@@ -1,0 +1,14 @@
+<header class="site-sidebar" id="sidebar">
+  <a href="{{ site.BaseURL | relURL }}" class="site-brand">
+    <img src="https://placehold.co/100" alt="Logo {{ site.Title }}" class="site-brand__logo">
+    <em class="site-brand__title">{{ site.Title }}</em>
+  </a>
+
+  {{- partial "components/menu.html" (dict "menuID" "main" "page" . "label" "Main Menu") }}
+  {{- partial "components/menu.html" (dict "menuID" "social" "page" . "label" "Social Media") }}
+  {{- partial "components/menu.html" (dict "menuID" "footer" "page" . "label" "Personal") }}
+
+  <button data-sidebar="sidebar" class="site-sidebar__btn-close">
+    {{ partial "components/icon.html" (dict "name" "x" "size" 28 ) }}
+  </button>
+</header>

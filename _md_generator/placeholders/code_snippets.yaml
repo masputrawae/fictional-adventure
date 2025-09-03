@@ -1,0 +1,768 @@
+python:
+  - "print('Hello World')"
+  - |
+    for i in range(5):
+        print(i)
+  - |
+    # List comprehension
+    squares = [x**2 for x in range(10)]
+    print(squares)
+
+    # File handling
+    with open('file.txt', 'w') as f:
+        f.write('Hello File!')
+
+    # Class example
+    class Person:
+        def __init__(self, name, age):
+            self.name = name
+            self.age = age
+        
+        def greet(self):
+            return f"Hello, I'm {self.name}"
+
+    p = Person("Alice", 30)
+    print(p.greet())
+  
+bash:
+  - "echo Hello World"
+  - |
+    for f in *.txt; do
+        echo $f
+    done
+
+javascript:
+  - "console.log('Hello World');"
+  - |
+    function greet(name) {
+      console.log(`Hello, ${name}`);
+    }
+    greet('John Doe');
+  - |
+    // Arrow function
+    const multiply = (a, b) => a * b;
+    console.log(multiply(5, 3));
+
+    // Async/await
+    async function fetchData() {
+        try {
+            const response = await fetch('https://api.example.com/data');
+            const data = await response.json();
+            console.log(data);
+        } catch (error) {
+            console.error('Error:', error);
+        }
+    }
+
+    // Array methods
+    const numbers = [1, 2, 3, 4, 5];
+    const doubled = numbers.map(n => n * 2);
+    console.log(doubled);
+  
+go:
+  - |
+    package main
+    import "fmt"
+    func main() {
+        fmt.Println("Hello World")
+    }
+c:
+  - |
+    #include <stdio.h>
+    int main() {
+        printf("Hello World");
+        return 0;
+    }
+cpp:
+  - |
+    #include <iostream>
+    #include <vector>
+    using namespace std;
+
+    // Template function
+    template <typename T>
+    T max(T a, T b) {
+        return (a > b) ? a : b;
+    }
+
+    int main() {
+        cout << "Hello C++!" << endl;
+        
+        // Vector example
+        vector<int> numbers = {1, 2, 3, 4, 5};
+        for (int num : numbers) {
+            cout << num << " ";
+        }
+        
+        return 0;
+    }
+
+    // Class with inheritance
+    class Shape {
+    public:
+        virtual double area() = 0; // Pure virtual function
+    };
+
+    class Circle : public Shape {
+    private:
+        double radius;
+    public:
+        Circle(double r) : radius(r) {}
+        double area() override {
+            return 3.14159 * radius * radius;
+        }
+    };
+
+java:
+  - |
+    public class Main {
+        public static void main(String[] args) {
+            System.out.println("Hello Java!");
+            
+            // ArrayList example
+            ArrayList<String> names = new ArrayList<>();
+            names.add("Alice");
+            names.add("Bob");
+            names.add("Charlie");
+            
+            for (String name : names) {
+                System.out.println(name);
+            }
+        }
+    }
+
+    // Interface example
+    interface Animal {
+        void makeSound();
+    }
+
+    class Dog implements Animal {
+        public void makeSound() {
+            System.out.println("Woof!");
+        }
+    }
+
+php:
+  - |
+    <?php
+    // Basic syntax
+    echo "Hello PHP!\n";
+
+    // Array manipulation
+    $fruits = ["apple", "banana", "orange"];
+    array_push($fruits, "grape");
+    print_r($fruits);
+
+    // Class example
+    class Database {
+        private $connection;
+        
+        public function __construct($host, $user, $pass) {
+            $this->connection = new mysqli($host, $user, $pass);
+        }
+        
+        public function query($sql) {
+            return $this->connection->query($sql);
+        }
+    }
+
+    // Function with type hinting
+    function calculateSum(int $a, int $b): int {
+        return $a + $b;
+    }
+    ?>
+
+ruby:
+  - |
+    # Basic syntax
+    puts "Hello Ruby!"
+
+    # Block example
+    5.times do |i|
+      puts "Number: #{i}"
+    end
+
+    # Class with metaprogramming
+    class Person
+      attr_accessor :name, :age
+      
+      def initialize(name, age)
+        @name = name
+        @age = age
+      end
+      
+      def introduce
+        "Hi, I'm #{@name} and I'm #{@age} years old"
+      end
+    end
+
+    person = Person.new("Alice", 25)
+    puts person.introduce
+
+    # Hash example
+    colors = {red: "#FF0000", green: "#00FF00", blue: "#0000FF"}
+    colors.each do |name, code|
+      puts "#{name}: #{code}"
+    end
+
+swift:
+  - |
+    import Foundation
+
+    // Basic syntax
+    print("Hello Swift!")
+
+    // Optional handling
+    var optionalString: String? = "Hello"
+    if let unwrappedString = optionalString {
+        print(unwrappedString)
+    }
+
+    // Struct example
+    struct Point {
+        var x: Double
+        var y: Double
+        
+        func distance(to other: Point) -> Double {
+            return sqrt(pow(x - other.x, 2) + pow(y - other.y, 2))
+        }
+    }
+
+    let point1 = Point(x: 0, y: 0)
+    let point2 = Point(x: 3, y: 4)
+    print(point1.distance(to: point2))
+
+    // Protocol example
+    protocol Drawable {
+        func draw()
+    }
+
+    class Circle: Drawable {
+        func draw() {
+            print("Drawing a circle")
+        }
+    }
+
+rust:
+  - |
+    fn main() {
+        println!("Hello Rust!");
+        
+        // Ownership example
+        let s1 = String::from("hello");
+        let s2 = s1; // s1 is moved to s2
+        println!("{}", s2);
+        
+        // Pattern matching
+        let number = Some(5);
+        match number {
+            Some(n) if n < 0 => println!("Negative"),
+            Some(n) if n > 0 => println!("Positive"),
+            Some(0) => println!("Zero"),
+            None => println!("No number"),
+            _ => (),
+        }
+    }
+
+    // Struct with implementation
+    struct Rectangle {
+        width: u32,
+        height: u32,
+    }
+
+    impl Rectangle {
+        fn area(&self) -> u32 {
+            self.width * self.height
+        }
+        
+        fn square(size: u32) -> Rectangle {
+            Rectangle {
+                width: size,
+                height: size,
+            }
+        }
+    }
+
+kotlin:
+  - |
+    fun main() {
+        println("Hello Kotlin!")
+        
+        // Null safety
+        var nullableString: String? = null
+        println(nullableString?.length ?: "String is null")
+        
+        // Data class
+        data class User(val name: String, val age: Int)
+        val user = User("Alice", 30)
+        println(user)
+        
+        // Extension function
+        fun String.addExcitement(): String = "$this!"
+        println("Hello".addExcitement())
+    }
+
+    // Higher-order function
+    fun calculate(a: Int, b: Int, operation: (Int, Int) -> Int): Int {
+        return operation(a, b)
+    }
+
+    val result = calculate(10, 5) { x, y -> x + y }
+    println(result)
+
+typescript:
+  - |
+    // Type annotations
+    interface User {
+        id: number;
+        name: string;
+        email: string;
+    }
+
+    function createUser(user: User): User {
+        return {
+            ...user,
+            id: Date.now()
+        };
+    }
+
+    // Generic function
+    function identity<T>(arg: T): T {
+        return arg;
+    }
+
+    // Async/await with types
+    async function getUserData(userId: number): Promise<User> {
+        const response = await fetch(`/api/users/${userId}`);
+        const data = await response.json();
+        return data as User;
+    }
+
+    // Class with access modifiers
+    class Animal {
+        private name: string;
+        
+        constructor(name: string) {
+            this.name = name;
+        }
+        
+        public speak(): void {
+            console.log(`${this.name} makes a sound`);
+        }
+    }
+
+sql:
+  - |
+    -- Basic SELECT
+    SELECT * FROM users WHERE age > 18;
+
+    -- JOIN example
+    SELECT u.name, o.order_date, o.total_amount
+    FROM users u
+    INNER JOIN orders o ON u.id = o.user_id
+    WHERE u.country = 'USA';
+
+    -- Subquery
+    SELECT name, email
+    FROM users
+    WHERE id IN (
+        SELECT user_id FROM orders 
+        WHERE order_date > '2023-01-01'
+    );
+
+    -- Window function
+    SELECT 
+        name,
+        department,
+        salary,
+        AVG(salary) OVER (PARTITION BY department) as avg_department_salary
+    FROM employees;
+
+    -- CTE (Common Table Expression)
+    WITH top_customers AS (
+        SELECT user_id, SUM(total_amount) as total_spent
+        FROM orders
+        GROUP BY user_id
+        HAVING SUM(total_amount) > 1000
+    )
+    SELECT u.name, tc.total_spent
+    FROM users u
+    JOIN top_customers tc ON u.id = tc.user_id;
+
+haskell:
+  - |
+    -- Basic function
+    main = putStrLn "Hello Haskell!"
+
+    -- Recursive function
+    factorial :: Integer -> Integer
+    factorial 0 = 1
+    factorial n = n * factorial (n - 1)
+
+    -- List comprehension
+    squares = [x^2 | x <- [1..10], even x]
+
+    -- Type class example
+    data Tree a = Empty | Node a (Tree a) (Tree a)
+
+    instance Show a => Show (Tree a) where
+        show Empty = "Empty"
+        show (Node val left right) = 
+            "Node " ++ show val ++ " (" ++ show left ++ ") (" ++ show right ++ ")"
+
+    -- Higher-order functions
+    map' :: (a -> b) -> [a] -> [b]
+    map' _ [] = []
+    map' f (x:xs) = f x : map' f xs
+
+scala:
+  - |
+    object HelloWorld {
+      def main(args: Array[String]): Unit = {
+        println("Hello Scala!")
+        
+        // Case class
+        case class Person(name: String, age: Int)
+        val alice = Person("Alice", 25)
+        
+        // Pattern matching
+        alice match {
+          case Person("Alice", 25) => println("It's Alice!")
+          case Person(name, age) => println(s"Name: $name, Age: $age")
+        }
+        
+        // Higher-order function
+        val numbers = List(1, 2, 3, 4, 5)
+        val doubled = numbers.map(_ * 2)
+        println(doubled)
+      }
+    }
+
+    // Trait example
+    trait Greeter {
+      def greet(name: String): String
+    }
+
+    class FormalGreeter extends Greeter {
+      def greet(name: String): String = s"Good day, $name"
+    }
+
+perl:
+  - |
+    #!/usr/bin/perl
+    use strict;
+    use warnings;
+
+    # Basic print
+    print "Hello Perl!\n";
+
+    # Hash example
+    my %employee = (
+        name => "John Doe",
+        age => 30,
+        department => "IT"
+    );
+
+    while (my ($key, $value) = each %employee) {
+        print "$key: $value\n";
+    }
+
+    # Regular expression
+    my $text = "The quick brown fox jumps over the lazy dog";
+    if ($text =~ /fox/) {
+        print "Found fox!\n";
+    }
+
+    # Subroutine
+    sub calculate_tax {
+        my ($income, $rate) = @_;
+        return $income * $rate / 100;
+    }
+
+    my $tax = calculate_tax(50000, 20);
+    print "Tax: $tax\n";
+
+lua:
+  - |
+    -- Basic print
+    print("Hello Lua!")
+
+    -- Table example
+    local person = {
+        name = "Alice",
+        age = 25,
+        greet = function(self)
+            return "Hello, " .. self.name
+        end
+    }
+
+    print(person:greet())
+
+    -- Metatable example
+    local vector = {}
+    vector.__add = function(a, b)
+        return {x = a.x + b.x, y = a.y + b.y}
+    end
+
+    local v1 = {x = 1, y = 2}
+    local v2 = {x = 3, y = 4}
+    setmetatable(v1, vector)
+    setmetatable(v2, vector)
+
+    local v3 = v1 + v2
+    print("Vector sum: " .. v3.x .. ", " .. v3.y)
+
+    -- Coroutine
+    local co = coroutine.create(function()
+        for i = 1, 3 do
+            print("Coroutine: " .. i)
+            coroutine.yield()
+        end
+    end)
+
+    coroutine.resume(co)
+    coroutine.resume(co)
+
+dart:
+  - |
+    void main() {
+      print('Hello Dart!');
+      
+      // Async/await
+      fetchData().then((data) {
+        print('Data: $data');
+      });
+      
+      // Collection if and for
+      var numbers = [1, 2, 3];
+      var doubled = [
+        for (var number in numbers) number * 2,
+        if (numbers.length > 2) 100
+      ];
+      print(doubled);
+      
+      // Class with named constructor
+      var point = Point.origin();
+      print(point);
+    }
+
+    Future<String> fetchData() async {
+      await Future.delayed(Duration(seconds: 1));
+      return 'Fetched data';
+    }
+
+    class Point {
+      final double x;
+      final double y;
+      
+      Point(this.x, this.y);
+      
+      Point.origin() : x = 0, y = 0;
+      
+      @override
+      String toString() => 'Point($x, $y)';
+    }
+
+elixir:
+  - |
+    # Basic IO
+    IO.puts "Hello Elixir!"
+
+    # Pattern matching
+    {a, b} = {1, 2}
+    [head | tail] = [1, 2, 3, 4]
+
+    IO.puts "Head: #{head}, Tail: #{inspect(tail)}"
+
+    # Pipe operator
+    result = 1..10
+      |> Enum.map(&(&1 * 2))
+      |> Enum.filter(&(rem(&1, 3) == 0))
+      |> Enum.sum()
+
+    IO.puts "Result: #{result}"
+
+    # Process example
+    defmodule Counter do
+      def start(initial_value) do
+        spawn(fn -> loop(initial_value) end)
+      end
+      
+      defp loop(value) do
+        receive do
+          {:get, caller} ->
+            send(caller, {:value, value})
+            loop(value)
+          {:increment} ->
+            loop(value + 1)
+        end
+      end
+    end
+
+clojure:
+  - |
+    ;; Basic print
+    (println "Hello Clojure!")
+
+    ;; Function definition
+    (defn factorial [n]
+      (if (<= n 1)
+        1
+        (* n (factorial (dec n)))))
+
+    ;; Map and reduce
+    (def numbers [1 2 3 4 5])
+    (def squared (map #(* % %) numbers))
+    (def sum (reduce + numbers))
+
+    (println "Squared:" squared)
+    (println "Sum:" sum)
+
+    ;; Macro example
+    (defmacro unless [condition & body]
+      `(if (not ~condition)
+        (do ~@body)))
+
+    (unless false (println "This will print"))
+
+powershell:
+  - |
+    # Basic output
+    Write-Host "Hello PowerShell!"
+
+    # Function with parameters
+    function Get-FileInfo {
+        param(
+            [string]$Path,
+            [switch]$Recursive
+        )
+        
+        if ($Recursive) {
+            Get-ChildItem -Path $Path -Recurse -File
+        } else {
+            Get-ChildItem -Path $Path -File
+        }
+    }
+
+    # Pipeline example
+    Get-Process | Where-Object { $_.CPU -gt 100 } | Sort-Object CPU -Descending
+
+    # Hash table
+    $employee = @{
+        Name = "John Doe"
+        Department = "IT"
+        Age = 30
+    }
+
+    foreach ($key in $employee.Keys) {
+        Write-Host "$key : $($employee[$key])"
+    }
+
+    # Error handling
+    try {
+        Get-Content "nonexistent.txt" -ErrorAction Stop
+    }
+    catch {
+        Write-Host "Error: $($_.Exception.Message)"
+    }
+
+groovy:
+  - |
+    // Basic output
+    println "Hello Groovy!"
+
+    // Closure example
+    def numbers = [1, 2, 3, 4, 5]
+    def doubled = numbers.collect { it * 2 }
+    println "Doubled: $doubled"
+
+    // String interpolation
+    def name = "Alice"
+    def age = 25
+    println "Name: $name, Age: $age"
+
+    // JSON handling
+    import groovy.json.JsonOutput
+    def person = [name: "John", age: 30, hobbies: ["reading", "swimming"]]
+    def json = JsonOutput.toJson(person)
+    println "JSON: $json"
+
+    // DSL example
+    def html = html {
+        head {
+            title("My Page")
+        }
+        body {
+            h1("Welcome!")
+            p("This is a paragraph")
+        }
+    }
+
+fortran:
+  - |
+    program hello
+        implicit none
+        character(len=20) :: name
+        integer :: i
+        
+        ! Basic output
+        print *, 'Hello Fortran!'
+        
+        ! Array operations
+        integer, dimension(5) :: numbers = [1, 2, 3, 4, 5]
+        integer, dimension(5) :: squares
+        
+        do i = 1, 5
+            squares(i) = numbers(i)**2
+        end do
+        
+        print *, 'Squares: ', squares
+        
+        ! Function example
+        print *, 'Factorial of 5: ', factorial(5)
+        
+    contains
+        recursive function factorial(n) result(res)
+            integer, intent(in) :: n
+            integer :: res
+            
+            if (n <= 1) then
+                res = 1
+            else
+                res = n * factorial(n-1)
+            end if
+        end function factorial
+        
+    end program hello
+
+prolog:
+  - |
+    % Basic fact and rule
+    parent(john, mary).
+    parent(mary, anne).
+    parent(mary, tom).
+
+    grandparent(X, Z) :- parent(X, Y), parent(Y, Z).
+
+    % Query: grandparent(john, Who).
+
+    % List processing
+    member(X, [X|_]).
+    member(X, [_|T]) :- member(X, T).
+
+    append([], L, L).
+    append([H|T], L, [H|R]) :- append(T, L, R).
+
+    % Arithmetic
+    factorial(0, 1).
+    factorial(N, Result) :- 
+        N > 0, 
+        N1 is N - 1, 
+        factorial(N1, Result1), 
+        Result is N * Result1.
+
+    % Pattern matching
+    sum_list([], 0).
+    sum_list([H|T], Sum) :- 
+        sum_list(T, TailSum), 
+        Sum is H + TailSum.
