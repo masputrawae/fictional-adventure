@@ -1,0 +1,27 @@
+{{- $respSizes := slice "320" "640" "960" "1280" "1600" "1920" -}}
+{{- $src := resources.Get "images/hero-image.jpeg" -}}
+{{- $sizes := "(min-width: 1024px) 100vw, 50vw" -}}
+
+<picture class="hero">
+  <source type="image/webp" srcset="
+  {{- range $i, $e := $respSizes -}}
+    {{- if ge $src.Width . -}}
+      {{- if $i }}, {{ end -}}{{ ($src.Resize (print . "x webp")).RelPermalink }} {{ . }}w
+    {{- end -}}
+  {{- end -}}" sizes="{{ $sizes }}" />
+  
+  <source type="image/jpeg" srcset="
+  {{- range $i, $e := $respSizes -}}
+    {{- if ge $src.Width . -}}
+      {{- if $i }}, {{ end -}}{{ ($src.Resize (print . "x jpg")).RelPermalink }} {{ . }}w
+    {{- end -}}
+  {{- end -}}" sizes="{{ $sizes }}" />
+  
+  <img 
+    class="hero__image" 
+    src="{{ ($src.Resize "640x jpg").RelPermalink }}" 
+    width="{{ $src.Width }}" 
+    height="{{ $src.Height }}" 
+    loading="lazy"
+    aria-hidden="true" />
+</picture>

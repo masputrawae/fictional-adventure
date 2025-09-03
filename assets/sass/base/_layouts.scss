@@ -15,6 +15,9 @@ body {
   );
   font-size: 16px;
   font-family: v.$font-sans;
+}
+
+body {
   background-color: var(--background-base);
   color: var(--color-base);
 }
@@ -61,7 +64,7 @@ body {
 
   position: fixed;
   inset-inline-start: 0;
-  inset-inline-end: 0;
+  inset-block-start: 0;
 
   padding-inline: 1em;
   z-index: 100;
@@ -71,10 +74,10 @@ body {
     font-size: v.$fs-6xl;
     font-family: v.$font-serif;
     color: var(--color-second);
+    font-weight: 700;
   }
 }
 
 .site-main {
-  padding-block-start: 4em;
-  padding-inline: 1em;
+  margin-block-start: 4em;
 }

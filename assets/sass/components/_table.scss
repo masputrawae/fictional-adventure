@@ -1,0 +1,48 @@
+@use "../abstracts/breakpoints" as b;
+@use "../abstracts/mixins" as m;
+@use "../abstracts/variables" as v;
+
+.table-container {
+  display: flow-root;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: auto;
+  margin: 1.5em 0;
+  border-radius: 0.25em;
+  border: 1px dotted var(--border-base);
+  border-block-end: none;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 65ch;
+  background-color: var(--background-base);
+}
+
+thead {
+  background-color: var(--background-second);
+}
+
+th {
+  text-align: start;
+  padding: 1em 1.5em;
+  font-weight: 600;
+  color: var(--color-second);
+  border-block-end: 1px dotted var(--border-base);
+  white-space: nowrap;
+}
+
+td {
+  padding: 1em 1.5em;
+  border-block-end: 1px dotted var(--border-base);
+  color: var(--color-third);
+  white-space: nowrap;
+}
+
+tbody tr:hover {
+  background-color: var(--background-second);
+}
+
+tbody tr:nth-child(even) {
+  background-color: var(--background-second);
+}

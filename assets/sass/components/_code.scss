@@ -1,0 +1,84 @@
+@use "../abstracts/breakpoints" as b;
+@use "../abstracts/mixins" as m;
+@use "../abstracts/variables" as v;
+
+:is(pre, code, kbd) {
+  font-family: v.$font-mono;
+}
+
+code:not(pre code) {
+  font-size: v.$fs-sm;
+  background-color: var(--background-second);
+  padding-inline: 0.25em;
+  border-radius: 0.25em;
+}
+
+.highlight {
+  position: relative;
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: plaintext;
+  display: flow-root;
+
+  pre {
+    padding: 0.75em;
+    margin-block: 1em;
+    background-color: var(--background-second);
+    border: 1px dotted var(--border-base);
+    box-shadow: var(--shadow-sm);
+    overflow-x: auto;
+  }
+}
+
+.chroma {
+  .lnlinks {
+    outline: none;
+    text-decoration: none;
+    color: inherit;
+  }
+  :is(.lntd, .lntable) {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    vertical-align: top;
+    border-spacing: 0;
+  }
+
+  :is(.lnt, .ln) {
+    white-space: pre;
+    -webkit-user-select: none;
+    user-select: none;
+    margin-right: 0.4em;
+    padding: 0 0.4em 0 0.4em;
+  }
+
+  :is(
+    .nc,
+    .no,
+    .nd,
+    .ne,
+    .nl,
+    .nf,
+    .fm,
+    .o,
+    .ow,
+    .cs,
+    .cp,
+    .cpf,
+    .gs,
+    .gh,
+    .gu
+  ) {
+    font-weight: 700;
+    color: var(--color-second);
+  }
+  :is(.c, .ch, .cm, .c1, .cs, .cp, .cpf, .ge) {
+    font-style: italic;
+  }
+  .gl {
+    text-decoration: underline;
+  }
+  .line {
+    display: flex;
+  }
+}

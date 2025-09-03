@@ -11,7 +11,8 @@
   word-break: normal;
   overflow-wrap: anywhere;
   hyphens: auto;
-
+  padding-inline: 1em;
+  
   h1,
   h2,
   h3,
@@ -51,29 +52,6 @@
   a {
     text-decoration: underline dotted 1px;
     color: var(--color-second);
-
-    &.footnote-ref {
-      margin-inline-start: 0.1em;
-      text-decoration: underline solid;
-
-      &::before {
-        content: "[";
-      }
-      &::after {
-        content: "]";
-      }
-    }
-
-    &:hover,
-    &:focus-visible,
-    &:active {
-      color: var(--color-third);
-    }
-
-    &:focus-visible {
-      outline: dotted 1px;
-      text-decoration: none;
-    }
   }
 
   b,
@@ -113,6 +91,24 @@
     padding-inline-start: 2em;
   }
 
+  dl {
+    margin-block: 1.75em;
+  }
+
+  dt {
+    padding-block-end: 0.25em;
+    color: var(--color-second);
+    border-block-end: 1px dotted var(--border-base);
+    font-weight: 600;
+  }
+
+  dd {
+    margin: 0.5em;
+    padding-inline-start: 1em;
+    color: var(--third-color);
+    border-inline-start: 3px solid var(--color-second);
+  }
+
   hr {
     margin-block: 3em;
     display: flow-root;
@@ -121,175 +117,40 @@
     background-color: var(--border-second);
   }
 
-  :is(pre, code, kbd) {
-    font-family: v.$font-mono;
-  }
-
-  code:not(pre code) {
-    font-size: v.$fs-sm;
-    background-color: var(--background-second);
-    padding-inline: 0.25em;
-    border-radius: 0.25em;
-  }
-
-  .highlight {
-    position: relative;
-    direction: ltr;
-    text-align: left;
-    unicode-bidi: plaintext;
-    display: flow-root;
-
-    pre {
-      padding: 0.75em;
-      margin-block: 1em;
-      background-color: var(--background-second);
-      border: 1px dotted var(--border-base);
-      box-shadow: var(--shadow-sm);
-      overflow-x: auto;
-    }
-  }
-
-  .chroma {
-    .lnlinks {
-      outline: none;
-      text-decoration: none;
-      color: inherit;
-    }
-    :is(.lntd, .lntable) {
-      padding: 0;
-      margin: 0;
-      border: 0;
-      vertical-align: top;
-      border-spacing: 0;
-    }
-
-    :is(.lnt, .ln) {
-      white-space: pre;
-      -webkit-user-select: none;
-      user-select: none;
-      margin-right: 0.4em;
-      padding: 0 0.4em 0 0.4em;
-    }
-
-    :is(
-      .nc,
-      .no,
-      .nd,
-      .ne,
-      .nl,
-      .nf,
-      .fm,
-      .o,
-      .ow,
-      .cs,
-      .cp,
-      .cpf,
-      .gs,
-      .gh,
-      .gu
-    ) {
-      font-weight: 700;
-      color: var(--color-second);
-    }
-    :is(.c, .ch, .cm, .c1, .cs, .cp, .cpf, .ge) {
-      font-style: italic;
-    }
-    .gl {
-      text-decoration: underline;
-    }
-    .line {
-      display: flex;
-    }
-  }
-
-  .table-container {
-    display: flow-root;
-    -webkit-overflow-scrolling: touch;
-    overflow-x: auto;
-    margin: 1.5em 0;
-    border-radius: 0.25em;
+  img {
+    padding: 0.5em;
     border: 1px dotted var(--border-base);
-    border-block-end: none;
+    border-radius: 0.25em;
+    box-shadow: var(--shadow-sm);
+
+    + img {
+      margin-block: 1em;
+    }
   }
 
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    min-width: 65ch;
-    background-color: var(--background-base);
-  }
-
-  thead {
-    background-color: var(--background-second);
-  }
-
-  th {
-    text-align: start;
-    padding: 1em 1.5em;
-    font-weight: 600;
-    color: var(--color-second);
-    border-block-end: 1px dotted var(--border-base);
-    white-space: nowrap;
-  }
-
-  td {
-    padding: 1em 1.5em;
-    border-block-end: 1px dotted var(--border-base);
+  blockquote {
+    letter-spacing: 0.025em;
+    margin-block: 1.5em;
+    padding-inline-start: 1em;
     color: var(--color-third);
-    white-space: nowrap;
-  }
+    border-inline-start-width: 0.25em;
+    border-inline-start-color: var(--border-third);
+    quotes: "“" "”" "‘" "’";
+    font-style: italic;
+    font-family: v.$font-serif;
+    font-weight: 600;
 
-  tbody tr:hover {
-    background-color: var(--background-second);
-  }
-
-  tbody tr:nth-child(even) {
-    background-color: var(--background-second);
-  }
-
-  // FOOTNOTE
-  .footnote-ref {
-    font-size: v.$fs-xl;
-    text-decoration: none;
-    &::before {
-      content: "[";
+    p:first-of-type::before {
+      content: open-quote;
     }
 
-    &::after {
-      content: "]";
-    }
-  }
-
-  .footnotes {
-    margin-block-start: 6em;
-
-    &::before {
-      content: "References";
-      display: block;
-      font-size: v.$fs-8xl;
-      border-block-end: 1px dotted var(--border-base);
-      color: var(--color-second);
-      line-height: 1.75;
-      font-family: v.$font-serif;
+    p:last-of-type::after {
+      content: close-quote;
     }
 
-    hr {
-      display: none;
-    }
-
-    p {
-      margin: 0;
-    }
-
-    @include b.min(md) {
-      ol {
-        column-count: 2;
-      }
-
-      li {
-        break-inside: avoid;
-        margin-inline: 1em;
-      }
+    p:first-of-type::before,
+    p:last-of-type::after {
+      font-size: v.$fs-2xl;
     }
   }
 }

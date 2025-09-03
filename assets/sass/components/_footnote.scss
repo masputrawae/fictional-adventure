@@ -1,0 +1,59 @@
+@use "../abstracts/breakpoints" as b;
+@use "../abstracts/mixins" as m;
+@use "../abstracts/variables" as v;
+
+// FOOTNOTE
+.footnote-ref {
+  margin-inline-start: 0.1em;
+  text-decoration: underline solid;
+  &::before {
+    content: "[";
+  }
+
+  &::after {
+    content: "]";
+  }
+  &:hover,
+  &:focus-visible,
+  &:active {
+    color: var(--color-third);
+  }
+
+  &:focus-visible {
+    outline: dotted 1px;
+    text-decoration: none;
+  }
+}
+
+.footnotes {
+  margin-block-start: 6em;
+
+  &::before {
+    content: "References";
+    display: block;
+    font-size: v.$fs-8xl;
+    border-block-end: 1px dotted var(--border-base);
+    color: var(--color-second);
+    line-height: 1.75;
+    font-family: v.$font-serif;
+  }
+
+  hr {
+    display: none;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  @include b.min(md) {
+    ol {
+      column-count: 2;
+    }
+
+    li {
+      break-inside: avoid;
+      margin-inline: 1em;
+    }
+  }
+}
