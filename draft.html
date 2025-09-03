@@ -1,0 +1,83 @@
+<div class="tab">
+  {{ $categories := site.Taxonomies.categories }}
+  <div class="tab__control">
+    <div class="tab__control-label tab__control-label--start">Categories</div>
+    <div class="tab__control-wrapper">
+      <button class="tab__btn tab__btn--is-active" id="showAllContent">
+        Show All
+      </button>
+      {{ range $name, $taxonomy := $categories }}
+        <button class="tab__btn" data-categories="for-{{ $name | md5 }}">
+          {{ $name }}
+        </button>
+      {{ end }}
+    </div>
+    <div class="tab__control-label tab__control-label--end">Categories</div>
+  </div>
+  <h2 class="tab__title tab__title--main">All Content</h2>
+  <div class="tab__contents">
+    {{ range $name, $taxonomy := $categories }}
+      <div class="tab__item" id="for-{{ $name | md5 }}">
+        <h2 class="tab__title tab__title--category">{{ $name }}</h2>
+        {{ range $taxonomy.Pages }}
+          {{ $title := .Title }}
+          <section class="card">
+            <div class="card__header">
+              {{ $img := .Params.images }}
+              {{ if $img }}
+                {{ range $img | first 1 }}
+                  <img
+                    src="{{ . }}"
+                    alt="Image In {{ $title }}"
+                    class="card__img" />
+                {{ end }}
+              {{ end }}
+              <a href="{{ .RelPermalink }}" class="card__title">{{ $title }}</a>
+            </div>
+            <div class="card__body">
+              {{ .Description | default .Summary | truncate 160 }}
+            </div>
+          </section>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const tabButtons = document.querySelectorAll(".tab__btn");
+    const tabItems = document.querySelectorAll(".tab__item");
+    const mainTitle = document.querySelector(".tab__title--main");
+    const categoryTitles = document.querySelectorAll(".tab__title--category");
+
+    tabButtons.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        // Reset tombol
+        tabButtons.forEach((b) => b.classList.remove("tab__btn--is-active"));
+        this.classList.add("tab__btn--is-active");
+
+        // Reset tampilan
+        tabItems.forEach((item) => (item.style.display = "none"));
+        mainTitle.style.display = "none";
+        categoryTitles.forEach((t) => (t.style.display = "none"));
+
+        if (this.id === "showAllContent") {
+          // Show all items, hide category titles, show only main title
+          tabItems.forEach((item) => (item.style.display = "block"));
+          mainTitle.style.display = "block";
+        } else {
+          // Show only target item & its category title
+          const targetId = this.getAttribute("data-categories");
+          const target = document.getElementById(targetId);
+          if (target) {
+            target.style.display = "block";
+            const title = target.querySelector(".tab__title--category");
+            if (title) title.style.display = "block";
+          }
+        }
+      });
+    });
+    // Default: Show All
+    document.getElementById("showAllContent").click();
+  });
+</script>

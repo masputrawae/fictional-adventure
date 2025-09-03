@@ -80,4 +80,95 @@ body {
 
 .site-main {
   margin-block-start: 4em;
+
+  &__content--home {
+    margin-block-start: 6em;
+  }
+}
+
+// SITE HOME PAGE
+.home-content {
+  border: 1px dotted var(--border-base);
+  padding: 1.5em;
+  text-align: center;
+
+  h1 {
+    margin: 0;
+    font-size: v.$fs-10xl;
+  }
+}
+
+.post-list {
+  column-width: 300px;
+  column-gap: 2em;
+
+  &__item {
+    display: inline-block;
+    break-inside: avoid;
+    margin-block-end: 2em;
+    break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+  }
+}
+
+.card {
+  font-size: 14px;
+  padding: 1em;
+  border: 1px dotted var(--border-base);
+  box-shadow: var(--shadow-sm);
+  background-color: var(--background-second);
+  border-radius: 0.25em;
+
+  &__img-container {
+    width: 100%;
+    overflow: hidden;
+  }
+
+  &__img {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  &__title {
+    border: none;
+    margin: 0;
+    a {
+      text-decoration: none;
+    }
+  }
+
+  &__body {
+    font-size: v.$fs-sm;
+  }
+}
+
+.pagination {
+  @include m.flex-justify(center, center);
+  flex-wrap: wrap;
+  gap: 1em;
+  border-block: 1px dashed var(--border-second);
+  padding-block: 2em;
+
+  &__link {
+    @include m.flex-justify(center, center);
+    text-decoration: none;
+    font-size: v.$fs-4xl;
+    padding: 0.25em 0.75em;
+    border: 1px solid var(--border-base);
+    border-radius: 0.25em;
+    color: var(--color-base);
+
+    &--is-active {
+      background-color: var(--background-second);
+      color: var(--color-second);
+    }
+
+    &--is-disabled {
+      color: var(--color-third);
+      cursor: not-allowed;
+    }
+  }
 }

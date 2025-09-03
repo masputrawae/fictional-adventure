@@ -1,5 +1,35 @@
 {{ define "main" }}
-  <article class="markdown">
-    {{ .Content }}
+  <article class="markdown site-main__content site-main__content--home">
+    <section class="home-content">
+      <h1>{{ site.Title }}</h1>
+      {{ .Content }}
+    </section>
   </article>
+  <div class="markdown site-main__content site-main__content--home">
+    <div class="post-list">
+      {{ range .Paginator.Pages }}
+        {{ $title := .LinkTitle }}
+        <article class="post-list__item">
+          <div class="card" onclick="window.location.href=`{{ .RelPermalink }}`">
+            <header class="card__header">
+              {{ if .Params.images }}
+                {{ with index .Params.images 0 }}
+                  <div class="card__img-container">
+                    <img src="{{ . | safeURL }}" alt="Image In {{ $title }}" class="card__img">
+                  </div>
+                {{ end }}
+              {{ end }}
+              <h2 class="card__title">
+                <a href="{{ .RelPermalink }}">{{ $title }}</a>
+              </h2>
+            </header>
+            <section class="card__body">
+              <p>{{ .Description | default .Summary | truncate 160 }}</p>
+            </section>
+          </div>
+        </article>
+      {{ end }}
+    </div>
+    {{ partial "components/pagination.html" (dict "page" . "format" "default") }}
+  </div>
 {{ end }}

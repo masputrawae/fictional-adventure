@@ -5,6 +5,13 @@ timeZone: Asia/Jakarta
 enableEmoji: true
 
 # enableGitInfo: true
+#===================
+# PAGINATION
+#===================
+pagination:
+  disableAliases: false
+  pagerSize: 10
+  path: page
 
 #===================
 # SERVICES

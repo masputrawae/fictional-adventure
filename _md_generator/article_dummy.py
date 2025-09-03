@@ -22,8 +22,8 @@ def load_yaml(file):
 
 # --- LOAD PLACEHOLDERS ---
 PLACEHOLDER_DIR = "./_md_generator/placeholders"
-TOTAL_POST_GEN = 5
-CONTENT_DIR = "content/posts"
+TOTAL_POST_GEN = 50
+CONTENT_DIR = "content/blog"
 
 title_words = load_yaml(f"{PLACEHOLDER_DIR}/title_words.yaml")
 categories = load_yaml(f"{PLACEHOLDER_DIR}/categories.yaml")
@@ -140,7 +140,7 @@ def generate_posts(total_posts=10):
               "description": description,
               "categories": [category],
               "tags": post_tags,
-              "images": ["https://placehold.co/120x320"],
+              "images": ["https://placehold.co/1980x1080"],
               "draft": False,
           }
           f.write("---\n")

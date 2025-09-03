@@ -1,5 +1,9 @@
 ---
 title: Typography
+tags:
+  - coba_coba
+  - coba_coba_2
+  - coba_coba_3
 ---
 Labore tempor consequat pariatur qui id minim sunt anim commodo tempor officia mollit Lorem sint. Commodo esse est est mollit duis enim labore labore. Amet ea cillum eiusmod do sit ad dolore voluptate ea Lorem culpa enim.
 
