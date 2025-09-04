@@ -1,33 +1,4 @@
 {{ define "main" }}
-  {{ $title := .Title }}
-  <section class="page-header">
-    {{ if .Params.images }}
-      {{ with index .Params.images 0 }}
-        <h1 class="page-header__title--with-img">{{ $title }}</h1>
-        <div class="page-header__img-container">
-          <img
-            src="{{ . | safeURL }}"
-            alt="Image In {{ $title }}"
-            class="page-header__img" />
-        </div>
-      {{ end }}
-    {{ else }}
-    <h1 class="page-header__title">{{ $title }}</h1>
-    {{ end }}
-    <ul class="page-meta">
-      <li class="page-meta__item">
-        <strong>{{ partial "components/icon.html" (dict "name" "calendar") }} Published: </strong>
-        <time datetime="{{ .Date | time.Format "2006-01-02T15:04:05-07:00" }}">{{ .Date | time.Format "2006 January 02" }}</time>
-      </li>
-      <li class="page-meta__item">
-        <strong>{{ partial "components/icon.html" (dict "name" "clock-history") }} Last Modified: </strong>
-        <time datetime="{{ .Date | time.Format "2006-01-02T15:04:05-07:00" }}">{{ .Lastmod | time.Format "2006 January 02" }}</time>
-      </li>
-      {{ partial "components/terms.html" (dict "taxonomy" "tags" "page" .) }}
-      {{ partial "components/terms.html" (dict "taxonomy" "categories" "page" .) }}
-    </ul>
-  </section>
-  <section>
-    {{ .Content }}
-  </section>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
 {{ end }}

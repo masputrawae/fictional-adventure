@@ -16,6 +16,10 @@
     font-size: v.$fs-5xl;
     font-family: v.$font-serif;
     font-style: normal;
+    text-shadow: var(--text-shadow-subtle);
+
+    &:hover {
+      text-shadow: var(--text-shadow-medium);
+    }
   }
 }
-

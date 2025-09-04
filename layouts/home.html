@@ -5,7 +5,6 @@
   {{ if eq $paginator.PageNumber 1 }}
     <h1>{{ .Title }}</h1>
     {{ .Content }}
-    <hr />
     <em
       style="border-block-end: 1px solid var(--border-accent); width: 100%; display: block; margin-bottom: 1em;">
       Last Build On:
@@ -37,7 +36,7 @@
             </h2>
           </header>
           <div class="featured__body">
-            {{ .Content }}
+            {{ .Summary }}
           </div>
           <footer
             class="featured__footer"

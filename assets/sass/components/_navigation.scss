@@ -12,6 +12,11 @@
     border-bottom: 1px solid var(--border-primary);
     color: var(--text-primary);
     margin-block: 0 1em;
+    text-shadow: var(--text-shadow-subtle);
+
+    &:hover {
+      text-shadow: var(--text-shadow-medium);
+    }
   }
 
   &__link {
@@ -23,6 +28,7 @@
     padding: 0.15em;
     margin-block: 0.25em;
     margin-inline-start: 1em;
+    text-shadow: var(--text-shadow-subtle);
     cursor: pointer;
 
     &::before,
@@ -52,6 +58,7 @@
 
     &--is-active {
       color: var(--text-primary);
+      text-shadow: var(--text-shadow-medium);
 
       &::after {
         width: 100%;

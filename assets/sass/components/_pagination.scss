@@ -13,25 +13,20 @@
     @include m.flex-justify(center, center);
     @include m.size(v.$fs-5xl);
     text-decoration: none;
-    font-size: v.$fs-4xl;
-    border-radius: 50%;
-    border: 3px solid transparent;
+    font-size: v.$fs-2xl;
+    font-family: v.$font-serif;
     cursor: pointer;
+    color: var(--text-tertiary);
 
     &--is-active {
       color: var(--text-primary);
-      border-inline-end-color: var(--text-primary);
-      border-inline-start-color: var(--text-primary);
-
-      &:hover {
-        border-inline-end-color: var(--text-muted);
-      border-inline-start-color: var(--text-muted);
-      }
+      font-weight: 700;
+      font-size: v.$fs-6xl;
     }
 
     &--is-disabled {
-      color: var(--text-muted);
       cursor: not-allowed;
+      color: var(--text-muted);
     }
   }
 }

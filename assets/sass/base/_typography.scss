@@ -20,11 +20,18 @@
   h4,
   h5,
   h6 {
+    @include m.transition(all);
     line-height: 1.75;
     color: var(--text-primary);
     font-weight: 700;
     text-transform: capitalize;
     width: 100%;
+    margin-block: 1em 1.5em;
+    text-shadow: var(--text-shadow-subtle);
+
+    &:hover {
+      text-shadow: var(--text-shadow-medium);
+    }
   }
 
   h1,
@@ -33,7 +40,6 @@
     font-family: v.$font-serif;
     border-block-end: 1px solid var(--border-primary);
     letter-spacing: 0.05em;
-    margin-block: 1em 1.5em;
   }
 
   h1 {
@@ -63,8 +69,7 @@
   }
 
   a {
-    text-decoration: underline solid var(--text-muted);
-    color: var(--text-primary);
+    text-decoration: underline solid;
     text-underline-offset: 2px;
 
     &:hover {

@@ -14,10 +14,6 @@
   &:hover {
     background-color: var(--background-tertiary);
     box-shadow: var(--shadow-subtle);
-
-    .featured__img {
-      scale: 1.1;
-    }
   }
 }
 
@@ -39,7 +35,6 @@
   }
 
   &__title {
-    border: none;
     margin: 0;
     a {
       text-decoration: none;
@@ -64,17 +59,7 @@
 
   @include b.min(md) {
     @include m.transition(all);
-    font-size: 14px;
-    padding: 1em;
-    border: 1px solid var(--border-primary);
-    box-shadow: var(--shadow-subtle);
-    background-color: var(--background-secondary);
-    border-radius: 0.15em;
-
     &:hover {
-      background-color: var(--background-tertiary);
-      box-shadow: var(--shadow-subtle);
-
       .featured__img {
         scale: 1.1;
       }
