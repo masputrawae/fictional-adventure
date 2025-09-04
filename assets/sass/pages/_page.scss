@@ -1,0 +1,49 @@
+@use "../abstracts/variables" as v;
+@use "../abstracts/mixins" as m;
+
+.page-header {
+  &__img-container {
+    margin-top: 2em;
+    aspect-ratio: 16/9;
+    overflow: hidden;
+  }
+
+  &__img {
+    width: 100%;
+    object-fit: cover;
+  }
+
+  &__title {
+    margin-block: 1.5em 0em;
+    
+    &--with-img {
+      margin-block: 1em 0em;
+    }
+  }
+}
+
+.page-meta {
+  list-style: none;
+  border-block-end: 1px solid var(--border-primary);
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  &__item {
+    @include m.flex-justify(start, center);
+    gap: 0.5em;
+
+    strong {
+      @include m.flex-justify(start, center);
+      gap: 0.5em;
+    }
+
+    time,
+    a {
+      color: var(--text-muted);
+
+      &:hover {
+        color: var(--text-primary);
+      }
+    }
+  }
+}

@@ -1,23 +1,31 @@
 {{- /*
-For a given taxonomy, renders a list of terms assigned to the page.
+  For a given taxonomy, renders a list of terms assigned to the page.
 
-@context {page} page The current page.
-@context {string} taxonomy The taxonomy.
+  @context {page} page The current page.
+  @context {string} taxonomy The taxonomy.
 
-@example: {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  @example: {{ partial "terms.html" (dict "taxonomy" "tags" "page" .)
+}}
 */}}
-
 {{- $page := .page }}
 {{- $taxonomy := .taxonomy }}
-
-{{- with $page.GetTerms $taxonomy }}
-  {{- $label := (index . 0).Parent.LinkTitle }}
-  <div>
-    <div>{{ $label }}:</div>
-    <ul>
-      {{- range . }}
-        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-      {{- end }}
-    </ul>
-  </div>
+{{- $terms := $page.GetTerms $taxonomy }}
+{{- with $terms }}
+  <li class="page-meta__item">
+    <strong>
+      {{ if eq $taxonomy "tags" }}
+        {{ partial "components/icon.html" (dict "name" "tags") }}
+      {{ else if eq $taxonomy "categories" }}
+        {{ partial "components/icon.html" (dict "name" "grid-fill") }}
+      {{ end }}
+      {{- $label := (index . 0).Parent.LinkTitle }}
+      {{ $label }}:
+    </strong>
+    {{- range $i, $term := $terms }}
+      <span>
+        <a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a
+        >{{ if lt (add $i 1) (len $terms) }}, {{ end }}
+      </span>
+    {{- end }}
+  </li>
 {{- end }}
