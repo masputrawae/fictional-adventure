@@ -21,8 +21,9 @@
 
   &__link {
     @include m.transition(all);
+    @include m.flex-justify(start, center);
+    gap: 0.5em;
     position: relative;
-    display: block;
     color: var(--text-muted);
     font-size: v.$fs-sm;
     padding: 0.15em;
@@ -30,6 +31,10 @@
     margin-inline-start: 1em;
     text-shadow: var(--text-shadow-subtle);
     cursor: pointer;
+
+    input[type="radio"] {
+      display: none;
+    }
 
     &::before,
     &::after {

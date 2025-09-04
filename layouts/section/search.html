@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <div class="search" data-search="{{ "search.json" | relURL }}">
+    <label class="search__label">
+      <span class="sr-only">Search</span>
+      {{ partial "components/icon.html" (dict "name" "search" "class" "search__icon" "width" 18 "height" 18) }}
+      <input
+        type="search"
+        name="searchInput"
+        id="searchInput"
+        class="search__input"
+        placeholder="Search..."
+        autocomplete="off" />
+    </label>
+  </div>
+
+  <div class="results" id="searchContainerResults" hidden>
+    <section class="multi-column" id="results" aria-live="polite"></section>
+  </div>
+{{ end }}

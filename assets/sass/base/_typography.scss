@@ -44,7 +44,7 @@
 
   h1 {
     font-size: v.$fs-5xl;
-    &:has(+ p){
+    &:has(+ p) {
       margin-bottom: 0em;
     }
   }
@@ -180,6 +180,49 @@
     p:first-of-type::before,
     p:last-of-type::after {
       font-size: v.$fs-2xl;
+    }
+  }
+
+  .callout {
+    border: 1px solid var(--border-primary);
+    background-color: var(--background-secondary);
+    display: flow-root;
+    box-shadow: var(--shadow-subtle);
+
+    &__header {
+      @include m.flex-justify(start, center);
+      gap: 0.5em;
+      padding: 0.5em 0.75em;
+      margin-block-end: -1px;
+      color: var(--text-primary);
+    }
+
+    &__title {
+      color: var(--text-primary);
+      font-size: v.$fs-xl;
+      font-family: v.$font-serif;
+    }
+
+    &__body {
+      padding: 1em;
+    }
+  }
+
+  details {
+    border: 1px solid var(--border-primary);
+    border-radius: 0.25em;
+    background-color: var(--background-secondary);
+    padding: 0.5em 1em;
+    display: flow-root;
+    margin-block: 0.5em;
+    width: max-content;
+
+    summary {
+      @include m.flex-justify(start,center);
+      gap: 0.5em;
+      list-style: none;
+      cursor: pointer;
+      user-select: none;
     }
   }
 }

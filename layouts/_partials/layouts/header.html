@@ -1,6 +1,7 @@
 <div class="site-mobile-header">
   <a href="{{ site.BaseURL | relURL }}" class="site-mobile-header__title">{{ site.Title }}</a>
   <button data-sidebar="sidebar" class="site-mobile-header__btn-open">
+    <span class="sr-only">Open Sidebar</span>
     {{ partial "components/icon.html" (dict "name" "list" "size" 28 ) }}
   </button>
 </div>

@@ -5,10 +5,21 @@
   </a>
 
   {{- partial "components/menu.html" (dict "menuID" "main" "page" . "label" "Main Menu") }}
+  {{ partial "components/setting.html" (dict
+      "label" "Themes"
+      "name" "theme"
+      "checked" "auto"
+      "options" (slice
+          (dict "icon" "circle-half" "value" "auto" "text" "Auto")
+          (dict "icon" "sun" "value" "light" "text" "Light")
+          (dict "icon" "moon-stars" "value" "dark" "text" "Dark")
+      )
+  ) }}
   {{- partial "components/menu.html" (dict "menuID" "social" "page" . "label" "Social Media") }}
   {{- partial "components/menu.html" (dict "menuID" "footer" "page" . "label" "Personal") }}
 
   <button data-sidebar="sidebar" class="site-sidebar__btn-close">
+    <span class="sr-only">Close Sidebar</span>
     {{ partial "components/icon.html" (dict "name" "x" "size" 28 ) }}
   </button>
 </header>

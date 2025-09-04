@@ -1,4 +1,49 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+  {{ $pages := .Pages | shuffle }}
+  {{ $paginator := .Paginate $pages }}
+
+  {{ if eq $paginator.PageNumber 1 }}
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  {{ else }}
+    <h1>Page Number: ({{ $paginator.PageNumber }})</h1>
+  {{ end }}
+  <div class="multi-column multi-column--fluid-lg">
+    {{ range $paginator.Pages }}
+      {{ $title := .LinkTitle }}
+      <div class="multi-column__item">
+        <section
+          class="featured"
+          onclick="window.location.href=`{{ .RelPermalink }}`">
+          <header class="featured__header">
+            {{ if .Params.images }}
+              {{ with index .Params.images 0 }}
+                <div class="featured__img-container">
+                  <img
+                    src="{{ . | safeURL }}"
+                    alt="Image In {{ $title }}"
+                    class="featured__img" />
+                </div>
+              {{ end }}
+            {{ end }}
+            <h2 class="featured__title">
+              <a href="{{ .RelPermalink }}">{{ $title }}</a>
+            </h2>
+          </header>
+          <div class="featured__body">
+            {{ .Summary }}
+          </div>
+          <footer
+            class="featured__footer"
+            style="display: flex; justify-content: space-between; align-items: center;">
+            <time datetime="{{ .Date | time.Format "2006-01-02T15:04:05-07:00" }}" class="featured__time"
+              >{{ .Date | time.Format "2006 Jan 02" }}</time
+            >
+            <button class="featured__btn">Read More</button>
+          </footer>
+        </section>
+      </div>
+    {{ end }}
+  </div>
+  {{ partial "pagination.html" (dict "page" . "format" "default") }}
 {{ end }}

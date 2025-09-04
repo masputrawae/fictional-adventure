@@ -3,9 +3,12 @@
 @use "../abstracts/variables" as v;
 
 // FOOTNOTE
-.footnote-ref, .footnote-backref {
+.footnote-ref {
   margin-inline-start: 0.1em;
-  text-decoration: underline solid;
+  text-decoration: underline dotted;
+  font-size: v.$fs-base;
+  text-underline-offset: 0px;
+
   &::before {
     content: "[";
   }

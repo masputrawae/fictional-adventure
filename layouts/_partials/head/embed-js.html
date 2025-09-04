@@ -1,3 +1,13 @@
 <script>
-  
+  (async () => {
+    const elHtml = document.documentElement;
+    const systemTheme = window.matchMedia("(prefers-color-scheme: dark)")
+      .matches
+      ? "dark"
+      : "light";
+
+    const gtTheme = localStorage.getItem("site:theme");
+    if (!gtTheme) elHtml.dataset.theme = systemTheme;
+    else elHtml.dataset.theme = gtTheme === "auto" ? systemTheme : gtTheme;
+  })();
 </script>

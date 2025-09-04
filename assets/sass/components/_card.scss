@@ -45,12 +45,17 @@
     font-size: v.$fs-sm;
   }
 
+  &__footer {
+    @include m.flex-justify(space-between, center);
+  }
+
   &__time {
     color: var(--text-muted);
   }
 
   &__btn {
     color: var(--text-muted);
+    text-decoration: none;
 
     &:hover {
       color: var(--text-primary);

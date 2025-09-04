@@ -7,3 +7,10 @@ draft: false
 ---
 
 Sit fugiat velit aliqua tempor incididunt ullamco eiusmod. Proident ut est duis proident eu consectetur id sit consectetur aliqua laboris labore. Nisi incididunt duis reprehenderit commodo enim culpa ea ex laborum magna aute. Enim duis tempor ullamco et veniam reprehenderit culpa culpa ex cupidatat.
+
+<details>
+  <summary>Contoh Summary</summary>
+  <div>
+    <p>Dolore mollit sint veniam consectetur. Aliqua velit adipisicing ipsum ut duis. In minim ipsum consequat deserunt nisi. Elit reprehenderit laboris anim ex tempor do nulla fugiat reprehenderit sint.</p>
+  </div>
+</details>

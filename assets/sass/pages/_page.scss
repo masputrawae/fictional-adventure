@@ -15,7 +15,7 @@
 
   &__title {
     margin-block: 1.5em 0em;
-    
+
     &--with-img {
       margin-block: 1em 0em;
     }
@@ -24,13 +24,16 @@
 
 .page-meta {
   list-style: none;
-  border-block-end: 1px solid var(--border-primary);
-  margin: 0;
-  padding: 0;
+  border: 1px solid var(--border-primary);
+  margin-block: 2em;
+  padding: 1em;
   font-size: 12px;
+  box-shadow: var(--shadow-subtle);
+
   &__item {
     @include m.flex-justify(start, center);
     gap: 0.5em;
+    margin-block: 0.5em;
 
     strong {
       @include m.flex-justify(start, center);
@@ -45,5 +48,69 @@
         color: var(--text-primary);
       }
     }
+  }
+}
+
+// SEARCH BAR
+.search {
+  margin-block: 1em;
+  width: 100%;
+
+  &__label {
+    @include m.flex-justify(center, center);
+    gap: 1em;
+    width: 100%;
+    padding: 1em;
+    border-radius: 0.15em;
+    border: 1px solid var(--border-primary);
+  }
+
+  &__input {
+    width: 100%;
+    outline: none;
+  }
+}
+
+// TAXONOMY PAGE
+.taxonomy {
+  display: grid;
+  gap: 0.5em;
+  padding: 1em;
+  background-color: var(--background-secondary);
+  border: 1px solid var(--border-primary);
+  border-radius: 0.15em;
+
+  &__label {
+    margin: 0
+  }
+
+  &__link {
+    @include m.flex-justify(space-between,center);
+    text-decoration: none;
+    padding-inline-start: 1em;
+    margin-inline-start: 1em;
+    border-inline-start: 3px solid var(--border-primary);
+  }
+}
+
+#linkpreview {
+  @include m.custom-scrollbar(var(--border-primary), var(--background-primary));
+  display: none;
+  position: absolute;
+  inset-block-start: 0;
+  inset-inline-start: 0;
+  width: 400px;
+  max-height: 400px;
+  overflow: auto;
+  z-index: 999999999;
+  border: 1px solid var(--border-primary);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  box-shadow: var(--shadow-prominent);
+  background-color: var(--background-secondary);
+
+  .markdown {
+    padding: 1em;
+    margin: 0;
   }
 }

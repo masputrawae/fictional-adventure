@@ -2,46 +2,10 @@
 @use "../abstracts/mixins" as m;
 @use "../abstracts/variables" as v;
 
-button {
-  cursor: pointer;
-}
-
-.grid {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
-
-  &--fluid-lg {
-    grid-template-columns: repeat(auto-fit, minmax(30em, 1fr));
-  }
-}
-
-.multi-column {
-  column-width: 20em;
-  column-gap: 2em;
-
-  &--fluid-lg {
-    column-width: 30em;
-  }
-
-  &__item {
-    display: inline-block;
-    width: 100%;
-    break-inside: avoid;
-    margin-block-end: 2em;
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    -moz-column-break-inside: avoid;
-  }
-}
-
 html,
 body {
   @include m.transition(background-color, color, font-size);
-  @include m.custom-scrollbar(
-    var(--background-primary),
-    var(--border-primary)
-  );
+  @include m.custom-scrollbar(var(--background-primary), var(--border-primary));
   font-size: 16px;
   font-family: v.$font-sans;
 }
@@ -112,6 +76,16 @@ body {
   padding-inline: 1.5em;
 }
 
+.site-footer {
+  text-align: center;
+  font-size: v.$fs-sm;
+  padding: 1.5em;
+
+  a {
+    text-decoration: underline;
+  }
+}
+
 //  BREAKPOINTS
 @include b.min(lg) {
   body {
@@ -132,6 +106,10 @@ body {
     grid-area: sidebar;
     inset-inline-start: 0;
     visibility: visible;
+
+    &__btn-close {
+      display: none;
+    }
   }
 
   .site-main {
@@ -142,5 +120,6 @@ body {
 
   .site-footer {
     grid-area: footer;
+    padding: 2.5em;
   }
 }

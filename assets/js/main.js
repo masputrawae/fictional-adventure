@@ -1,32 +1,13 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const sidebars = document.querySelectorAll("[data-sidebar]");
-  sidebars.forEach((btn) => {
-    const targetId = btn.getAttribute("data-sidebar");
-    const sidebar = document.getElementById(targetId);
+import { linkPreviewHandler } from "./module_internal/preview-link";
+import { searchHandler } from "./module_internal/search";
+import { sidebarHandler } from "./module_internal/sidebar";
+import { themeHandler } from "./module_internal/theme";
 
-    btn.addEventListener("click", (e) => {
-      e.stopPropagation();
+const main = () => {
+  sidebarHandler();
+  themeHandler();
+  linkPreviewHandler();
+  searchHandler();
+};
 
-      document.querySelectorAll(".is-active").forEach((el) => {
-        if (el !== sidebar) el.classList.remove("is-active");
-      });
-      sidebar.classList.toggle("is-active");
-    });
-
-    document.addEventListener("click", (e) => {
-      if (
-        sidebar.classList.contains("is-active") &&
-        !sidebar.contains(e.target) &&
-        !e.target.closest("[data-sidebar]")
-      ) {
-        sidebar.classList.remove("is-active");
-      }
-    });
-
-    document.querySelectorAll("a", "button", sidebar).forEach((el) => {
-      el.addEventListener("click", () => {
-        sidebar.classList.remove("is-active");
-      });
-    });
-  });
-});
+document.addEventListener("DOMContentLoaded", main);
