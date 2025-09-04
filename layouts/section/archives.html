@@ -1,19 +1,18 @@
 {{ define "main" }}
-  <article class="markdown">
-    <h1>{{ .Title }}</h1>
-    {{ .Content | safeHTML }}
-    <div class="grid grid--fluid-lg">
-      {{ range site.RegularPages.GroupByDate "2006" }}
-        <div class="grid__item">
-          <h2>Year: {{ .Key }}</h2>
-
-          <ul class="archive-list">
-            {{ range .Pages }}
-              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-      {{ end }}
-    </div>
-  </article>
+  <h1>{{ .Title }}</h1>
+  {{ .Content | safeHTML }}
+  {{ range site.RegularPages.GroupByDate "2006" }}
+    <details>
+      <summary style="list-style: none;">{{ .Key }}</summary>
+      <nav>
+        <ul>
+          {{ range .Pages }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </nav>
+    </details>
+  {{ end }}
 {{ end }}

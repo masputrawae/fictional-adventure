@@ -1,40 +1,34 @@
 {{ define "main" }}
-  <article class="markdown">
-    <div class="markdown">
-      <h1>{{ .Title }}</h1>
-      {{ .Content | safeHTML }}
+  {{ $pages := site.RegularPages }}
+  {{ $paginator := .Paginate ($pages.ByDate.Reverse) }}
 
-      {{ $pages := site.RegularPages }}
-      {{ $paginator := .Paginate ($pages.ByDate.Reverse) 10 }}
-      <div class="table-container">
-        <table>
-          <thead>
-            <tr>
-              <th>Title</th>
-              <th>Date</th>
-              <th>Author</th>
-            </tr>
-          </thead>
-          <tbody>
-            {{ range $paginator.Pages }}
-              <tr>
-                <td data-label="Title">
-                  <a href="{{ .RelPermalink }}" style="text-decoration: none;">{{ .LinkTitle }}</a>
-                </td>
-                <td data-label="Date">{{ .Lastmod.Format "2006/01/02" }}</td>
-                <td data-label="Author">
-                  {{ with .GitInfo }}
-                    {{ .AuthorName }}
-                  {{ else }}
-                    -
-                  {{ end }}
-                </td>
-              </tr>
-            {{ end }}
-          </tbody>
-        </table>
-      </div>
-    </div>
-    {{ partial "pagination.html" . }}
-  </article>
+  {{ if eq $paginator.PageNumber 1 }}
+    <h1>{{ .Title }}</h1>
+    {{ .Content | safeHTML }}
+  {{ else }}
+    <h1>Page Number: ({{ $paginator.PageNumber }})</h1>
+  {{ end }}
+
+  <div class="table-container">
+    <table>
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $paginator.Pages }}
+          <tr>
+            <td data-label="Title">
+              <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            </td>
+            <td data-label="Date">{{ .Lastmod.Format "2006/01/02" }}</td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+
+  {{ partial "pagination.html" . }}
 {{ end }}

@@ -9,8 +9,10 @@ data-theme="dark">
 <body>
   {{- partial "layouts/sidebar.html" . -}}
   {{- partial "layouts/header.html" . -}}
-  <main class="site-main">
-    {{- block "main" . -}}{{- end -}}
+  <main class="markdown site-main">
+    <article>
+      {{- block "main" . -}}{{- end -}}
+    </article>
   </main>
   {{- partial "layouts/footer.html" . -}}
 </body>

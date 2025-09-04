@@ -16,6 +16,24 @@ button {
   }
 }
 
+.multi-column {
+  column-width: 20em;
+  column-gap: 2em;
+
+  &--fluid-lg {
+    column-width: 30em;
+  }
+
+  &__item {
+    display: inline-block;
+    break-inside: avoid;
+    margin-block-end: 2em;
+    break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+  }
+}
+
 html,
 body {
   @include m.transition(background-color, color, font-size);
@@ -90,11 +108,7 @@ body {
 
 .site-main {
   margin-block-start: 4em;
-
-  &__content--home {
-    margin-block-start: 6em;
-    min-height: 100dvh;
-  }
+  min-height: 100dvh;
 }
 
 //  BREAKPOINTS

@@ -1,65 +1,50 @@
 {{ define "main" }}
-  <article class="markdown site-main__content site-main__content--home">
-    <section class="home-content">
-      <h1>{{ site.Title }}</h1>
-      {{ .Content }}
-    </section>
+  {{ $pages := site.RegularPages | shuffle }}
+  {{ $paginator := .Paginate $pages }}
 
-    
-    <div class="taxonomy">
-      {{ range $taxonomyName, $taxonomyTerms := site.Taxonomies }}
-        {{ if or (eq $taxonomyName "categories") (eq $taxonomyName "tags") }}
-          <nav class="taxonomy__container">
-            <h2 class="taxonomy__label">{{ title $taxonomyName }}</h2>
-            <div class="taxonomy__running-wrapper">
-              <div class="taxonomy__running-track">
-                {{ range $termName, $term := $taxonomyTerms }}
-                  <a href="{{ $term.Page.RelPermalink }}" class="taxonomy__link">{{ $termName }}</a>
-                {{ end }}
-
-                <!-- Duplicate isi biar looping halus -->
-                {{ range $termName, $term := $taxonomyTerms }}
-                  <a href="{{ $term.Page.RelPermalink }}" class="taxonomy__link">{{ $termName }}</a>
-                {{ end }}
-              </div>
-            </div>
-          </nav>
-        {{ end }}
-      {{ end }}
-    </div>
-
-  </article>
-  <div class="markdown site-main__content site-main__content--home">
+  {{ if eq $paginator.PageNumber 1 }}
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
     <hr />
-    <div class="post-list">
-      {{ range .Paginator.Pages }}
-        {{ $title := .LinkTitle }}
-        <article class="post-list__item">
-          <div
-            class="card"
-            onclick="window.location.href=`{{ .RelPermalink }}`">
-            <header class="card__header">
-              {{ if .Params.images }}
-                {{ with index .Params.images 0 }}
-                  <div class="card__img-container">
-                    <img
-                      src="{{ . | safeURL }}"
-                      alt="Image In {{ $title }}"
-                      class="card__img" />
-                  </div>
-                {{ end }}
+  {{ else }}
+    <h1>Page Number: ({{ $paginator.PageNumber }})</h1>
+  {{ end }}
+  <div class="multi-column">
+    {{ range $paginator.Pages }}
+      {{ $title := .LinkTitle }}
+      <div class="multi-column__item">
+        <section
+          class="card featured"
+          onclick="window.location.href=`{{ .RelPermalink }}`">
+          <header class="featured__header">
+            {{ if .Params.images }}
+              {{ with index .Params.images 0 }}
+                <div class="featured__img-container">
+                  <img
+                    src="{{ . | safeURL }}"
+                    alt="Image In {{ $title }}"
+                    class="featured__img" />
+                </div>
               {{ end }}
-              <h2 class="card__title">
-                <a href="{{ .RelPermalink }}">{{ $title }}</a>
-              </h2>
-            </header>
-            <section class="card__body">
-              <p>{{ .Description | default .Summary | truncate 160 }}</p>
-            </section>
+            {{ end }}
+            <h2 class="featured__title">
+              <a href="{{ .RelPermalink }}">{{ $title }}</a>
+            </h2>
+          </header>
+          <div class="featured__body">
+            <p>{{ .Description | default .Summary | truncate 160 }}</p>
           </div>
-        </article>
-      {{ end }}
-    </div>
-    {{ partial "pagination.html" (dict "page" . "format" "default") }}
+          <footer
+            class="featured__footer"
+            style="display: flex; justify-content: space-between; align-items: center;">
+            <time datetime="" class="featured__time"
+              >{{ .Date | time.Format "2006 Jan 02" }}</time
+            >
+            <button class="btn" class="featured__btn">Read More</button>
+          </footer>
+        </section>
+      </div>
+    {{ end }}
   </div>
+  {{ partial "pagination.html" (dict "page" . "format" "default") }}
 {{ end }}

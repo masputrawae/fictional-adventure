@@ -3,6 +3,7 @@
 @use "../abstracts/variables" as v;
 
 :where(.markdown) {
+  display: block;
   font-size: 14px;
   line-height: 1.6;
   max-width: 100%;
@@ -19,20 +20,29 @@
   h4,
   h5,
   h6 {
-    margin-block: 1em 1.5em;
     line-height: 1.75;
     color: var(--color-second);
     font-weight: 700;
     text-transform: capitalize;
+    width: 100%;
   }
 
   h1,
   h2,
   h3 {
     font-family: v.$font-serif;
-    font-size: v.$fs-3xl;
-    border-block-end: 1px dotted var(--border-base);
+    border-block-end: 1px solid var(--border-base);
     letter-spacing: 0.05em;
+  }
+
+  h1 {
+    font-size: v.$fs-8xl;
+  }
+
+  h2,
+  h3 {
+    font-size: v.$fs-3xl;
+    margin-block: 1em 1.5em;
   }
 
   h4,
@@ -50,7 +60,7 @@
   }
 
   a {
-    text-decoration: underline dotted 1px;
+    text-decoration: underline solid 1px;
     color: var(--color-second);
   }
 
@@ -98,7 +108,7 @@
   dt {
     padding-block-end: 0.25em;
     color: var(--color-second);
-    border-block-end: 1px dotted var(--border-base);
+    border-block-end: 1px solid var(--border-base);
     font-weight: 600;
   }
 
@@ -121,7 +131,7 @@
     @include m.transition(all);
     display: inline-block;
     padding: 0.5em;
-    border: 1px dotted var(--border-base);
+    border: 1px solid var(--border-base);
     border-radius: 0.5em;
     box-shadow: var(--shadow-sm);
     filter: grayscale(1);

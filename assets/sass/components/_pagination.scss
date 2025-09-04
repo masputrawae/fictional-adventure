@@ -2,25 +2,10 @@
 @use "../abstracts/mixins" as m;
 @use "../abstracts/variables" as v;
 
-.post-list {
-  column-width: 300px;
-  column-gap: 2em;
-
-  &__item {
-    display: inline-block;
-    break-inside: avoid;
-    margin-block-end: 2em;
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    -moz-column-break-inside: avoid;
-  }
-}
-
 .pagination {
   @include m.flex-justify(center, center);
   flex-wrap: wrap;
   gap: 1em;
-  border-block: 1px dashed var(--border-second);
   padding-block: 2em;
 
   &__link {
@@ -29,8 +14,8 @@
     font-family: v.$font-serif;
     font-size: v.$fs-4xl;
     padding: 0.25em 0.75em;
-    border: 1px dotted var(--border-base);
-    border-radius: 0.25em;
+    border: 1px solid var(--border-base);
+    border-radius: 0.15em;
     color: var(--color-base);
 
     &--is-active {

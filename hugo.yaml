@@ -10,7 +10,7 @@ enableEmoji: true
 #===================
 pagination:
   disableAliases: false
-  pagerSize: 5
+  pagerSize: 10
   path: page
 
 #===================
