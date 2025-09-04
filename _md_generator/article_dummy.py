@@ -22,8 +22,8 @@ def load_yaml(file):
 
 # --- LOAD PLACEHOLDERS ---
 PLACEHOLDER_DIR = "./_md_generator/placeholders"
-TOTAL_POST_GEN = 50
-CONTENT_DIR = "content/blog"
+TOTAL_POST_GEN = 5000
+CONTENT_DIR = "content/dummy"
 
 title_words = load_yaml(f"{PLACEHOLDER_DIR}/title_words.yaml")
 categories = load_yaml(f"{PLACEHOLDER_DIR}/categories.yaml")

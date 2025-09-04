@@ -75,7 +75,11 @@ jobs:
               
       - name: Configure Git
         run: git config core.quotepath false
-        
+      
+      # SEMENTARA
+      - name: Generate Dummy Markdown
+        run: python3 ./md_generator/article_dummy.py
+      
       - name: Make wikilink-converter executable
         run: chmod +x ./wikilink-converter
 
