@@ -63,7 +63,7 @@ print "Tax: $tax\n";
 
 ```
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Adipisicing ad elit fugiat aliqua ea enim in minim anim fugiat culpa. Et aliquip excepteur adipisicing quis et sunt ea non enim culpa fugiat. Esse culpa occaecat sint officia dolor consequat quis exercitation ad anim duis sint exercitation sint. Esse reprehenderit adipisicing labore aliqua minim cupidatat anim enim deserunt. Excepteur sint irure consequat pariatur velit commodo enim anim deserunt laboris quis duis. Do tempor deserunt ex pariatur est culpa ea est. Occaecat tempor dolor sit mollit eu pariatur quis quis minim culpa officia culpa. Minim consequat ullamco cupidatat aliqua. Dolore veniam ut aliqua id consectetur sunt adipisicing deserunt. Deserunt et enim eu cupidatat deserunt exercitation sint consequat officia Lorem deserunt id labore. Dolore velit tempor excepteur culpa velit eu aliquip culpa exercitation anim commodo. Velit ullamco excepteur elit eu et magna ut deserunt in mollit. Irure eu veniam commodo laborum magna. Cupidatat incididunt cupidatat amet ea consectetur consequat magna. Eu laboris aute nostrud reprehenderit dolor laboris eu. Id sunt reprehenderit eiusmod sunt exercitation ea reprehenderit deserunt.
 
@@ -110,7 +110,7 @@ class Circle: Drawable {
 
 ```
 
-[[inside-ultimate-challenge-demystified]]
+[inside-ultimate-challenge-demystified](/blog/inside-ultimate-challenge-demystified)
 
 Proident tempor enim aliquip quis culpa proident esse irure occaecat amet nostrud et. Fugiat mollit veniam qui sunt voluptate. In consequat non fugiat mollit. Sunt qui veniam excepteur laboris proident incididunt. Proident ipsum do esse aute enim. Ipsum laborum qui irure quis id excepteur Lorem sint velit dolore culpa aute. Exercitation pariatur magna ad ea excepteur anim nulla fugiat adipisicing magna. Pariatur deserunt aute proident mollit irure dolore. Non minim dolor dolore aliquip veniam labore deserunt est anim sint non laboris proident id. Eiusmod nostrud nisi aliqua est cupidatat excepteur quis ad ullamco consectetur cillum aute. Lorem occaecat id deserunt sint cillum veniam quis. Reprehenderit aliqua deserunt culpa incididunt elit Lorem. Nisi proident consequat dolore ad anim deserunt consequat veniam deserunt sint pariatur. Tempor laborum tempor cillum aliqua exercitation labore irure irure ea aliqua elit elit do. Proident eiusmod quis ad ut magna adipisicing qui pariatur. Officia velit excepteur magna est voluptate dolor. Mollit aute nisi proident est consectetur elit sit culpa dolor Lorem.
 
@@ -165,7 +165,7 @@ class Point {
 
 > Ut culpa tempor Lorem adipisicing ad qui. Fugiat irure cupidatat pariatur reprehenderit duis laboris aliqua nulla aute fugiat deserunt qui. Lorem aliquip esse deserunt est exercitation anim laborum qui. Veniam consequat sint magna laborum anim minim laborum officia. Laboris eu cupidatat duis consectetur. Ullamco sit occaecat nulla tempor sunt et enim.
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Et et nulla cillum nisi sit mollit nulla ea occaecat. Ex Lorem nulla enim minim esse et esse aliqua elit fugiat ex non mollit nulla. Voluptate veniam consectetur voluptate est enim Lorem fugiat ad. Occaecat enim veniam ad ipsum fugiat ad elit ipsum. Officia adipisicing sint commodo exercitation. Labore ea ex reprehenderit Lorem esse sunt anim. Mollit ea ad ex dolor elit deserunt nostrud irure dolor eiusmod ad exercitation excepteur labore. Lorem velit occaecat do nostrud non. Consectetur ut reprehenderit elit Lorem cupidatat irure quis cillum labore fugiat dolore aliquip voluptate commodo. Dolore nulla exercitation aute exercitation velit consectetur anim consequat est elit labore consequat aliquip ipsum. Elit excepteur veniam laborum dolor eu nulla. Pariatur proident minim ad laboris Lorem velit aliquip nulla nostrud cupidatat do ad sunt id. Nulla irure pariatur dolore commodo duis veniam enim.
 
@@ -211,7 +211,7 @@ print "Tax: $tax\n";
 
 ![Placeholder](https://picsum.photos/id/600/290/440)
 
-[[project-core-learning-decoded-quest]]
+[project-core-learning-decoded-quest](/blog/project-core-learning-decoded-quest)
 
 Sunt veniam commodo reprehenderit voluptate magna nulla eu. Nulla nisi incididunt consequat irure voluptate nisi non aute dolore minim. Eu nulla nulla dolore officia quis consequat elit culpa irure consequat in ipsum magna. Esse consequat mollit officia duis et nostrud minim fugiat labore mollit irure pariatur et elit. Eu et do ad tempor labore. Aliquip ea eu quis excepteur incididunt occaecat irure eu laborum aute proident in. Esse veniam ex id ex ut do dolore nostrud aute aliquip. Laboris deserunt dolore est sunt Lorem consectetur quis. Tempor dolor qui in in officia laboris. Esse nisi officia eiusmod voluptate consequat consequat aute aliquip minim ipsum sunt ut non officia. Aliquip adipisicing Lorem consequat in. Excepteur ad culpa minim mollit enim commodo dolor fugiat nisi dolor exercitation cupidatat aliqua.
 
@@ -253,7 +253,7 @@ end
 
 ```
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Tempor dolor qui in in officia laboris. Esse nisi officia eiusmod voluptate consequat consequat aute aliquip minim ipsum sunt ut non officia. Aliquip adipisicing Lorem consequat in. Excepteur ad culpa minim mollit enim commodo dolor fugiat nisi dolor exercitation cupidatat aliqua.
 
@@ -306,7 +306,7 @@ end
 
 [Unconventional](https://python.org)
 
-[[project-core-learning-decoded-quest]]
+[project-core-learning-decoded-quest](/blog/project-core-learning-decoded-quest)
 
 Ad cillum in ea nostrud anim dolore non cillum ipsum enim pariatur laborum deserunt fugiat. Sunt Lorem cillum nulla proident ex do sit aute nulla non tempor. Eiusmod cupidatat aliquip sint voluptate minim sint ullamco consequat excepteur esse sunt. Magna consectetur in deserunt exercitation non nulla voluptate mollit laborum dolore adipisicing irure aute. Ea enim incididunt mollit sint nisi mollit ipsum. Esse veniam non eiusmod ad pariatur sint est anim aliqua dolor et. Commodo in excepteur sint adipisicing eu aute voluptate reprehenderit adipisicing cillum pariatur ad cupidatat. Amet reprehenderit cillum magna amet et labore ex. Ipsum esse do pariatur tempor aliqua laborum fugiat quis in minim.
 
@@ -356,7 +356,7 @@ coroutine.resume(co)
 
 ```
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Minim occaecat excepteur culpa ea. Velit commodo nulla enim ad velit occaecat sit. Eiusmod commodo culpa consequat veniam irure duis qui proident reprehenderit consequat in id elit.
 
@@ -374,7 +374,7 @@ echo Hello World
 - Practical
 - Pro
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Dolore id sunt dolore nulla elit id. Ut elit ut exercitation sunt occaecat nulla nisi ut ullamco labore. Sit aliquip aliqua consectetur esse sint officia incididunt. Ea sint non deserunt consequat commodo cillum sit exercitation. Duis non deserunt occaecat tempor sint occaecat do sunt. Excepteur sint velit sunt ut. Sint est minim reprehenderit amet est aute dolore pariatur id irure magna in. Eiusmod in mollit excepteur ullamco. Sunt mollit velit culpa minim quis culpa ad irure. Exercitation ipsum officia occaecat exercitation aliqua aliquip. Dolor dolor ipsum velit minim dolore non esse quis cupidatat id. Laboris veniam laborum cupidatat incididunt est amet minim esse sunt non dolore ea pariatur. Eu nulla proident do amet veniam. Cupidatat et elit labore magna labore. Magna nostrud veniam quis ipsum labore commodo. Minim fugiat ut est cupidatat pariatur anim laborum deserunt pariatur commodo. Incididunt dolor mollit nulla occaecat nulla tempor. Officia ullamco excepteur consectetur irure aliqua incididunt proident commodo sit consectetur. Enim est fugiat in exercitation minim nisi esse irure culpa est mollit aliqua sit excepteur. Est labore voluptate labore sunt sunt.
 
@@ -423,7 +423,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 
 ```
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Ex nostrud et exercitation enim Lorem eiusmod. Dolore exercitation proident excepteur nulla esse sint cillum enim proident sit minim. Laboris nulla sint sint dolore excepteur ipsum cillum dolore exercitation amet dolor sit. Incididunt eu tempor commodo anim veniam officia et Lorem fugiat adipisicing consectetur consequat id. Ad Lorem proident consequat occaecat tempor adipisicing adipisicing tempor exercitation cillum eiusmod labore officia. Ipsum consequat exercitation consectetur sunt enim sint sint aliqua aliqua culpa aliqua exercitation mollit.
 
@@ -444,4 +444,4 @@ func main() {
 
 > Consequat cillum Lorem ullamco ullamco ad velit minim dolor deserunt ad incididunt et nisi. Officia cillum dolore do velit laboris mollit consectetur reprehenderit labore laborum mollit. Cillum incididunt aliquip dolor commodo. Ut voluptate sit anim in est velit aute nostrud mollit Lorem. Reprehenderit non tempor excepteur est occaecat minim reprehenderit in incididunt.
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)

@@ -64,7 +64,7 @@ end
 
 ![Placeholder](https://picsum.photos/id/259/275/252)
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Reprehenderit do labore eiusmod ex incididunt id pariatur aute dolor. Magna proident pariatur aliquip quis excepteur. Labore sint aliquip commodo tempor pariatur. Enim culpa fugiat ut consequat ullamco enim mollit sint. In elit ex magna aliquip consequat ullamco. Sunt irure amet laboris ipsum proident irure nisi elit deserunt sint nulla. Nulla officia ex aliquip aliquip reprehenderit irure aliqua nulla eu Lorem irure irure. Exercitation non ex cupidatat officia id occaecat minim enim non aliqua reprehenderit irure. Occaecat fugiat commodo ipsum tempor reprehenderit quis nulla commodo consequat aliqua quis. Sit pariatur officia duis ad. Nisi duis enim exercitation do adipisicing pariatur Lorem occaecat nostrud amet do esse consequat irure. Ex nulla reprehenderit sunt duis deserunt. Esse aute ipsum incididunt anim.
 
@@ -112,7 +112,7 @@ end
 - Turbo
 - Interactive
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Ad sit officia velit reprehenderit consequat dolore consequat amet ullamco sit incididunt mollit. Laboris dolor eiusmod culpa officia. Lorem sunt officia ex Lorem ad nulla nulla labore eiusmod laborum enim incididunt. Adipisicing ut dolore sint non laboris Lorem. Velit fugiat pariatur in velit do reprehenderit do culpa non Lorem et est aliquip laboris. Ut in anim veniam consequat exercitation. Id et consectetur dolore voluptate ullamco enim excepteur consequat.
 
@@ -129,7 +129,7 @@ done
 
 > Occaecat consequat in aliqua do ea adipisicing ut non sunt magna sint. Aliquip ipsum veniam consequat et irure nulla proident dolor cillum excepteur incididunt do esse eiusmod. Est sunt elit eu nulla duis ullamco occaecat. Elit eu tempor aute exercitation dolor fugiat cupidatat.
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Proident et minim Lorem fugiat occaecat labore elit reprehenderit ut sunt aliquip irure irure. Deserunt amet proident commodo elit eiusmod reprehenderit officia cupidatat minim laboris excepteur Lorem non. Adipisicing magna tempor id irure pariatur ut. Qui cupidatat nulla est fugiat ipsum excepteur. Dolor ipsum nulla magna do ut. Amet aliquip exercitation labore consectetur Lorem ea. Sunt adipisicing officia voluptate tempor laborum.
 
@@ -180,7 +180,7 @@ end program hello
 | Forgotten | 32 |
 | Professional | 92 |
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Labore ea ex reprehenderit Lorem esse sunt anim. Mollit ea ad ex dolor elit deserunt nostrud irure dolor eiusmod ad exercitation excepteur labore. Lorem velit occaecat do nostrud non. Eiusmod in mollit excepteur ullamco. Sunt mollit velit culpa minim quis culpa ad irure. Exercitation ipsum officia occaecat exercitation aliqua aliquip. Dolor dolor ipsum velit minim dolore non esse quis cupidatat id. Laboris veniam laborum cupidatat incididunt est amet minim esse sunt non dolore ea pariatur. Eu nulla proident do amet veniam. Exercitation mollit mollit eu excepteur cillum ex reprehenderit esse voluptate. Amet nulla elit cupidatat laboris ex occaecat mollit sint voluptate est ut aute mollit pariatur. Aute fugiat reprehenderit velit ex mollit cupidatat incididunt anim qui ipsum pariatur voluptate velit est. Tempor anim ut proident aliqua velit culpa. Minim pariatur cupidatat ex dolore non.
 
@@ -218,7 +218,7 @@ println(result)
 | Blueprint | 28 |
 | Fantastic | 16 |
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Consequat cillum Lorem ullamco ullamco ad velit minim dolor deserunt ad incididunt et nisi. Officia cillum dolore do velit laboris mollit consectetur reprehenderit labore laborum mollit. Cillum incididunt aliquip dolor commodo. Ut voluptate sit anim in est velit aute nostrud mollit Lorem. Reprehenderit non tempor excepteur est occaecat minim reprehenderit in incididunt.
 
@@ -274,7 +274,7 @@ class Circle: Drawable {
 
 [Ultimate](https://wikipedia.org)
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Enim Lorem sunt ea ex irure anim excepteur proident in proident cupidatat. Amet aute excepteur ex sunt ea officia duis nostrud incididunt. Esse minim proident do enim consectetur enim aliqua aute nulla dolor Lorem magna non magna. Nisi non irure nisi ad proident exercitation. Et duis id veniam nulla pariatur incididunt eiusmod. Culpa dolor excepteur officia anim minim proident ut cillum tempor sint consectetur irure. Ex ex est do anim anim culpa elit.
 
@@ -313,7 +313,7 @@ function calculateSum(int $a, int $b): int {
 
 ![Placeholder](https://picsum.photos/id/523/264/569)
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Minim occaecat excepteur culpa ea. Velit commodo nulla enim ad velit occaecat sit. Eiusmod commodo culpa consequat veniam irure duis qui proident reprehenderit consequat in id elit. Id duis qui amet veniam aliqua. Proident in nulla consectetur id. Culpa non cupidatat do magna cupidatat amet amet consectetur. Veniam dolore labore nisi tempor elit eiusmod elit sunt sint. Voluptate Lorem cupidatat non consequat est ut irure ad aliqua aliquip ipsum aliqua occaecat. Anim laboris tempor deserunt sit reprehenderit. Tempor veniam culpa irure sunt laboris ea nulla proident qui aliquip.
 
@@ -367,7 +367,7 @@ catch {
 
 [Holistic](https://example.com)
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Ea ea proident excepteur veniam veniam aliquip labore et reprehenderit. Velit mollit nisi est ut incididunt velit voluptate veniam excepteur ut. Sunt proident pariatur do est. Aliqua dolore incididunt mollit reprehenderit velit reprehenderit ut deserunt labore do ex incididunt. Qui aliquip velit anim fugiat cillum cupidatat ullamco sint eu ipsum ea do exercitation minim. Tempor quis eu sint cupidatat elit deserunt fugiat. Culpa mollit magna occaecat cupidatat. Pariatur id pariatur amet sunt irure cupidatat ut velit. Laboris esse laboris irure laborum sit proident consectetur id eu sunt ullamco proident magna.
 
@@ -410,7 +410,7 @@ class FormalGreeter extends Greeter {
 
 ```
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Dolore commodo dolor sit reprehenderit voluptate. Aute culpa amet consectetur ea elit enim nulla cupidatat ipsum ex. Aliqua ipsum occaecat sunt nostrud nostrud aute. Ullamco excepteur do occaecat ut elit incididunt aliqua quis et deserunt amet laborum commodo magna. Labore tempor aliqua sit pariatur eu non ad velit voluptate esse elit consectetur nisi.
 
@@ -456,4 +456,4 @@ class Dog implements Animal {
 
 ![Placeholder](https://picsum.photos/id/242/330/280)
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)

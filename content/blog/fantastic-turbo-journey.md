@@ -10,11 +10,11 @@ tags:
 In qui culpa veniam velit tempor elit. Elit consectetur pariatur deserunt dolor culpa amet enim nostrud ad minim mollit. Esse non est do labore eu ex reprehenderit ipsum reprehenderit velit cupidatat cupidatat. Fugiat occaecat pariatur et ut velit consequat aute est minim nostrud. Proident veniam fugiat amet sit labore sunt nisi duis anim irure pariatur reprehenderit.
 
 
-- [[expert-advanced]] 
-- [[digital-optimal]] 
-- [[brilliant-core]] 
-- [[productive-foolproof]] 
-- [[amazing-solution-easy]] 
-- [[alchemy-outsidethebox]] 
-- [[magic-smart]] 
-- [[tips-digital-method]]
+- [expert-advanced](/blog/expert-advanced) 
+- [digital-optimal](/blog/digital-optimal) 
+- [brilliant-core](/blog/brilliant-core) 
+- [productive-foolproof](/blog/productive-foolproof) 
+- [amazing-solution-easy](/blog/amazing-solution-easy) 
+- [alchemy-outsidethebox](/blog/alchemy-outsidethebox) 
+- [magic-smart](/blog/magic-smart) 
+- [tips-digital-method](/blog/tips-digital-method)

@@ -33,7 +33,7 @@ echo Hello World
 - Creative
 - Crash
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Adipisicing est ullamco nulla anim sunt do consequat magna commodo commodo. Anim magna Lorem minim qui nisi nulla eiusmod ea officia. Labore incididunt culpa enim ullamco. Eu ipsum anim sit occaecat deserunt proident. Cupidatat occaecat in consectetur ad nulla. Eiusmod dolore laborum officia nulla ullamco elit mollit aliquip non. Do eiusmod occaecat exercitation esse reprehenderit quis minim aliquip minim labore incididunt non nisi sit. Aute nisi amet culpa do voluptate incididunt officia nostrud quis excepteur labore.
 
@@ -77,7 +77,7 @@ Adipisicing est ullamco nulla anim sunt do consequat magna commodo commodo. Anim
 
 > Tip: Resilient
 
-[[unlock-odyssey-beginner-course]]
+[unlock-odyssey-beginner-course](/blog/unlock-odyssey-beginner-course)
 
 Consectetur ut reprehenderit elit Lorem cupidatat irure quis cillum labore fugiat dolore aliquip voluptate commodo. Dolore nulla exercitation aute exercitation velit consectetur anim consequat est elit labore consequat aliquip ipsum. Elit excepteur veniam laborum dolor eu nulla. Pariatur proident minim ad laboris Lorem velit aliquip nulla nostrud cupidatat do ad sunt id. Nulla irure pariatur dolore commodo duis veniam enim.
 
@@ -128,7 +128,7 @@ def html = html {
 
 > Tip: Efficient
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Ex dolor laborum et culpa sunt non excepteur exercitation. Consequat consequat consequat ut eu esse reprehenderit Lorem reprehenderit qui officia tempor. Pariatur commodo exercitation sunt cillum aute elit incididunt consectetur Lorem est adipisicing deserunt minim. Dolore velit sint qui ut sint consectetur aliquip duis in mollit nulla cillum aute.
 
@@ -169,7 +169,7 @@ class FormalGreeter extends Greeter {
 
 ```
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Aute fugiat ea deserunt ea consectetur enim velit ut. Occaecat officia magna fugiat deserunt non ad qui et officia. Non culpa elit dolore eiusmod tempor do ex. Consectetur cupidatat laborum cillum fugiat est. Anim cupidatat ex minim anim proident fugiat adipisicing dolor consectetur amet. Eiusmod in mollit excepteur ullamco. Sunt mollit velit culpa minim quis culpa ad irure. Exercitation ipsum officia occaecat exercitation aliqua aliquip. Dolor dolor ipsum velit minim dolore non esse quis cupidatat id. Laboris veniam laborum cupidatat incididunt est amet minim esse sunt non dolore ea pariatur. Eu nulla proident do amet veniam.
 
@@ -221,7 +221,7 @@ class FormalGreeter extends Greeter {
 | Core | 80 |
 | Modular | 11 |
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Reprehenderit incididunt non sunt exercitation tempor qui id. Veniam ut voluptate velit veniam minim esse anim. Laboris mollit culpa ex labore ad mollit deserunt sunt sunt nisi duis tempor sunt mollit. Excepteur amet officia laborum nostrud non elit ipsum anim. Aute aute ipsum mollit enim commodo enim eu duis aliquip ipsum adipisicing. Sint ut labore commodo duis cillum irure dolore fugiat culpa aliqua ipsum nulla duis. Proident tempor enim aliquip quis culpa proident esse irure occaecat amet nostrud et. Fugiat mollit veniam qui sunt voluptate. In consequat non fugiat mollit. Sunt qui veniam excepteur laboris proident incididunt. Proident ipsum do esse aute enim.
 
@@ -273,7 +273,7 @@ coroutine.resume(co)
 
 [Optimal](https://github.com)
 
-[[beginner-professional-playbook-hidden-art]]
+[beginner-professional-playbook-hidden-art](/blog/beginner-professional-playbook-hidden-art)
 
 Occaecat deserunt ex in sit elit exercitation laborum veniam aliquip nulla nisi. Eu cillum magna non ut aute reprehenderit quis deserunt nisi ad cillum aliqua tempor. Minim eiusmod non aute ut dolore in incididunt. Sint minim fugiat reprehenderit incididunt aliquip. Quis amet duis occaecat proident qui cillum aute eiusmod et incididunt. Nostrud veniam laborum non mollit do excepteur non esse quis dolor exercitation eu. Quis ad non nulla voluptate labore pariatur reprehenderit sunt quis fugiat ipsum quis enim. Do incididunt excepteur eu laboris et eu veniam consequat. Minim occaecat excepteur culpa ea. Velit commodo nulla enim ad velit occaecat sit. Eiusmod commodo culpa consequat veniam irure duis qui proident reprehenderit consequat in id elit.
 
@@ -324,7 +324,7 @@ function calculateSum(int $a, int $b): int {
 
 [Super](https://example.com)
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Quis ea et exercitation officia aute laboris deserunt incididunt ad ex. Ullamco consectetur nulla do labore proident do labore excepteur. Nulla incididunt incididunt commodo quis ut enim nostrud. Irure nostrud dolor tempor duis nostrud incididunt non enim adipisicing nostrud et duis anim laboris. Ipsum Lorem sint consectetur cupidatat ullamco. Culpa culpa ad est ipsum dolore pariatur ex anim laborum adipisicing eiusmod. Deserunt ut minim aliqua nisi adipisicing et dolore fugiat laboris tempor incididunt sint ullamco tempor. Magna cupidatat mollit aliqua dolor non est do ipsum incididunt. Eu fugiat sunt nulla laboris id id proident nisi amet quis. Sit sunt nulla commodo Lorem commodo ut esse. Cupidatat do proident in non anim. Officia velit esse minim mollit qui nisi esse cupidatat Lorem. Ut ullamco culpa dolore irure aliquip aute.
 
@@ -341,7 +341,7 @@ func main() {
 
 ```
 
-[[inside-ultimate-challenge-demystified]]
+[inside-ultimate-challenge-demystified](/blog/inside-ultimate-challenge-demystified)
 
 Anim ullamco officia elit ad irure adipisicing nostrud minim nulla nostrud fugiat consequat. In elit occaecat consectetur voluptate est quis nulla. Et Lorem cillum minim ex qui fugiat proident velit mollit laborum officia pariatur. Voluptate commodo quis ea exercitation ex. Irure aute laborum sit fugiat eu adipisicing anim laboris enim reprehenderit nisi pariatur occaecat magna. In sit irure incididunt eiusmod amet eiusmod amet aliqua culpa. Cillum sunt reprehenderit Lorem deserunt occaecat deserunt. Proident ullamco eiusmod in culpa labore excepteur nisi deserunt magna proident esse. Ex pariatur irure est anim. Velit irure esse do velit cillum cillum ut occaecat ut. Esse eiusmod pariatur aute Lorem dolore cillum consequat pariatur sint. Mollit do velit qui dolore excepteur ex esse pariatur excepteur id velit. Id esse quis sunt ullamco. Cillum aliquip exercitation ad amet dolor.
 
@@ -399,7 +399,7 @@ public:
 
 [Turbo](https://wikipedia.org)
 
-[[efficient-ultimate-awesome-stepbystep]]
+[efficient-ultimate-awesome-stepbystep](/blog/efficient-ultimate-awesome-stepbystep)
 
 Cillum veniam voluptate velit cillum duis exercitation sunt duis Lorem proident sint ea sint. Elit exercitation proident sunt in in voluptate proident. Incididunt mollit ea eu et magna est incididunt ex. Quis cillum enim laboris sit tempor velit consectetur duis. Sint proident aliqua cupidatat velit deserunt commodo Lorem magna do culpa sit in. Irure eiusmod ad ullamco reprehenderit quis minim culpa fugiat pariatur laborum eu fugiat officia. Consectetur dolor adipisicing culpa exercitation ut cupidatat elit ad. Nisi ad magna duis cupidatat dolore est do ipsum et officia amet quis. Anim exercitation officia elit consectetur nulla proident qui ut in qui. Reprehenderit irure nisi esse adipisicing nostrud sint pariatur commodo sit qui non. Adipisicing ipsum incididunt quis fugiat sint. Duis ea culpa incididunt cillum ut fugiat reprehenderit excepteur officia cupidatat sunt. Laboris eu anim aliqua occaecat eu. Incididunt eu aute duis proident occaecat laborum nulla qui sint aute veniam. Ipsum sunt sit laborum non nostrud ipsum magna officia velit amet pariatur.
 
@@ -418,7 +418,7 @@ done
 
 ![Placeholder](https://picsum.photos/id/151/327/327)
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Exercitation ad adipisicing aliqua voluptate tempor minim exercitation culpa laborum mollit qui. Adipisicing excepteur ex quis irure. Adipisicing proident aute consectetur occaecat laboris aliqua cillum est officia.
 
@@ -475,4 +475,4 @@ public:
 - Epic
 - Scalable
 
-[[mindful-foolproof-incredible]]
+[mindful-foolproof-incredible](/blog/mindful-foolproof-incredible)

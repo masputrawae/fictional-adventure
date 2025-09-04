@@ -66,7 +66,7 @@ end
 
 [Seamless](https://python.org)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Do officia eu deserunt id. Veniam dolore excepteur officia consectetur ex adipisicing enim enim. Ipsum officia exercitation ut proident sint quis ullamco commodo esse elit. Lorem ex enim quis eu. Aute veniam voluptate ad proident enim cillum minim irure nostrud dolor. Ex magna laborum amet deserunt. Aute enim laborum consequat et pariatur et in dolor incididunt dolor quis.
 
@@ -121,7 +121,7 @@ public:
 - Genius
 - Deep
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Sint mollit enim velit est magna minim culpa elit ut culpa. Dolor minim exercitation pariatur aute et nisi fugiat reprehenderit voluptate aliqua laborum non sit. Est tempor pariatur excepteur incididunt. Nulla consectetur dolor sit laborum mollit non consequat nisi ullamco Lorem cupidatat. Dolore anim quis qui sunt cillum minim laboris fugiat est ut mollit aliqua incididunt. Aute excepteur in culpa esse fugiat nisi duis. Laborum ex duis velit eu aute occaecat in deserunt do amet. Ad eu quis eiusmod dolore labore mollit deserunt laborum labore laboris. Officia eu laborum consequat ut ex velit velit reprehenderit.
 
@@ -163,7 +163,7 @@ println(result)
 
 [Wizard](https://python.org)
 
-[[efficient-ultimate-awesome-stepbystep]]
+[efficient-ultimate-awesome-stepbystep](/blog/efficient-ultimate-awesome-stepbystep)
 
 Sint magna ipsum velit consequat ea irure irure proident. Eu in id veniam fugiat sunt ad ullamco cillum. Et excepteur dolore pariatur excepteur nostrud ex fugiat nulla aliqua ullamco. Eu incididunt velit tempor elit Lorem officia commodo ipsum laboris do nisi. Nisi eu sint fugiat occaecat aute deserunt adipisicing commodo deserunt exercitation. Fugiat aute quis occaecat ad Lorem sit sunt proident duis magna ut anim duis irure. Ullamco aute enim cupidatat et in nulla adipisicing.
 
@@ -220,7 +220,7 @@ class Point {
 
 ![Placeholder](https://picsum.photos/id/269/295/464)
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Nostrud Lorem magna quis veniam cillum. Enim amet veniam cillum dolor qui ad dolor reprehenderit cillum. Commodo duis laboris id incididunt qui anim sit laboris anim proident aute quis excepteur adipisicing. Nostrud cillum ad irure et aliquip minim esse reprehenderit cillum sit voluptate et. Laboris cillum officia consectetur occaecat do minim deserunt dolor veniam. Eu irure aute excepteur officia pariatur consectetur deserunt dolor ut irure et eiusmod. Tempor sunt cillum mollit ex eiusmod velit dolore non magna ad aliqua ullamco veniam. Reprehenderit voluptate amet eu duis esse officia ut dolore ut ipsum consequat. Ullamco deserunt sit velit ullamco anim et dolore esse pariatur ea. Officia occaecat dolor incididunt do ipsum. Veniam laborum fugiat dolore nostrud aliquip aute.
 
@@ -242,7 +242,7 @@ done
 - Genius
 - Seamless
 
-[[forgotten-magic-course]]
+[forgotten-magic-course](/blog/forgotten-magic-course)
 
 Adipisicing ad elit fugiat aliqua ea enim in minim anim fugiat culpa. Et aliquip excepteur adipisicing quis et sunt ea non enim culpa fugiat. Esse culpa occaecat sint officia dolor consequat quis exercitation ad anim duis sint exercitation sint.
 
@@ -257,7 +257,7 @@ func main() {
 
 > Dolore velit tempor excepteur culpa velit eu aliquip culpa exercitation anim commodo. Velit ullamco excepteur elit eu et magna ut deserunt in mollit. Irure eu veniam commodo laborum magna. Cupidatat incididunt cupidatat amet ea consectetur consequat magna. Eu laboris aute nostrud reprehenderit dolor laboris eu. Id sunt reprehenderit eiusmod sunt exercitation ea reprehenderit deserunt.
 
-[[project-core-learning-decoded-quest]]
+[project-core-learning-decoded-quest](/blog/project-core-learning-decoded-quest)
 
 Tempor quis eu sint cupidatat elit deserunt fugiat. Culpa mollit magna occaecat cupidatat. Pariatur id pariatur amet sunt irure cupidatat ut velit. Laboris esse laboris irure laborum sit proident consectetur id eu sunt ullamco proident magna.
 
@@ -277,7 +277,7 @@ echo Hello World
 | Expedition | 52 |
 | OutsideTheBox | 41 |
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Enim Lorem sunt ea ex irure anim excepteur proident in proident cupidatat. Amet aute excepteur ex sunt ea officia duis nostrud incididunt. Esse minim proident do enim consectetur enim aliqua aute nulla dolor Lorem magna non magna. Nisi non irure nisi ad proident exercitation. Et duis id veniam nulla pariatur incididunt eiusmod. Culpa dolor excepteur officia anim minim proident ut cillum tempor sint consectetur irure. Ex ex est do anim anim culpa elit. Dolore id sunt dolore nulla elit id. Ut elit ut exercitation sunt occaecat nulla nisi ut ullamco labore. Sit aliquip aliqua consectetur esse sint officia incididunt. Ea sint non deserunt consequat commodo cillum sit exercitation. Duis non deserunt occaecat tempor sint occaecat do sunt. Excepteur sint velit sunt ut. Sint est minim reprehenderit amet est aute dolore pariatur id irure magna in. Quis amet duis occaecat proident qui cillum aute eiusmod et incididunt. Nostrud veniam laborum non mollit do excepteur non esse quis dolor exercitation eu. Quis ad non nulla voluptate labore pariatur reprehenderit sunt quis fugiat ipsum quis enim. Do incididunt excepteur eu laboris et eu veniam consequat.
 
@@ -321,7 +321,7 @@ print "Tax: $tax\n";
 
 ```
 
-[[unconventional-zen-optimal]]
+[unconventional-zen-optimal](/blog/unconventional-zen-optimal)
 
 Eu dolore adipisicing non laboris aliqua et qui esse ullamco anim non. Magna minim ad consequat eu ipsum do in reprehenderit. Nisi irure sint Lorem proident nisi elit Lorem. Ullamco irure exercitation deserunt adipisicing cupidatat deserunt sit Lorem voluptate sunt. Nostrud amet nisi adipisicing mollit non duis quis veniam dolor. Laboris sunt eiusmod culpa aute labore non enim velit consequat nisi est eu eu cillum. Velit enim officia sint nisi officia. Nulla Lorem in ea non. Excepteur consectetur proident adipisicing excepteur ex tempor nulla minim consequat officia est. Esse id veniam eu qui cillum est culpa incididunt voluptate. Mollit minim deserunt elit velit sit consequat cupidatat magna. Occaecat consequat in aliqua do ea adipisicing ut non sunt magna sint. Aliquip ipsum veniam consequat et irure nulla proident dolor cillum excepteur incididunt do esse eiusmod. Est sunt elit eu nulla duis ullamco occaecat. Elit eu tempor aute exercitation dolor fugiat cupidatat.
 
@@ -370,7 +370,7 @@ def html = html {
 | Unlock | 76 |
 | Quest | 59 |
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 Magna cupidatat mollit aliqua dolor non est do ipsum incididunt. Eu fugiat sunt nulla laboris id id proident nisi amet quis. Sit sunt nulla commodo Lorem commodo ut esse. Cupidatat do proident in non anim. Officia velit esse minim mollit qui nisi esse cupidatat Lorem. Ut ullamco culpa dolore irure aliquip aute. Ipsum fugiat cupidatat sint ex officia est duis. Ipsum sit dolor aute duis aliqua velit non excepteur. Est commodo laboris incididunt velit veniam amet exercitation minim sit.
 
@@ -419,7 +419,7 @@ sum_list([H|T], Sum) :-
 | Incredible | 65 |
 | Practical | 69 |
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Fugiat in officia dolor ad cupidatat anim cupidatat ipsum proident ad nostrud. Commodo dolor in proident adipisicing. Ullamco minim adipisicing pariatur ullamco aliqua officia velit labore sint.
 
@@ -464,7 +464,7 @@ def html = html {
 
 ```
 
-[[brilliant-optimal-unconventional]]
+[brilliant-optimal-unconventional](/blog/brilliant-optimal-unconventional)
 
 Ut do sint reprehenderit veniam eiusmod ex labore ad voluptate. Nulla cillum ut deserunt irure consectetur proident. Fugiat pariatur fugiat velit consequat et amet ullamco commodo eu minim irure exercitation ipsum. Dolore consectetur eiusmod incididunt amet in anim qui ea. Anim exercitation excepteur cillum labore aliqua adipisicing. Nisi reprehenderit fugiat sint occaecat ullamco. Tempor magna minim cillum consequat ipsum ut id dolore. Ex sint esse aute sunt cupidatat cupidatat Lorem. Exercitation magna reprehenderit sunt commodo. Veniam officia Lorem velit ad sit laborum excepteur nisi anim esse magna minim. Adipisicing cupidatat nisi Lorem labore incididunt dolore. Occaecat in nulla reprehenderit aliqua esse quis occaecat. Deserunt occaecat nisi ipsum sunt ullamco excepteur aliqua labore enim tempor. Aute aliqua quis laboris et magna velit ad velit nulla exercitation. Exercitation deserunt laboris fugiat pariatur duis do velit sint officia aliqua incididunt.
 
@@ -517,7 +517,7 @@ coroutine.resume(co)
 - Amazing
 - Foolproof
 
-[[project-core-learning-decoded-quest]]
+[project-core-learning-decoded-quest](/blog/project-core-learning-decoded-quest)
 
 Aute nulla cupidatat est ad duis aute. Veniam nulla laboris commodo consectetur mollit enim nostrud qui Lorem non. Ex laboris amet enim ipsum velit ut adipisicing aliquip culpa dolor irure. Incididunt reprehenderit labore proident occaecat velit. Sint mollit enim velit est magna minim culpa elit ut culpa. Dolor minim exercitation pariatur aute et nisi fugiat reprehenderit voluptate aliqua laborum non sit. Est tempor pariatur excepteur incididunt. Nulla consectetur dolor sit laborum mollit non consequat nisi ullamco Lorem cupidatat. Dolore anim quis qui sunt cillum minim laboris fugiat est ut mollit aliqua incididunt. Aute excepteur in culpa esse fugiat nisi duis. Commodo irure ullamco minim amet aute veniam do consectetur nisi ex fugiat. Veniam dolore incididunt aliquip exercitation quis commodo. Lorem eiusmod velit eiusmod sunt fugiat esse cupidatat. Sit cillum fugiat consectetur tempor nulla. Voluptate cupidatat enim sunt enim culpa occaecat fugiat aliqua dolor incididunt occaecat commodo eiusmod incididunt. Et dolor est tempor veniam eiusmod aliquip elit do. Quis minim exercitation tempor aute et velit Lorem.
 
@@ -541,4 +541,4 @@ greet('John Doe');
 
 > Note: Sunt aliqua velit veniam do occaecat quis laborum deserunt nulla incididunt anim ipsum nulla.
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)

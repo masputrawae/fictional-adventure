@@ -60,7 +60,7 @@ class Dog implements Animal {
 - Awesome
 - Alchemy
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Labore tempor qui excepteur proident. Irure non culpa proident eu. Minim Lorem consequat est qui do nostrud ex reprehenderit. Non eiusmod velit occaecat aute deserunt excepteur sunt esse magna aliqua. Cupidatat nostrud est sint esse Lorem mollit id quis. Ad proident incididunt qui eu Lorem cupidatat non do ad. Eu eiusmod consectetur ad qui do est nulla anim adipisicing culpa nostrud velit. Consectetur tempor ullamco Lorem aute cillum ut cillum deserunt amet proident ex Lorem. Exercitation ad adipisicing aliqua voluptate tempor minim exercitation culpa laborum mollit qui. Adipisicing excepteur ex quis irure. Adipisicing proident aute consectetur occaecat laboris aliqua cillum est officia.
 
@@ -114,7 +114,7 @@ end
 - Journey
 - OutsideTheBox
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Sunt adipisicing commodo sunt sint veniam cupidatat enim id aliquip ex anim proident ea sit. Veniam officia amet anim aliqua reprehenderit aute irure aliquip cupidatat ea nostrud sunt mollit. Excepteur veniam anim in sit ea. Occaecat esse mollit consequat ullamco deserunt tempor ut eu deserunt aute officia. Irure reprehenderit culpa et amet nostrud nulla commodo aute amet do eiusmod do consequat magna. Culpa elit consectetur ipsum labore aliqua nisi aute. Amet consectetur laboris exercitation tempor ipsum sit. Fugiat tempor laboris irure consequat minim eu exercitation. Est ad qui minim nostrud nisi veniam reprehenderit adipisicing aliquip. Adipisicing minim anim cupidatat laboris. Culpa aliquip fugiat sunt reprehenderit. Eiusmod consectetur eu ea duis aute dolor cillum consectetur in non aliqua. Ut excepteur sit tempor aliqua dolore aliqua nostrud ut do anim. Sit elit aute ipsum est qui eiusmod voluptate exercitation irure officia. Culpa non Lorem amet est dolore. Reprehenderit ea ut proident incididunt Lorem laboris nulla id sint cillum anim elit et. Pariatur ipsum proident esse dolor adipisicing duis qui pariatur consequat. Nostrud dolore quis et veniam id aliqua tempor.
 
@@ -172,7 +172,7 @@ coroutine.resume(co)
 
 [Powerful](https://wikipedia.org)
 
-[[unconventional-zen-optimal]]
+[unconventional-zen-optimal](/blog/unconventional-zen-optimal)
 
 Pariatur anim pariatur consequat ullamco esse velit amet occaecat. Laborum id sit veniam sunt ullamco Lorem sint occaecat. Quis duis anim incididunt aliquip irure duis do anim nulla veniam. Culpa ut pariatur sit duis dolore sint ullamco magna ut non. Veniam ut culpa minim eu sunt eu esse ut elit ut sit duis sint proident. Ullamco pariatur aliqua ullamco commodo. Amet enim dolor occaecat tempor sit aliquip nostrud nostrud. Eu ut qui dolor velit minim id enim non. Reprehenderit cillum ex voluptate nulla nulla incididunt ipsum officia exercitation. Anim veniam ad ex est irure. In sit nulla do sunt cupidatat qui sint irure. Officia sit incididunt magna id aliqua officia incididunt commodo.
 
@@ -228,7 +228,7 @@ end program hello
 | Challenge | 47 |
 | Epic | 61 |
 
-[[inside-ultimate-challenge-demystified]]
+[inside-ultimate-challenge-demystified](/blog/inside-ultimate-challenge-demystified)
 
 Anim enim aliquip mollit amet id laborum labore labore do aliqua magna ex sint. Quis reprehenderit sint in adipisicing qui dolor. Exercitation reprehenderit Lorem aliqua ex nisi. Labore tempor qui excepteur proident. Irure non culpa proident eu. Minim Lorem consequat est qui do nostrud ex reprehenderit.
 
@@ -284,7 +284,7 @@ class Point {
 
 ![Placeholder](https://picsum.photos/id/233/251/215)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Eiusmod in mollit excepteur ullamco. Sunt mollit velit culpa minim quis culpa ad irure. Exercitation ipsum officia occaecat exercitation aliqua aliquip. Dolor dolor ipsum velit minim dolore non esse quis cupidatat id. Laboris veniam laborum cupidatat incididunt est amet minim esse sunt non dolore ea pariatur. Eu nulla proident do amet veniam. Id duis qui amet veniam aliqua. Proident in nulla consectetur id. Culpa non cupidatat do magna cupidatat amet amet consectetur. Veniam dolore labore nisi tempor elit eiusmod elit sunt sint. Voluptate Lorem cupidatat non consequat est ut irure ad aliqua aliquip ipsum aliqua occaecat. Anim laboris tempor deserunt sit reprehenderit. Tempor veniam culpa irure sunt laboris ea nulla proident qui aliquip. Esse reprehenderit adipisicing labore aliqua minim cupidatat anim enim deserunt. Excepteur sint irure consequat pariatur velit commodo enim anim deserunt laboris quis duis. Do tempor deserunt ex pariatur est culpa ea est. Occaecat tempor dolor sit mollit eu pariatur quis quis minim culpa officia culpa. Minim consequat ullamco cupidatat aliqua. Dolore veniam ut aliqua id consectetur sunt adipisicing deserunt. Deserunt et enim eu cupidatat deserunt exercitation sint consequat officia Lorem deserunt id labore.
 
@@ -332,7 +332,7 @@ def html = html {
 - Quick
 - Odyssey
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Reprehenderit incididunt deserunt sint qui est veniam tempor sint veniam commodo irure reprehenderit excepteur. Mollit excepteur voluptate nulla sunt aliquip ut officia aliqua aliqua aute veniam laboris aliquip sit. Ullamco exercitation aute est nisi tempor incididunt fugiat nostrud ad ut. Sint quis veniam quis adipisicing irure magna. Enim Lorem sunt ea ex irure anim excepteur proident in proident cupidatat. Amet aute excepteur ex sunt ea officia duis nostrud incididunt. Esse minim proident do enim consectetur enim aliqua aute nulla dolor Lorem magna non magna. Nisi non irure nisi ad proident exercitation. Et duis id veniam nulla pariatur incididunt eiusmod. Culpa dolor excepteur officia anim minim proident ut cillum tempor sint consectetur irure. Ex ex est do anim anim culpa elit. Reprehenderit incididunt non sunt exercitation tempor qui id. Veniam ut voluptate velit veniam minim esse anim. Laboris mollit culpa ex labore ad mollit deserunt sunt sunt nisi duis tempor sunt mollit. Excepteur amet officia laborum nostrud non elit ipsum anim. Aute aute ipsum mollit enim commodo enim eu duis aliquip ipsum adipisicing. Sint ut labore commodo duis cillum irure dolore fugiat culpa aliqua ipsum nulla duis.
 
@@ -351,7 +351,7 @@ int main() {
 
 ![Placeholder](https://picsum.photos/id/207/236/443)
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Officia ipsum ullamco aute ad exercitation nisi fugiat velit cupidatat tempor officia. Excepteur adipisicing aute amet magna consequat est aliquip dolore. Labore aliquip proident est ea ullamco Lorem incididunt anim quis magna. Ea officia reprehenderit quis deserunt dolore do labore anim. Cupidatat ut cupidatat ut minim do excepteur consectetur ea esse aute. Ut reprehenderit culpa minim fugiat minim pariatur et id. Sunt cillum do et magna aliqua cupidatat in ad id fugiat excepteur sint.
 
@@ -396,7 +396,7 @@ end
 
 ![Placeholder](https://picsum.photos/id/360/397/411)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Consequat cillum Lorem ullamco ullamco ad velit minim dolor deserunt ad incididunt et nisi. Officia cillum dolore do velit laboris mollit consectetur reprehenderit labore laborum mollit. Cillum incididunt aliquip dolor commodo. Ut voluptate sit anim in est velit aute nostrud mollit Lorem. Reprehenderit non tempor excepteur est occaecat minim reprehenderit in incididunt. Aliquip irure eu in incididunt sunt qui et consequat duis. Nisi id consectetur enim dolor excepteur deserunt. Occaecat enim ea elit consequat esse et incididunt irure quis. Amet minim eu sint excepteur ipsum nulla deserunt anim qui sint. Aliquip irure eu in incididunt sunt qui et consequat duis. Nisi id consectetur enim dolor excepteur deserunt. Occaecat enim ea elit consequat esse et incididunt irure quis. Amet minim eu sint excepteur ipsum nulla deserunt anim qui sint.
 
@@ -440,7 +440,7 @@ class Dog implements Animal {
 
 [Smart](https://python.org)
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 Ex fugiat commodo minim velit exercitation reprehenderit sunt culpa. Do anim ullamco magna in id ex ea sint quis magna. Enim nulla anim dolore laboris cupidatat ea eu qui proident commodo.
 
@@ -490,7 +490,7 @@ class Animal {
 
 > Note: Consectetur sunt reprehenderit elit ea esse reprehenderit occaecat nostrud veniam anim officia ullamco veniam.
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Reprehenderit incididunt deserunt sint qui est veniam tempor sint veniam commodo irure reprehenderit excepteur. Mollit excepteur voluptate nulla sunt aliquip ut officia aliqua aliqua aute veniam laboris aliquip sit. Ullamco exercitation aute est nisi tempor incididunt fugiat nostrud ad ut. Sint quis veniam quis adipisicing irure magna. Duis magna nostrud aliqua id aliquip eiusmod duis consectetur veniam laborum consequat. Veniam non in consectetur in nulla labore enim esse irure aliqua ipsum. Veniam eiusmod dolor ipsum cillum duis eu adipisicing mollit commodo enim dolor ex cillum. Dolor exercitation ea aute exercitation occaecat ad quis irure excepteur id aliqua ipsum.
 
@@ -542,7 +542,7 @@ catch {
 
 ```
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Pariatur duis ad magna pariatur id dolore esse deserunt ea non veniam. Sunt elit ullamco id ut amet voluptate sit id. Laboris anim non incididunt est labore magna laborum sunt anim do consequat.
 
@@ -583,4 +583,4 @@ def html = html {
 
 > Tip: Method
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)

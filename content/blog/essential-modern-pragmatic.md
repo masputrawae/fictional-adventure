@@ -8,8 +8,8 @@ tags:
 Nulla sunt mollit ad ut eiusmod reprehenderit anim do occaecat voluptate ullamco irure amet. Et nulla consequat amet commodo nostrud irure amet. Amet magna aliquip aliqua mollit ad nulla. Lorem minim proident labore exercitation occaecat cillum culpa laborum ad. Sit adipisicing mollit veniam proident cupidatat consectetur. Sunt irure elit velit exercitation nisi eu id.
 
 
-- [[epic-secret-art]] 
-- [[tutorial-revolutionary-amazing-nofluff]] 
-- [[quick-holistic-actionable]] 
-- [[magic-smart]] 
-- [[super-journey-hidden-peek]]
+- [epic-secret-art](/blog/epic-secret-art) 
+- [tutorial-revolutionary-amazing-nofluff](/blog/tutorial-revolutionary-amazing-nofluff) 
+- [quick-holistic-actionable](/blog/quick-holistic-actionable) 
+- [magic-smart](/blog/magic-smart) 
+- [super-journey-hidden-peek](/blog/super-journey-hidden-peek)

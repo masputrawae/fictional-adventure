@@ -6,13 +6,13 @@
   &__logo {
     @include m.size(100px);
     padding: 0.25em;
-    border: 1px solid var(--border-base);
+    border: 1px solid var(--border-primary);
     border-radius: 0.15em;
-    box-shadow: var(--shadow-sm);
+    box-shadow: var(--shadow-subtle);
   }
 
   &__title {
-    color: var(--color-second);
+    color: var(--text-primary);
     font-size: v.$fs-5xl;
     font-family: v.$font-serif;
     font-style: normal;

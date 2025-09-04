@@ -9,8 +9,8 @@ tags:
 Consequat ipsum ut eiusmod sunt ipsum quis quis irure officia dolore consectetur dolore fugiat ad. Aliquip id tempor tempor et qui culpa sint ea. Enim aute deserunt ut laboris sint consequat qui sit eu. Anim consectetur enim id deserunt. Duis ut adipisicing eiusmod cupidatat ex ut eiusmod excepteur in esse id enim.
 
 
-- [[insider-mindful-effective]] 
-- [[digital-optimal]] 
-- [[expert-forgotten]] 
-- [[tutorial-playbook-actionable]] 
-- [[modular-fun]]
+- [insider-mindful-effective](/blog/insider-mindful-effective) 
+- [digital-optimal](/blog/digital-optimal) 
+- [expert-forgotten](/blog/expert-forgotten) 
+- [tutorial-playbook-actionable](/blog/tutorial-playbook-actionable) 
+- [modular-fun](/blog/modular-fun)

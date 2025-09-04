@@ -16,7 +16,7 @@
   &:hover,
   &:focus-visible,
   &:active {
-    color: var(--color-third);
+    color: var(--text-muted);
   }
 
   &:focus-visible {
@@ -32,7 +32,7 @@
     content: "References";
     display: block;
     font-size: v.$fs-8xl;
-    border-block-end: 1px dotted var(--border-base);
+    border-block-end: 1px dotted var(--border-primary);
     color: var(--color-second);
     line-height: 1.75;
     font-family: v.$font-serif;

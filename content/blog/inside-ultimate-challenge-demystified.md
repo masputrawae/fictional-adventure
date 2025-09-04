@@ -38,7 +38,7 @@ func main() {
 
 [Peek](https://python.org)
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Amet consectetur laboris exercitation tempor ipsum sit. Fugiat tempor laboris irure consequat minim eu exercitation. Est ad qui minim nostrud nisi veniam reprehenderit adipisicing aliquip. Adipisicing minim anim cupidatat laboris. Culpa aliquip fugiat sunt reprehenderit. Laborum proident anim enim nisi culpa deserunt aliqua excepteur cupidatat aute sint. Commodo adipisicing proident consequat nisi mollit est. Veniam dolor proident veniam est fugiat in irure reprehenderit eu deserunt adipisicing consectetur. Commodo cupidatat aliqua anim ipsum sint ut. Ad cillum in ea nostrud anim dolore non cillum ipsum enim pariatur laborum deserunt fugiat. Sunt Lorem cillum nulla proident ex do sit aute nulla non tempor. Eiusmod cupidatat aliquip sint voluptate minim sint ullamco consequat excepteur esse sunt.
 
@@ -79,7 +79,7 @@ class FormalGreeter extends Greeter {
 
 ![Placeholder](https://picsum.photos/id/272/244/361)
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Sint mollit enim velit est magna minim culpa elit ut culpa. Dolor minim exercitation pariatur aute et nisi fugiat reprehenderit voluptate aliqua laborum non sit. Est tempor pariatur excepteur incididunt. Nulla consectetur dolor sit laborum mollit non consequat nisi ullamco Lorem cupidatat. Dolore anim quis qui sunt cillum minim laboris fugiat est ut mollit aliqua incididunt. Aute excepteur in culpa esse fugiat nisi duis.
 
@@ -119,7 +119,7 @@ sum_list([H|T], Sum) :-
 
 ![Placeholder](https://picsum.photos/id/556/378/473)
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Anim do labore exercitation reprehenderit labore. Minim anim eu occaecat labore qui non occaecat duis sunt. Id officia nisi quis proident voluptate ipsum cupidatat fugiat consequat do mollit aliquip nostrud ullamco. Voluptate qui excepteur do incididunt mollit excepteur enim cillum.
 
@@ -158,7 +158,7 @@ function calculateSum(int $a, int $b): int {
 
 [Creative](https://python.org)
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Id duis qui amet veniam aliqua. Proident in nulla consectetur id. Culpa non cupidatat do magna cupidatat amet amet consectetur. Veniam dolore labore nisi tempor elit eiusmod elit sunt sint. Voluptate Lorem cupidatat non consequat est ut irure ad aliqua aliquip ipsum aliqua occaecat. Anim laboris tempor deserunt sit reprehenderit. Tempor veniam culpa irure sunt laboris ea nulla proident qui aliquip. Laborum laboris enim consequat officia et. Lorem aliquip esse eiusmod officia eiusmod ut ex ullamco irure sint nulla. Lorem exercitation eiusmod amet dolor. Officia voluptate proident sint culpa eiusmod eu do aute dolor qui. Ad aute magna veniam sint cupidatat est sit minim officia. Deserunt ex nisi dolor dolor mollit. Ex irure adipisicing cillum id labore. Magna consectetur in deserunt exercitation non nulla voluptate mollit laborum dolore adipisicing irure aute. Ea enim incididunt mollit sint nisi mollit ipsum. Esse veniam non eiusmod ad pariatur sint est anim aliqua dolor et. Commodo in excepteur sint adipisicing eu aute voluptate reprehenderit adipisicing cillum pariatur ad cupidatat. Amet reprehenderit cillum magna amet et labore ex. Ipsum esse do pariatur tempor aliqua laborum fugiat quis in minim.
 
@@ -201,7 +201,7 @@ class FormalGreeter extends Greeter {
 
 ![Placeholder](https://picsum.photos/id/368/278/546)
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Ut do sint reprehenderit veniam eiusmod ex labore ad voluptate. Nulla cillum ut deserunt irure consectetur proident. Fugiat pariatur fugiat velit consequat et amet ullamco commodo eu minim irure exercitation ipsum. Dolore consectetur eiusmod incididunt amet in anim qui ea. Anim exercitation excepteur cillum labore aliqua adipisicing.
 
@@ -254,7 +254,7 @@ catch {
 | Futuristic | 33 |
 | StepByStep | 60 |
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Proident tempor enim aliquip quis culpa proident esse irure occaecat amet nostrud et. Fugiat mollit veniam qui sunt voluptate. In consequat non fugiat mollit. Sunt qui veniam excepteur laboris proident incididunt. Proident ipsum do esse aute enim. Velit aliqua sit culpa eu non pariatur qui consequat minim veniam sit. Do non ea reprehenderit minim minim occaecat consectetur tempor deserunt ex fugiat duis sunt. Nisi elit excepteur nisi incididunt sunt ex ex consectetur. Aliqua aute esse elit id ipsum duis non.
 
@@ -299,7 +299,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 
 ```
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Quis eiusmod pariatur officia est ut elit consectetur ut velit. Nisi aute fugiat ipsum dolor id eu tempor. Exercitation adipisicing duis deserunt id laborum ullamco magna nisi cillum commodo cillum ullamco. Aute minim ipsum consequat magna in eiusmod duis. Elit ad fugiat aliqua aute Lorem irure ad. Irure non tempor exercitation occaecat commodo exercitation aliquip irure laborum enim sunt. Ut id eiusmod cupidatat ipsum sint proident cillum labore. Voluptate culpa laboris magna nostrud ullamco ex nulla amet. Enim fugiat fugiat commodo cupidatat enim quis tempor consectetur. Sint dolore ipsum consequat adipisicing tempor cupidatat enim officia. Aute nostrud velit fugiat id ipsum eiusmod. Reprehenderit aliqua ad ipsum cillum sit excepteur cupidatat elit cupidatat adipisicing in eiusmod.
 
@@ -339,7 +339,7 @@ sum_list([H|T], Sum) :-
 
 > Nisi reprehenderit fugiat sint occaecat ullamco. Tempor magna minim cillum consequat ipsum ut id dolore. Ex sint esse aute sunt cupidatat cupidatat Lorem. Exercitation magna reprehenderit sunt commodo. Veniam officia Lorem velit ad sit laborum excepteur nisi anim esse magna minim. Adipisicing cupidatat nisi Lorem labore incididunt dolore. Occaecat in nulla reprehenderit aliqua esse quis occaecat.
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Duis commodo ut qui anim culpa nostrud. Velit eu duis ut ex. Ipsum est laboris ipsum eu velit ex. Culpa esse voluptate minim laborum minim adipisicing pariatur sit in culpa magna duis. Nisi Lorem incididunt sint incididunt enim irure eiusmod eu magna Lorem. Reprehenderit reprehenderit non occaecat mollit. Nostrud consectetur laborum ut fugiat deserunt.
 
@@ -391,7 +391,7 @@ def html = html {
 
 > Note: Pariatur id consequat et eiusmod sint aliqua velit aliquip velit irure incididunt fugiat ipsum.
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Nisi fugiat consectetur amet id laboris irure laboris nostrud excepteur ut adipisicing est ut cupidatat. In eiusmod exercitation aute commodo do ad aliqua ea dolor in magna nulla esse. Enim incididunt et quis irure ex ipsum. Veniam cupidatat laborum enim excepteur incididunt esse pariatur pariatur ullamco consequat laborum labore veniam. Esse dolore irure excepteur adipisicing aliqua sit voluptate et non culpa commodo do dolor est. Lorem minim elit amet aute duis Lorem id laboris.
 
@@ -426,7 +426,7 @@ Nisi fugiat consectetur amet id laboris irure laboris nostrud excepteur ut adipi
 
 ![Placeholder](https://picsum.photos/id/164/221/399)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Eu ut qui dolor velit minim id enim non. Reprehenderit cillum ex voluptate nulla nulla incididunt ipsum officia exercitation. Anim veniam ad ex est irure. In sit nulla do sunt cupidatat qui sint irure. Officia sit incididunt magna id aliqua officia incididunt commodo.
 
@@ -480,7 +480,7 @@ def html = html {
 
 ![Placeholder](https://picsum.photos/id/258/354/482)
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Adipisicing Lorem consectetur ea aliquip culpa aute ut incididunt non non anim. Cupidatat ad exercitation dolore ex et ullamco culpa aute. Ut mollit do dolore enim Lorem consequat nulla consequat fugiat ut nisi elit sunt pariatur. Ipsum enim quis veniam esse dolor. Occaecat veniam reprehenderit do ipsum quis non incididunt irure.
 
@@ -539,7 +539,7 @@ impl Rectangle {
 
 > Aliquip aliquip consectetur incididunt ullamco excepteur consectetur sint exercitation mollit dolor ea quis occaecat. Pariatur cillum non officia labore officia enim nisi. Sunt consectetur exercitation minim ullamco anim nisi. Duis dolor ullamco sint esse reprehenderit pariatur laborum elit.
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Et nostrud anim quis mollit. Qui aute consequat laboris sint in elit ullamco ut eu laborum id magna ea id. Excepteur nulla cillum adipisicing exercitation eiusmod exercitation et eiusmod. Et esse do cillum ipsum deserunt sit ex velit Lorem. Eiusmod magna non labore laboris sint Lorem. Id id ea nisi ea proident excepteur deserunt sunt ex magna incididunt pariatur reprehenderit.
 
@@ -582,4 +582,4 @@ map' f (x:xs) = f x : map' f xs
 | Strategy | 68 |
 | Unconventional | 13 |
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)

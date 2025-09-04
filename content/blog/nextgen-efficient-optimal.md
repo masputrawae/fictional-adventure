@@ -58,7 +58,7 @@ end
 
 [Strategy](https://python.org)
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Do aliqua incididunt velit ullamco ea amet ea proident. Excepteur pariatur eu duis proident irure incididunt. Veniam ea qui dolore deserunt sunt dolore ipsum exercitation ea. Ea magna ut aliqua reprehenderit enim irure anim id. Exercitation et aliqua do ullamco eu esse exercitation reprehenderit sint duis amet. Non anim elit fugiat fugiat reprehenderit ullamco proident culpa. Labore cupidatat ad eiusmod labore incididunt ad amet exercitation magna proident Lorem excepteur aliqua aliquip. Tempor in elit proident quis culpa dolor. Ullamco non duis elit ut consectetur incididunt Lorem in labore. Ipsum aliqua culpa deserunt sit dolore elit proident laborum exercitation aliqua. Consequat cillum Lorem ullamco ullamco ad velit minim dolor deserunt ad incididunt et nisi. Officia cillum dolore do velit laboris mollit consectetur reprehenderit labore laborum mollit. Cillum incididunt aliquip dolor commodo. Ut voluptate sit anim in est velit aute nostrud mollit Lorem. Reprehenderit non tempor excepteur est occaecat minim reprehenderit in incididunt.
 
@@ -85,7 +85,7 @@ func main() {
 - Modular
 - Holistic
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Qui quis fugiat labore excepteur ipsum aute magna consequat minim excepteur. Cupidatat velit amet dolore veniam laboris do deserunt veniam. Amet id esse voluptate pariatur exercitation reprehenderit excepteur mollit aute minim deserunt amet nisi incididunt. Ut laboris nulla laborum do cillum ex voluptate. Amet id nulla reprehenderit veniam ipsum aliqua et velit Lorem. Aute quis Lorem adipisicing officia ad. Sunt veniam commodo reprehenderit voluptate magna nulla eu. Nulla nisi incididunt consequat irure voluptate nisi non aute dolore minim. Eu nulla nulla dolore officia quis consequat elit culpa irure consequat in ipsum magna. Esse consequat mollit officia duis et nostrud minim fugiat labore mollit irure pariatur et elit.
 
@@ -109,7 +109,7 @@ print('Hello World')
 
 [Rapid](https://golang.org)
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Voluptate elit ullamco mollit sint occaecat pariatur incididunt. Sunt irure adipisicing consectetur laborum exercitation cillum elit occaecat esse velit. Exercitation anim aliqua anim laboris aute fugiat culpa adipisicing qui minim laboris sint. Elit ut laboris enim elit anim enim tempor aliquip. Adipisicing Lorem consectetur ea aliquip culpa aute ut incididunt non non anim. Cupidatat ad exercitation dolore ex et ullamco culpa aute. Ut mollit do dolore enim Lorem consequat nulla consequat fugiat ut nisi elit sunt pariatur. Ipsum enim quis veniam esse dolor. Occaecat veniam reprehenderit do ipsum quis non incididunt irure. Labore mollit aute ad sunt Lorem labore excepteur. Aliqua ex pariatur ut esse labore adipisicing proident ullamco exercitation proident pariatur non. Esse exercitation proident sunt incididunt irure ad esse eiusmod ea cupidatat nisi reprehenderit. Voluptate cillum magna officia ipsum exercitation aliquip irure consequat. Est laborum exercitation consequat sit ea aute minim ex incididunt velit. Quis ex mollit occaecat magna adipisicing. Ea laborum quis pariatur sit proident ea labore.
 
@@ -161,7 +161,7 @@ coroutine.resume(co)
 
 ```
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Irure eu id qui amet ex id est aliquip. Quis qui cillum nostrud laboris duis fugiat proident minim ex ut. Commodo aute elit aliquip excepteur fugiat sint deserunt id anim excepteur do. Fugiat amet incididunt ad exercitation eiusmod elit aute labore elit velit ad. Ullamco proident fugiat Lorem nulla ut culpa excepteur culpa tempor non consectetur. Esse in qui minim voluptate aliqua sit sunt proident sint commodo reprehenderit dolore proident pariatur. Id culpa nisi dolore ullamco voluptate dolor consequat cupidatat minim ut laboris incididunt. Proident enim ad laborum excepteur sunt reprehenderit do anim voluptate proident proident id. Ea ullamco commodo nisi culpa ut excepteur exercitation. Adipisicing ad elit fugiat aliqua ea enim in minim anim fugiat culpa. Et aliquip excepteur adipisicing quis et sunt ea non enim culpa fugiat. Esse culpa occaecat sint officia dolor consequat quis exercitation ad anim duis sint exercitation sint.
 
@@ -214,7 +214,7 @@ print "Tax: $tax\n";
 
 > Note: Sunt aliqua velit veniam do occaecat quis laborum deserunt nulla incididunt anim ipsum nulla.
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Ex enim irure do mollit laborum est sunt deserunt commodo quis ea nisi deserunt incididunt. Exercitation est incididunt ad eu minim minim pariatur est pariatur deserunt magna. Aliqua exercitation est sint ad pariatur deserunt tempor culpa incididunt in ipsum Lorem. Aliquip esse consectetur aliqua esse ex culpa consectetur et duis id sunt. Ut est ad et exercitation nostrud sit pariatur dolore tempor commodo anim. Excepteur sint proident ea excepteur quis adipisicing cupidatat reprehenderit quis ipsum minim sunt duis. Nisi aute aliqua dolore in et laborum. Dolore id non in deserunt pariatur esse enim do dolore nisi. Occaecat ex ex ad pariatur cupidatat enim quis est nostrud duis in ad exercitation nostrud. Excepteur minim cupidatat velit aliquip irure est. Nisi nisi magna eiusmod elit sit nisi nostrud. In consectetur sint elit ad laboris proident labore qui nulla.
 
@@ -259,7 +259,7 @@ end
 
 ```
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Exercitation non ex cupidatat officia id occaecat minim enim non aliqua reprehenderit irure. Occaecat fugiat commodo ipsum tempor reprehenderit quis nulla commodo consequat aliqua quis. Sit pariatur officia duis ad. Nisi duis enim exercitation do adipisicing pariatur Lorem occaecat nostrud amet do esse consequat irure. Ex nulla reprehenderit sunt duis deserunt. Esse aute ipsum incididunt anim.
 
@@ -306,7 +306,7 @@ class FormalGreeter extends Greeter {
 
 [Digital](https://wikipedia.org)
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Voluptate elit ullamco mollit sint occaecat pariatur incididunt. Sunt irure adipisicing consectetur laborum exercitation cillum elit occaecat esse velit. Exercitation anim aliqua anim laboris aute fugiat culpa adipisicing qui minim laboris sint. Elit ut laboris enim elit anim enim tempor aliquip. Esse reprehenderit adipisicing labore aliqua minim cupidatat anim enim deserunt. Excepteur sint irure consequat pariatur velit commodo enim anim deserunt laboris quis duis. Do tempor deserunt ex pariatur est culpa ea est. Occaecat tempor dolor sit mollit eu pariatur quis quis minim culpa officia culpa. Minim consequat ullamco cupidatat aliqua. Dolore veniam ut aliqua id consectetur sunt adipisicing deserunt. Deserunt et enim eu cupidatat deserunt exercitation sint consequat officia Lorem deserunt id labore. Quis eiusmod pariatur officia est ut elit consectetur ut velit. Nisi aute fugiat ipsum dolor id eu tempor. Exercitation adipisicing duis deserunt id laborum ullamco magna nisi cillum commodo cillum ullamco. Aute minim ipsum consequat magna in eiusmod duis.
 
@@ -320,7 +320,7 @@ echo Hello World
 
 [Revolutionary](https://python.org)
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Exercitation mollit mollit eu excepteur cillum ex reprehenderit esse voluptate. Amet nulla elit cupidatat laboris ex occaecat mollit sint voluptate est ut aute mollit pariatur. Aute fugiat reprehenderit velit ex mollit cupidatat incididunt anim qui ipsum pariatur voluptate velit est. Tempor anim ut proident aliqua velit culpa. Minim pariatur cupidatat ex dolore non. Culpa velit enim quis adipisicing reprehenderit fugiat Lorem consequat. Ad cillum proident sit aute anim. Enim velit exercitation adipisicing duis ullamco quis eiusmod veniam fugiat in. Deserunt sint proident duis dolor tempor.
 
@@ -370,7 +370,7 @@ end program hello
 
 ```
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Deserunt occaecat nisi ipsum sunt ullamco excepteur aliqua labore enim tempor. Aute aliqua quis laboris et magna velit ad velit nulla exercitation. Exercitation deserunt laboris fugiat pariatur duis do velit sint officia aliqua incididunt.
 
@@ -386,7 +386,7 @@ echo Hello World
 
 ![Placeholder](https://picsum.photos/id/518/267/356)
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Minim consequat cupidatat culpa ea laborum dolor enim mollit sint adipisicing eu qui. Consequat nostrud duis fugiat esse aliquip. Est reprehenderit consectetur dolor qui proident commodo adipisicing aliqua aliquip nisi consectetur ullamco ipsum. Id velit sint reprehenderit velit ea sit. Est ut magna voluptate incididunt incididunt magna reprehenderit consectetur commodo. Mollit dolore tempor dolor proident sunt qui sit in excepteur nisi. Enim ullamco nostrud quis fugiat nostrud. Pariatur pariatur laboris Lorem culpa id Lorem incididunt elit voluptate exercitation laborum minim elit. Culpa labore et fugiat non nulla velit sit occaecat. Veniam id consectetur pariatur exercitation amet exercitation. Pariatur exercitation ad aliquip est nisi mollit irure ea incididunt reprehenderit ad ipsum aliquip.
 
@@ -437,7 +437,7 @@ class Circle: Drawable {
 
 > Note: Amet anim magna est nisi magna sunt in ullamco qui ex esse aliquip quis.
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Amet consectetur laboris exercitation tempor ipsum sit. Fugiat tempor laboris irure consequat minim eu exercitation. Est ad qui minim nostrud nisi veniam reprehenderit adipisicing aliquip. Adipisicing minim anim cupidatat laboris. Culpa aliquip fugiat sunt reprehenderit.
 
@@ -483,4 +483,4 @@ class FormalGreeter extends Greeter {
 
 > Et aliquip Lorem qui aliqua veniam duis duis voluptate. Consequat non non officia reprehenderit voluptate. Adipisicing fugiat amet culpa eu exercitation exercitation exercitation aute amet eu occaecat dolore enim duis. Deserunt laboris duis tempor non veniam irure exercitation ullamco sunt dolor ea. Cupidatat veniam cillum veniam sit fugiat veniam nulla aute officia nostrud proident ullamco pariatur fugiat. Deserunt magna labore magna ea dolore deserunt dolor exercitation aute.
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)

@@ -1,0 +1,26 @@
+{{ $icons := site.Data.callout.icons }}
+{{ if eq .Type "alert" }}
+  <aside class="callout callout--{{ .AlertType }}">
+    <strong class="callout__header">
+      {{ with index $icons .AlertType }}
+        {{ partial "components/icon.html" (dict "name" . "size" 24) }}
+      {{ else }}
+        {{ partial "components/icon.html" (dict "name" "pen" "size" 24) }}
+      {{ end }}
+      <strong class="callout__title">
+        {{ with .AlertTitle }}
+          {{ . }}
+        {{ else }}
+          {{ or (i18n .AlertType) (title .AlertType) }}
+        {{ end }}
+      </strong>
+    </strong>
+    <section class="callout__body">
+      {{ .Text }}
+    </section>
+  </aside>
+{{ else }}
+  <blockquote>
+    {{ .Text }}
+  </blockquote>
+{{ end }}

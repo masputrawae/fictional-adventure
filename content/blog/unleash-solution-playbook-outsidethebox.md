@@ -50,7 +50,7 @@ print(p.greet())
 - Amazing
 - Rapid
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 Consequat proident elit velit esse fugiat nostrud irure proident et qui. Cupidatat ad Lorem tempor sint consequat nisi cupidatat tempor minim incididunt qui. Voluptate qui incididunt quis cupidatat eiusmod Lorem.
 
@@ -72,7 +72,7 @@ echo Hello World
 
 [Foolproof](https://golang.org)
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Nostrud nisi nulla fugiat ut Lorem aliquip nulla aliquip exercitation. Exercitation nisi nostrud cupidatat officia deserunt sunt est amet. Voluptate mollit minim labore aliqua aliqua adipisicing ea in cupidatat incididunt veniam. Sunt mollit nostrud labore eu do cillum voluptate ea sunt.
 
@@ -121,7 +121,7 @@ function calculateSum(int $a, int $b): int {
 
 > Note: Laborum commodo mollit est laboris nostrud aliqua.
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Minim officia aute id ipsum nisi culpa sint sint sint sunt nulla aliquip. Amet ad laborum eiusmod deserunt sint tempor enim. Duis ad aliqua velit sunt commodo culpa laboris consectetur. Minim occaecat excepteur culpa ea. Velit commodo nulla enim ad velit occaecat sit. Eiusmod commodo culpa consequat veniam irure duis qui proident reprehenderit consequat in id elit. Labore tempor qui excepteur proident. Irure non culpa proident eu. Minim Lorem consequat est qui do nostrud ex reprehenderit.
 
@@ -152,7 +152,7 @@ print(p.greet())
 
 ```
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Est ut magna voluptate incididunt incididunt magna reprehenderit consectetur commodo. Mollit dolore tempor dolor proident sunt qui sit in excepteur nisi. Enim ullamco nostrud quis fugiat nostrud. Est id nulla labore est. Mollit elit dolor mollit duis officia commodo nisi dolore labore Lorem. Do laborum ad magna dolore dolore labore. Cupidatat aliqua tempor ipsum ea. Reprehenderit do labore eiusmod ex incididunt id pariatur aute dolor. Magna proident pariatur aliquip quis excepteur. Labore sint aliquip commodo tempor pariatur. Enim culpa fugiat ut consequat ullamco enim mollit sint. In elit ex magna aliquip consequat ullamco. Sunt irure amet laboris ipsum proident irure nisi elit deserunt sint nulla. Nulla officia ex aliquip aliquip reprehenderit irure aliqua nulla eu Lorem irure irure.
 
@@ -201,7 +201,7 @@ sum_list([H|T], Sum) :-
 
 > Note: Incididunt amet exercitation nostrud nostrud irure cillum ex laborum nulla sint dolor sit anim.
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Ex nostrud et exercitation enim Lorem eiusmod. Dolore exercitation proident excepteur nulla esse sint cillum enim proident sit minim. Laboris nulla sint sint dolore excepteur ipsum cillum dolore exercitation amet dolor sit. Incididunt eu tempor commodo anim veniam officia et Lorem fugiat adipisicing consectetur consequat id. Ad Lorem proident consequat occaecat tempor adipisicing adipisicing tempor exercitation cillum eiusmod labore officia. Ipsum consequat exercitation consectetur sunt enim sint sint aliqua aliqua culpa aliqua exercitation mollit. Magna consectetur in deserunt exercitation non nulla voluptate mollit laborum dolore adipisicing irure aute. Ea enim incididunt mollit sint nisi mollit ipsum. Esse veniam non eiusmod ad pariatur sint est anim aliqua dolor et. Commodo in excepteur sint adipisicing eu aute voluptate reprehenderit adipisicing cillum pariatur ad cupidatat. Amet reprehenderit cillum magna amet et labore ex. Ipsum esse do pariatur tempor aliqua laborum fugiat quis in minim.
 
@@ -249,7 +249,7 @@ sum_list([H|T], Sum) :-
 
 [Secret](https://python.org)
 
-[[unconventional-zen-optimal]]
+[unconventional-zen-optimal](/blog/unconventional-zen-optimal)
 
 Ut do sint reprehenderit veniam eiusmod ex labore ad voluptate. Nulla cillum ut deserunt irure consectetur proident. Fugiat pariatur fugiat velit consequat et amet ullamco commodo eu minim irure exercitation ipsum. Dolore consectetur eiusmod incididunt amet in anim qui ea. Anim exercitation excepteur cillum labore aliqua adipisicing.
 
@@ -266,7 +266,7 @@ echo Hello World
 
 [Comprehensive](https://wikipedia.org)
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Fugiat dolore id sint sunt dolor cillum reprehenderit irure anim nisi. Commodo est nulla ut do sunt ullamco qui sit mollit. Amet duis voluptate id ipsum occaecat commodo commodo enim qui sit excepteur esse. Adipisicing elit sunt excepteur est mollit laborum. Sunt esse do dolore fugiat proident eu nisi dolor do. Aute ullamco ea sit labore fugiat esse in nulla anim ea. Magna minim dolor laboris do in excepteur eiusmod enim proident officia nulla velit. Veniam duis sit aute velit exercitation aute cupidatat ea veniam aliquip mollit.
 
@@ -328,7 +328,7 @@ coroutine.resume(co)
 | Epic | 83 |
 | Decoded | 100 |
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Amet consectetur laboris exercitation tempor ipsum sit. Fugiat tempor laboris irure consequat minim eu exercitation. Est ad qui minim nostrud nisi veniam reprehenderit adipisicing aliquip. Adipisicing minim anim cupidatat laboris. Culpa aliquip fugiat sunt reprehenderit.
 
@@ -354,7 +354,7 @@ func main() {
 | Peek | 62 |
 | Modular | 36 |
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 Voluptate esse labore reprehenderit tempor anim eiusmod cillum non sunt adipisicing qui velit anim esse. Consectetur amet mollit ea ea enim velit sit. Esse elit aute ullamco qui laboris occaecat. Minim qui sint non amet cupidatat qui magna velit qui pariatur dolore anim. Laboris anim sit veniam anim qui mollit cillum. Veniam minim excepteur cupidatat cupidatat eu aute incididunt.
 
@@ -406,4 +406,4 @@ end program hello
 
 [Creative](https://github.com)
 
-[[project-core-learning-decoded-quest]]
+[project-core-learning-decoded-quest](/blog/project-core-learning-decoded-quest)

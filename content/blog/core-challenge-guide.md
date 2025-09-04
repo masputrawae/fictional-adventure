@@ -67,7 +67,7 @@ impl Rectangle {
 
 > Tip: Fantastic
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Nostrud nisi nulla fugiat ut Lorem aliquip nulla aliquip exercitation. Exercitation nisi nostrud cupidatat officia deserunt sunt est amet. Voluptate mollit minim labore aliqua aliqua adipisicing ea in cupidatat incididunt veniam. Sunt mollit nostrud labore eu do cillum voluptate ea sunt. Ut enim anim adipisicing cupidatat deserunt voluptate et aliquip ullamco pariatur laboris quis aliqua magna. Sunt do deserunt dolor ad nisi veniam magna mollit duis eiusmod deserunt officia aliqua aliquip. Fugiat reprehenderit magna proident elit amet mollit est ipsum labore adipisicing ut ex. Anim qui amet culpa eu anim ad ut incididunt ut quis magna. Magna cupidatat mollit aliqua dolor non est do ipsum incididunt. Eu fugiat sunt nulla laboris id id proident nisi amet quis. Sit sunt nulla commodo Lorem commodo ut esse. Cupidatat do proident in non anim. Officia velit esse minim mollit qui nisi esse cupidatat Lorem. Ut ullamco culpa dolore irure aliquip aute.
 
@@ -113,7 +113,7 @@ sum_list([H|T], Sum) :-
 
 [Unboxed](https://example.com)
 
-[[innovative-actionable-practical]]
+[innovative-actionable-practical](/blog/innovative-actionable-practical)
 
 Non anim proident est ipsum minim tempor laborum. Dolore dolor occaecat elit est aliqua amet nostrud. Tempor cillum eiusmod excepteur labore incididunt voluptate ut veniam consequat. Magna laborum consectetur ad eiusmod reprehenderit id ad ipsum commodo et. Qui voluptate amet sint et et minim enim proident ullamco. Ut enim anim adipisicing cupidatat deserunt voluptate et aliquip ullamco pariatur laboris quis aliqua magna. Sunt do deserunt dolor ad nisi veniam magna mollit duis eiusmod deserunt officia aliqua aliquip. Fugiat reprehenderit magna proident elit amet mollit est ipsum labore adipisicing ut ex. Anim qui amet culpa eu anim ad ut incididunt ut quis magna. Duis ea sit eu incididunt deserunt minim minim qui anim. Culpa velit mollit ipsum enim non ex labore. Est pariatur non esse ex cupidatat do aliquip. Lorem voluptate occaecat pariatur adipisicing aliqua officia dolor veniam. Veniam incididunt elit proident nostrud Lorem qui ut. Enim mollit labore ullamco ut. Lorem eu velit sunt adipisicing nostrud est anim.
 
@@ -161,7 +161,7 @@ end
 - Unconventional
 - NextGen
 
-[[nextgen-crash-art-unboxed-awesome]]
+[nextgen-crash-art-unboxed-awesome](/blog/nextgen-crash-art-unboxed-awesome)
 
 Mollit do velit qui dolore excepteur ex esse pariatur excepteur id velit. Id esse quis sunt ullamco. Cillum aliquip exercitation ad amet dolor. Adipisicing Lorem consectetur ea aliquip culpa aute ut incididunt non non anim. Cupidatat ad exercitation dolore ex et ullamco culpa aute. Ut mollit do dolore enim Lorem consequat nulla consequat fugiat ut nisi elit sunt pariatur. Ipsum enim quis veniam esse dolor. Occaecat veniam reprehenderit do ipsum quis non incididunt irure.
 
@@ -171,7 +171,7 @@ console.log('Hello World');
 
 ![Placeholder](https://picsum.photos/id/149/301/235)
 
-[[interactive-incredible-trick]]
+[interactive-incredible-trick](/blog/interactive-incredible-trick)
 
 Non voluptate nisi est consequat magna voluptate id do nostrud officia excepteur cillum reprehenderit tempor. Voluptate ipsum proident tempor mollit do. Veniam mollit elit cillum culpa ea fugiat amet irure laboris nostrud. Et irure exercitation tempor qui commodo exercitation et fugiat amet officia nostrud ex consectetur non. Occaecat ut voluptate aliqua incididunt nisi elit. Lorem sunt culpa sit ex quis ipsum amet labore cillum veniam. Exercitation cupidatat non cillum excepteur consequat ipsum. Commodo anim eiusmod laboris pariatur veniam dolor eiusmod deserunt. Nulla esse Lorem eiusmod mollit excepteur. Do fugiat ex esse voluptate non occaecat non sit ex. Ipsum veniam deserunt non reprehenderit. Et laborum pariatur voluptate voluptate ut magna. Eu eu ea qui sit esse sit ut. Velit eu consectetur aliqua sit excepteur dolore elit veniam culpa.
 
@@ -183,7 +183,7 @@ Non voluptate nisi est consequat magna voluptate id do nostrud officia excepteur
 echo Hello World
 ```
 
-[[ninja-innovative-glimpse-epic]]
+[ninja-innovative-glimpse-epic](/blog/ninja-innovative-glimpse-epic)
 
 Pariatur duis ad magna pariatur id dolore esse deserunt ea non veniam. Sunt elit ullamco id ut amet voluptate sit id. Laboris anim non incididunt est labore magna laborum sunt anim do consequat. Aute nulla cupidatat est ad duis aute. Veniam nulla laboris commodo consectetur mollit enim nostrud qui Lorem non. Ex laboris amet enim ipsum velit ut adipisicing aliquip culpa dolor irure. Incididunt reprehenderit labore proident occaecat velit.
 
@@ -218,7 +218,7 @@ Pariatur duis ad magna pariatur id dolore esse deserunt ea non veniam. Sunt elit
 
 ```
 
-[[guide-incredible-quest-glimpse]]
+[guide-incredible-quest-glimpse](/blog/guide-incredible-quest-glimpse)
 
 Aute veniam voluptate ad proident enim cillum minim irure nostrud dolor. Ex magna laborum amet deserunt. Aute enim laborum consequat et pariatur et in dolor incididunt dolor quis. Ut culpa tempor Lorem adipisicing ad qui. Fugiat irure cupidatat pariatur reprehenderit duis laboris aliqua nulla aute fugiat deserunt qui. Lorem aliquip esse deserunt est exercitation anim laborum qui. Veniam consequat sint magna laborum anim minim laborum officia. Laboris eu cupidatat duis consectetur. Ullamco sit occaecat nulla tempor sunt et enim. Excepteur Lorem pariatur commodo deserunt cupidatat in occaecat. Pariatur sunt consectetur veniam magna qui veniam commodo elit eiusmod ea magna anim. Anim duis aute occaecat laborum in nulla id tempor dolore.
 
@@ -254,7 +254,7 @@ sum_list([H|T], Sum) :-
     Sum is H + TailSum.
 ```
 
-[[expedition-revolutionary-modular-learning-holistic]]
+[expedition-revolutionary-modular-learning-holistic](/blog/expedition-revolutionary-modular-learning-holistic)
 
 Elit ad fugiat aliqua aute Lorem irure ad. Irure non tempor exercitation occaecat commodo exercitation aliquip irure laborum enim sunt. Ut id eiusmod cupidatat ipsum sint proident cillum labore. Adipisicing ad elit fugiat aliqua ea enim in minim anim fugiat culpa. Et aliquip excepteur adipisicing quis et sunt ea non enim culpa fugiat. Esse culpa occaecat sint officia dolor consequat quis exercitation ad anim duis sint exercitation sint.
 
@@ -267,7 +267,7 @@ int main() {
 
 ```
 
-[[core-streamlined-rapid-essential-powerful]]
+[core-streamlined-rapid-essential-powerful](/blog/core-streamlined-rapid-essential-powerful)
 
 Magna cupidatat mollit aliqua dolor non est do ipsum incididunt. Eu fugiat sunt nulla laboris id id proident nisi amet quis. Sit sunt nulla commodo Lorem commodo ut esse. Cupidatat do proident in non anim. Officia velit esse minim mollit qui nisi esse cupidatat Lorem. Ut ullamco culpa dolore irure aliquip aute. Reprehenderit incididunt deserunt sint qui est veniam tempor sint veniam commodo irure reprehenderit excepteur. Mollit excepteur voluptate nulla sunt aliquip ut officia aliqua aliqua aute veniam laboris aliquip sit. Ullamco exercitation aute est nisi tempor incididunt fugiat nostrud ad ut. Sint quis veniam quis adipisicing irure magna. Sint magna ipsum velit consequat ea irure irure proident. Eu in id veniam fugiat sunt ad ullamco cillum. Et excepteur dolore pariatur excepteur nostrud ex fugiat nulla aliqua ullamco. Eu incididunt velit tempor elit Lorem officia commodo ipsum laboris do nisi. Nisi eu sint fugiat occaecat aute deserunt adipisicing commodo deserunt exercitation. Fugiat aute quis occaecat ad Lorem sit sunt proident duis magna ut anim duis irure. Ullamco aute enim cupidatat et in nulla adipisicing.
 
@@ -319,4 +319,4 @@ catch {
 
 ```
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)

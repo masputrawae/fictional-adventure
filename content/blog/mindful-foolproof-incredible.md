@@ -63,7 +63,7 @@ class Circle: Drawable {
 - Rapid
 - Optimal
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Ut culpa tempor Lorem adipisicing ad qui. Fugiat irure cupidatat pariatur reprehenderit duis laboris aliqua nulla aute fugiat deserunt qui. Lorem aliquip esse deserunt est exercitation anim laborum qui. Veniam consequat sint magna laborum anim minim laborum officia. Laboris eu cupidatat duis consectetur. Ullamco sit occaecat nulla tempor sunt et enim. Aute tempor duis aute deserunt id fugiat sunt aliqua tempor id nulla eu est excepteur. Incididunt veniam Lorem anim officia ea veniam excepteur labore officia. Nostrud sunt fugiat laboris culpa exercitation irure enim cillum amet. Elit qui cillum proident laborum enim. Consequat minim fugiat dolor id irure pariatur minim Lorem voluptate labore exercitation. Do eiusmod sint duis deserunt ipsum proident quis. Velit duis deserunt cupidatat eu velit non aliqua.
 
@@ -82,7 +82,7 @@ int main() {
 
 [Ultimate](https://example.com)
 
-[[efficient-ultimate-awesome-stepbystep]]
+[efficient-ultimate-awesome-stepbystep](/blog/efficient-ultimate-awesome-stepbystep)
 
 Qui ex tempor laborum mollit officia labore ut anim reprehenderit non aute id pariatur anim. Consequat cillum culpa occaecat aliqua officia deserunt ullamco ex incididunt. Laboris cillum laboris minim amet nostrud nulla. Voluptate sint ex exercitation reprehenderit ut. Ut excepteur minim ex aliqua quis occaecat. Magna nostrud est quis Lorem nulla consequat aute non minim dolore tempor ut pariatur. Esse pariatur velit et voluptate laboris irure magna Lorem commodo fugiat ullamco. Eiusmod in mollit excepteur ullamco. Sunt mollit velit culpa minim quis culpa ad irure. Exercitation ipsum officia occaecat exercitation aliqua aliquip. Dolor dolor ipsum velit minim dolore non esse quis cupidatat id. Laboris veniam laborum cupidatat incididunt est amet minim esse sunt non dolore ea pariatur. Eu nulla proident do amet veniam.
 
@@ -102,7 +102,7 @@ console.log('Hello World');
 
 [Expert](https://wikipedia.org)
 
-[[inside-ultimate-challenge-demystified]]
+[inside-ultimate-challenge-demystified](/blog/inside-ultimate-challenge-demystified)
 
 Eu dolore adipisicing non laboris aliqua et qui esse ullamco anim non. Magna minim ad consequat eu ipsum do in reprehenderit. Nisi irure sint Lorem proident nisi elit Lorem. Ullamco irure exercitation deserunt adipisicing cupidatat deserunt sit Lorem voluptate sunt. Nostrud amet nisi adipisicing mollit non duis quis veniam dolor. Nulla sunt mollit ad ut eiusmod reprehenderit anim do occaecat voluptate ullamco irure amet. Et nulla consequat amet commodo nostrud irure amet. Amet magna aliquip aliqua mollit ad nulla. Lorem minim proident labore exercitation occaecat cillum culpa laborum ad. Sit adipisicing mollit veniam proident cupidatat consectetur. Sunt irure elit velit exercitation nisi eu id. Tempor dolor qui in in officia laboris. Esse nisi officia eiusmod voluptate consequat consequat aute aliquip minim ipsum sunt ut non officia. Aliquip adipisicing Lorem consequat in. Excepteur ad culpa minim mollit enim commodo dolor fugiat nisi dolor exercitation cupidatat aliqua.
 
@@ -151,7 +151,7 @@ class Circle: Drawable {
 
 ![Placeholder](https://picsum.photos/id/332/286/307)
 
-[[project-core-learning-decoded-quest]]
+[project-core-learning-decoded-quest](/blog/project-core-learning-decoded-quest)
 
 Reprehenderit est pariatur ea laboris enim sit esse cillum est magna pariatur ipsum proident. Nisi ad aliqua minim nulla ex nisi est sit proident nostrud mollit magna. Nisi ullamco cupidatat nostrud amet nulla sunt eu id. Lorem fugiat ipsum cupidatat ut consectetur deserunt reprehenderit aliqua veniam enim veniam irure. Fugiat nostrud fugiat officia esse non et dolore culpa eiusmod ipsum sunt dolor culpa. Minim Lorem culpa ipsum veniam dolor enim ipsum voluptate pariatur sunt.
 
@@ -190,7 +190,7 @@ map' f (x:xs) = f x : map' f xs
 
 ```
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Minim occaecat excepteur culpa ea. Velit commodo nulla enim ad velit occaecat sit. Eiusmod commodo culpa consequat veniam irure duis qui proident reprehenderit consequat in id elit. Aliquip irure eu in incididunt sunt qui et consequat duis. Nisi id consectetur enim dolor excepteur deserunt. Occaecat enim ea elit consequat esse et incididunt irure quis. Amet minim eu sint excepteur ipsum nulla deserunt anim qui sint.
 
@@ -238,7 +238,7 @@ class Animal {
 
 ```
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Occaecat dolor commodo reprehenderit irure veniam. Reprehenderit exercitation consequat officia nostrud reprehenderit. Id veniam nulla cillum enim ipsum qui duis ea. Pariatur occaecat consequat do adipisicing aliqua eu veniam et deserunt officia aliquip exercitation. Consequat minim fugiat dolor id irure pariatur minim Lorem voluptate labore exercitation. Do eiusmod sint duis deserunt ipsum proident quis. Velit duis deserunt cupidatat eu velit non aliqua.
 
@@ -292,7 +292,7 @@ coroutine.resume(co)
 
 [NextGen](https://python.org)
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Exercitation ullamco qui qui qui id fugiat anim proident proident proident esse eu. Nulla ex velit anim officia elit veniam laborum incididunt quis laboris. Exercitation mollit magna incididunt nulla consectetur adipisicing enim exercitation eiusmod in excepteur enim voluptate. Fugiat sint esse irure sit elit veniam eu qui id. Do est ut consectetur consectetur id occaecat. Ut veniam nulla esse ut commodo laborum Lorem nisi quis consectetur adipisicing.
 
@@ -336,7 +336,7 @@ end
 
 ```
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Anim do labore exercitation reprehenderit labore. Minim anim eu occaecat labore qui non occaecat duis sunt. Id officia nisi quis proident voluptate ipsum cupidatat fugiat consequat do mollit aliquip nostrud ullamco. Voluptate qui excepteur do incididunt mollit excepteur enim cillum.
 
@@ -378,7 +378,7 @@ console.log(doubled);
 | Guide | 3 |
 | Advanced | 26 |
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Est id nulla labore est. Mollit elit dolor mollit duis officia commodo nisi dolore labore Lorem. Do laborum ad magna dolore dolore labore. Cupidatat aliqua tempor ipsum ea.
 
@@ -425,4 +425,4 @@ class Circle: Drawable {
 
 ```
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)

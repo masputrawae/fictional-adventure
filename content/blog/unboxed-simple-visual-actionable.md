@@ -31,7 +31,7 @@ console.log('Hello World');
 
 ![Placeholder](https://picsum.photos/id/339/373/390)
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 Adipisicing amet cupidatat amet quis laboris proident sit elit mollit. Magna aute in sint ea ad aliqua deserunt non elit amet officia. Consectetur velit do ea nisi. Tempor aliqua sit tempor magna ipsum elit voluptate officia do enim et. Duis quis dolor laborum et nisi anim adipisicing commodo excepteur. Aute minim ipsum aliquip eiusmod est labore voluptate cillum mollit sint mollit. Eu ad amet nostrud est dolor ex Lorem aliquip id cillum. Occaecat sint aliquip nulla non commodo aliqua nostrud qui id occaecat cillum culpa consectetur. Ut adipisicing ut aute fugiat reprehenderit ullamco aliquip nostrud. Ullamco veniam Lorem nisi anim magna tempor incididunt proident Lorem tempor. Reprehenderit fugiat ullamco aliquip sunt pariatur eiusmod exercitation. Sunt nisi excepteur irure Lorem et duis consequat cillum est sit eu non laboris aute. Velit reprehenderit exercitation proident aliquip sit consequat Lorem nisi aliquip duis sint magna. Voluptate consequat aliquip irure magna culpa nulla enim. Anim enim aliquip mollit amet id laborum labore labore do aliqua magna ex sint. Quis reprehenderit sint in adipisicing qui dolor. Exercitation reprehenderit Lorem aliqua ex nisi.
 
@@ -69,7 +69,7 @@ println(result)
 
 ![Placeholder](https://picsum.photos/id/339/282/319)
 
-[[unleash-solution-playbook-outsidethebox]]
+[unleash-solution-playbook-outsidethebox](/blog/unleash-solution-playbook-outsidethebox)
 
 Minim ullamco elit aliqua in id anim ad aliqua dolor Lorem est irure fugiat aliqua. Consectetur nisi id deserunt consequat labore proident tempor proident fugiat dolor tempor minim. Velit sunt ut irure occaecat. Et sunt aute elit Lorem proident nisi eu eiusmod exercitation. Fugiat dolore id sint sunt dolor cillum reprehenderit irure anim nisi. Commodo est nulla ut do sunt ullamco qui sit mollit. Amet duis voluptate id ipsum occaecat commodo commodo enim qui sit excepteur esse.
 
@@ -116,7 +116,7 @@ public:
 
 [Smart](https://github.com)
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)
 
 Qui qui minim eu enim culpa ex culpa aute sunt. Esse in aliqua ex est sunt. Incididunt qui nisi eu ut dolor ipsum anim sit magna duis. Exercitation voluptate dolor ex eiusmod ipsum non nostrud cupidatat et veniam. Dolor ipsum nulla magna do ut. Amet aliquip exercitation labore consectetur Lorem ea. Sunt adipisicing officia voluptate tempor laborum. Est id nulla labore est. Mollit elit dolor mollit duis officia commodo nisi dolore labore Lorem. Do laborum ad magna dolore dolore labore. Cupidatat aliqua tempor ipsum ea.
 
@@ -159,7 +159,7 @@ function calculateSum(int $a, int $b): int {
 
 > Tip: Efficient
 
-[[mindful-foolproof-incredible]]
+[mindful-foolproof-incredible](/blog/mindful-foolproof-incredible)
 
 Eiusmod in mollit excepteur ullamco. Sunt mollit velit culpa minim quis culpa ad irure. Exercitation ipsum officia occaecat exercitation aliqua aliquip. Dolor dolor ipsum velit minim dolore non esse quis cupidatat id. Laboris veniam laborum cupidatat incididunt est amet minim esse sunt non dolore ea pariatur. Eu nulla proident do amet veniam. Duis commodo ut qui anim culpa nostrud. Velit eu duis ut ex. Ipsum est laboris ipsum eu velit ex. Culpa esse voluptate minim laborum minim adipisicing pariatur sit in culpa magna duis. Nisi Lorem incididunt sint incididunt enim irure eiusmod eu magna Lorem. Reprehenderit reprehenderit non occaecat mollit. Nostrud consectetur laborum ut fugiat deserunt.
 
@@ -208,7 +208,7 @@ class Circle: Drawable {
 
 [Pro](https://wikipedia.org)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Duis amet ullamco irure deserunt amet deserunt sunt adipisicing tempor in et amet aliquip nisi. Culpa pariatur incididunt elit exercitation excepteur ex. Non anim aliqua aliquip ipsum ex occaecat dolor nulla aliqua quis eiusmod do sit nostrud. Aliqua tempor aliquip non magna consequat minim cupidatat sunt id reprehenderit magna laborum mollit. Minim ullamco do quis pariatur do voluptate. Pariatur quis pariatur minim cupidatat ullamco exercitation exercitation eiusmod ad cillum. Deserunt culpa incididunt deserunt exercitation pariatur officia commodo esse labore ut minim reprehenderit incididunt.
 
@@ -268,7 +268,7 @@ coroutine.resume(co)
 
 > Note: Est cillum magna fugiat occaecat.
 
-[[unleash-solution-playbook-outsidethebox]]
+[unleash-solution-playbook-outsidethebox](/blog/unleash-solution-playbook-outsidethebox)
 
 Nostrud aliqua et nostrud Lorem cillum commodo cupidatat cupidatat aliquip. Laboris duis veniam ipsum dolore commodo reprehenderit non quis ex nisi. Ipsum consectetur excepteur laborum enim. Deserunt enim dolor laborum esse veniam ea amet. Consequat minim fugiat dolor id irure pariatur minim Lorem voluptate labore exercitation. Do eiusmod sint duis deserunt ipsum proident quis. Velit duis deserunt cupidatat eu velit non aliqua.
 
@@ -315,7 +315,7 @@ function calculateSum(int $a, int $b): int {
 | Project | 77 |
 | Modern | 42 |
 
-[[project-core-learning-decoded-quest]]
+[project-core-learning-decoded-quest](/blog/project-core-learning-decoded-quest)
 
 Laborum cillum adipisicing eiusmod dolore mollit. Deserunt eiusmod ullamco proident voluptate id sint labore nulla sit pariatur exercitation nisi. Laborum tempor velit adipisicing veniam proident dolor ullamco nisi.
 
@@ -375,7 +375,7 @@ public:
 
 [Peek](https://python.org)
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)
 
 Fugiat veniam duis cupidatat proident dolor ea. In esse ullamco laborum nisi dolor. Magna Lorem sit consequat amet excepteur elit est aliqua. Qui nostrud magna consectetur id excepteur amet consectetur. Fugiat qui et qui laboris reprehenderit ut duis magna labore ex. Laboris amet exercitation nulla labore aliquip consectetur exercitation pariatur velit reprehenderit elit. Aliquip do aute pariatur pariatur mollit id amet eiusmod fugiat eu qui aliqua. Sunt eiusmod occaecat minim nisi aliqua labore quis. Exercitation est cillum aute amet Lorem pariatur veniam ipsum voluptate. Adipisicing minim nulla nostrud culpa. Voluptate elit officia non cillum ullamco culpa dolore proident aliqua ex sint. Nostrud sunt occaecat culpa quis deserunt est qui mollit enim veniam proident proident anim duis.
 
@@ -423,7 +423,7 @@ end program hello
 
 [Visual](https://wikipedia.org)
 
-[[guide-incredible-quest-glimpse]]
+[guide-incredible-quest-glimpse](/blog/guide-incredible-quest-glimpse)
 
 Lorem do mollit eu in nisi nisi commodo exercitation ex voluptate ut veniam non magna. Minim in eiusmod esse non qui mollit tempor Lorem qui aliquip incididunt aute dolor. Laboris aliqua irure amet esse et mollit ex exercitation cillum enim commodo do. Esse tempor est laboris ullamco adipisicing aliqua culpa occaecat culpa nulla sit. Quis culpa anim duis non adipisicing eiusmod aute nulla incididunt laboris dolor officia anim ea. Adipisicing eu Lorem do culpa. Excepteur nisi duis elit aliquip exercitation amet proident excepteur sit ad reprehenderit laborum.
 
@@ -463,4 +463,4 @@ println(result)
 
 > Adipisicing ad elit fugiat aliqua ea enim in minim anim fugiat culpa. Et aliquip excepteur adipisicing quis et sunt ea non enim culpa fugiat. Esse culpa occaecat sint officia dolor consequat quis exercitation ad anim duis sint exercitation sint.
 
-[[guide-incredible-quest-glimpse]]
+[guide-incredible-quest-glimpse](/blog/guide-incredible-quest-glimpse)

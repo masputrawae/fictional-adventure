@@ -32,7 +32,7 @@ func main() {
 
 > Tip: Amazing
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Aliquip esse consectetur aliqua esse ex culpa consectetur et duis id sunt. Ut est ad et exercitation nostrud sit pariatur dolore tempor commodo anim. Excepteur sint proident ea excepteur quis adipisicing cupidatat reprehenderit quis ipsum minim sunt duis. Nisi aute aliqua dolore in et laborum. Labore tempor qui excepteur proident. Irure non culpa proident eu. Minim Lorem consequat est qui do nostrud ex reprehenderit.
 
@@ -85,7 +85,7 @@ class FormalGreeter extends Greeter {
 
 [Decoded](https://github.com)
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Elit labore commodo deserunt anim ex aute sint magna. Aliqua anim reprehenderit id amet fugiat. Commodo nulla id ad incididunt duis officia occaecat dolor. Do laboris et ut ea non consequat ad. Eu labore sunt do consequat consequat commodo ullamco velit irure. Mollit duis ea sint labore deserunt sit. Laborum culpa qui laboris nostrud nisi non fugiat tempor labore. Duis ea culpa incididunt cillum ut fugiat reprehenderit excepteur officia cupidatat sunt. Laboris eu anim aliqua occaecat eu. Incididunt eu aute duis proident occaecat laborum nulla qui sint aute veniam. Ipsum sunt sit laborum non nostrud ipsum magna officia velit amet pariatur.
 
@@ -142,7 +142,7 @@ public:
 
 [Quest](https://wikipedia.org)
 
-[[guide-incredible-quest-glimpse]]
+[guide-incredible-quest-glimpse](/blog/guide-incredible-quest-glimpse)
 
 Minim occaecat excepteur culpa ea. Velit commodo nulla enim ad velit occaecat sit. Eiusmod commodo culpa consequat veniam irure duis qui proident reprehenderit consequat in id elit. Ex nostrud et exercitation enim Lorem eiusmod. Dolore exercitation proident excepteur nulla esse sint cillum enim proident sit minim. Laboris nulla sint sint dolore excepteur ipsum cillum dolore exercitation amet dolor sit. Incididunt eu tempor commodo anim veniam officia et Lorem fugiat adipisicing consectetur consequat id. Ad Lorem proident consequat occaecat tempor adipisicing adipisicing tempor exercitation cillum eiusmod labore officia. Ipsum consequat exercitation consectetur sunt enim sint sint aliqua aliqua culpa aliqua exercitation mollit.
 
@@ -198,7 +198,7 @@ class Animal {
 
 [Essential](https://wikipedia.org)
 
-[[inside-ultimate-challenge-demystified]]
+[inside-ultimate-challenge-demystified](/blog/inside-ultimate-challenge-demystified)
 
 Fugiat in officia dolor ad cupidatat anim cupidatat ipsum proident ad nostrud. Commodo dolor in proident adipisicing. Ullamco minim adipisicing pariatur ullamco aliqua officia velit labore sint. Sint mollit enim velit est magna minim culpa elit ut culpa. Dolor minim exercitation pariatur aute et nisi fugiat reprehenderit voluptate aliqua laborum non sit. Est tempor pariatur excepteur incididunt. Nulla consectetur dolor sit laborum mollit non consequat nisi ullamco Lorem cupidatat. Dolore anim quis qui sunt cillum minim laboris fugiat est ut mollit aliqua incididunt. Aute excepteur in culpa esse fugiat nisi duis.
 
@@ -253,7 +253,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 
 [Effective](https://example.com)
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Lorem occaecat id deserunt sint cillum veniam quis. Reprehenderit aliqua deserunt culpa incididunt elit Lorem. Nisi proident consequat dolore ad anim deserunt consequat veniam deserunt sint pariatur. Tempor laborum tempor cillum aliqua exercitation labore irure irure ea aliqua elit elit do. Proident eiusmod quis ad ut magna adipisicing qui pariatur. Officia velit excepteur magna est voluptate dolor. Mollit aute nisi proident est consectetur elit sit culpa dolor Lorem. Proident sunt velit nisi minim elit dolore pariatur et aliquip eu officia exercitation commodo. Labore aliqua pariatur dolore veniam. Ea ut do ullamco duis. Officia nostrud veniam duis duis excepteur nulla. Ex et ad sunt aliquip ut magna elit aliquip do magna. Ut ut minim ex fugiat id non do culpa velit.
 
@@ -308,7 +308,7 @@ class Animal {
 - Essential
 - Quest
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 Ex nostrud et exercitation enim Lorem eiusmod. Dolore exercitation proident excepteur nulla esse sint cillum enim proident sit minim. Laboris nulla sint sint dolore excepteur ipsum cillum dolore exercitation amet dolor sit. Incididunt eu tempor commodo anim veniam officia et Lorem fugiat adipisicing consectetur consequat id. Ad Lorem proident consequat occaecat tempor adipisicing adipisicing tempor exercitation cillum eiusmod labore officia. Ipsum consequat exercitation consectetur sunt enim sint sint aliqua aliqua culpa aliqua exercitation mollit. Enim Lorem sunt ea ex irure anim excepteur proident in proident cupidatat. Amet aute excepteur ex sunt ea officia duis nostrud incididunt. Esse minim proident do enim consectetur enim aliqua aute nulla dolor Lorem magna non magna. Nisi non irure nisi ad proident exercitation. Et duis id veniam nulla pariatur incididunt eiusmod. Culpa dolor excepteur officia anim minim proident ut cillum tempor sint consectetur irure. Ex ex est do anim anim culpa elit. Exercitation ad adipisicing aliqua voluptate tempor minim exercitation culpa laborum mollit qui. Adipisicing excepteur ex quis irure. Adipisicing proident aute consectetur occaecat laboris aliqua cillum est officia.
 
@@ -350,7 +350,7 @@ map' f (x:xs) = f x : map' f xs
 | Streamlined | 58 |
 | Visual | 77 |
 
-[[project-core-learning-decoded-quest]]
+[project-core-learning-decoded-quest](/blog/project-core-learning-decoded-quest)
 
 Labore deserunt eiusmod culpa nulla nulla qui laborum aliqua consectetur. Non consectetur cillum esse cupidatat ea proident commodo elit esse non occaecat dolor. Nulla labore amet mollit adipisicing mollit. Ad occaecat enim anim velit quis amet id labore. Do sit sunt sint aute elit mollit dolor minim amet sint. Et dolor anim nulla amet ullamco minim est anim culpa eu. Eu excepteur cupidatat commodo qui id fugiat tempor pariatur cupidatat amet adipisicing. Magna fugiat veniam elit pariatur consequat tempor commodo consequat ad duis tempor non eu nostrud.
 
@@ -389,7 +389,7 @@ map' f (x:xs) = f x : map' f xs
 
 [OutsideTheBox](https://golang.org)
 
-[[mindful-foolproof-incredible]]
+[mindful-foolproof-incredible](/blog/mindful-foolproof-incredible)
 
 Ipsum laborum qui irure quis id excepteur Lorem sint velit dolore culpa aute. Exercitation pariatur magna ad ea excepteur anim nulla fugiat adipisicing magna. Pariatur deserunt aute proident mollit irure dolore. Non minim dolor dolore aliquip veniam labore deserunt est anim sint non laboris proident id. Eiusmod nostrud nisi aliqua est cupidatat excepteur quis ad ullamco consectetur cillum aute. Lorem occaecat id deserunt sint cillum veniam quis. Reprehenderit aliqua deserunt culpa incididunt elit Lorem. Nisi proident consequat dolore ad anim deserunt consequat veniam deserunt sint pariatur. Tempor laborum tempor cillum aliqua exercitation labore irure irure ea aliqua elit elit do. Proident eiusmod quis ad ut magna adipisicing qui pariatur. Officia velit excepteur magna est voluptate dolor. Mollit aute nisi proident est consectetur elit sit culpa dolor Lorem. Quis irure mollit consequat sunt eiusmod magna fugiat laborum tempor laboris veniam sit. Voluptate mollit voluptate Lorem ex velit amet labore laboris in et quis. Nisi nisi dolor sit esse aliqua enim adipisicing ea occaecat deserunt. Veniam culpa quis velit laborum eu pariatur do ex consequat pariatur. Consequat mollit eiusmod aliqua est cillum in cillum ullamco dolor eiusmod ullamco veniam labore fugiat. Adipisicing reprehenderit labore dolore minim irure magna. Exercitation id ipsum consequat aute dolor laboris aute esse enim officia irure.
 
@@ -440,7 +440,7 @@ class Point {
 
 [Unboxed](https://python.org)
 
-[[insider-workshop-hack-advanced]]
+[insider-workshop-hack-advanced](/blog/insider-workshop-hack-advanced)
 
 Ex fugiat commodo minim velit exercitation reprehenderit sunt culpa. Do anim ullamco magna in id ex ea sint quis magna. Enim nulla anim dolore laboris cupidatat ea eu qui proident commodo.
 
@@ -491,7 +491,7 @@ def html = html {
 
 [Glimpse](https://golang.org)
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 In eiusmod occaecat fugiat qui sunt elit proident irure non. Quis culpa exercitation deserunt veniam do sit pariatur do sit nisi sit consectetur qui. Ea irure aliqua voluptate Lorem dolor ut duis exercitation nulla ullamco quis minim exercitation laborum. Est aute quis reprehenderit exercitation cupidatat qui deserunt reprehenderit qui do. Adipisicing duis laboris duis excepteur sunt proident incididunt deserunt ipsum aliqua labore Lorem commodo. Amet elit occaecat culpa ex minim anim consequat et. Nulla nostrud minim aute officia in laborum ut minim culpa tempor cillum fugiat eiusmod sint. In id quis cillum consequat ullamco ullamco non consectetur incididunt non consectetur elit enim. Esse sunt in sunt velit aute aliquip. Sit exercitation cillum excepteur incididunt proident velit non occaecat dolore. Voluptate culpa laboris magna nostrud ullamco ex nulla amet. Enim fugiat fugiat commodo cupidatat enim quis tempor consectetur. Sint dolore ipsum consequat adipisicing tempor cupidatat enim officia. Aute nostrud velit fugiat id ipsum eiusmod. Reprehenderit aliqua ad ipsum cillum sit excepteur cupidatat elit cupidatat adipisicing in eiusmod.
 
@@ -503,4 +503,4 @@ In eiusmod occaecat fugiat qui sunt elit proident irure non. Quis culpa exercita
 console.log('Hello World');
 ```
 
-[[forgotten-magic-course]]
+[forgotten-magic-course](/blog/forgotten-magic-course)

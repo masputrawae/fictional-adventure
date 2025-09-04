@@ -1,18 +1,20 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content | safeHTML }}
-  {{ range site.RegularPages.GroupByDate "2006" }}
-    <details>
-      <summary style="list-style: none;">{{ .Key }}</summary>
-      <nav>
-        <ul>
-          {{ range .Pages }}
-            <li>
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </li>
-          {{ end }}
-        </ul>
-      </nav>
-    </details>
-  {{ end }}
+  <div class="multi-column multi-column--fluid-lg">
+    {{ range site.RegularPages.GroupByDate "2006" }}
+      <div class="multi-column__item">
+        <h2>{{ .Key }}</h2>
+        <nav>
+          <ul>
+            {{ range .Pages }}
+              <li>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </li>
+            {{ end }}
+          </ul>
+        </nav>
+      </div>
+    {{ end }}
+  </div>
 {{ end }}

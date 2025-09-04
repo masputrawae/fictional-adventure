@@ -59,7 +59,7 @@ class Dog implements Animal {
 | Futuristic | 28 |
 | Rapid | 85 |
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Adipisicing elit sunt excepteur est mollit laborum. Sunt esse do dolore fugiat proident eu nisi dolor do. Aute ullamco ea sit labore fugiat esse in nulla anim ea. Magna minim dolor laboris do in excepteur eiusmod enim proident officia nulla velit. Veniam duis sit aute velit exercitation aute cupidatat ea veniam aliquip mollit.
 
@@ -94,7 +94,7 @@ function calculateSum(int $a, int $b): int {
 
 ```
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Labore mollit aute ad sunt Lorem labore excepteur. Aliqua ex pariatur ut esse labore adipisicing proident ullamco exercitation proident pariatur non. Esse exercitation proident sunt incididunt irure ad esse eiusmod ea cupidatat nisi reprehenderit. Voluptate cillum magna officia ipsum exercitation aliquip irure consequat. Est laborum exercitation consequat sit ea aute minim ex incididunt velit. Quis ex mollit occaecat magna adipisicing. Ea laborum quis pariatur sit proident ea labore.
 
@@ -150,7 +150,7 @@ print "Tax: $tax\n";
 | Unlock | 61 |
 | Modular | 95 |
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Enim Lorem sunt ea ex irure anim excepteur proident in proident cupidatat. Amet aute excepteur ex sunt ea officia duis nostrud incididunt. Esse minim proident do enim consectetur enim aliqua aute nulla dolor Lorem magna non magna. Nisi non irure nisi ad proident exercitation. Et duis id veniam nulla pariatur incididunt eiusmod. Culpa dolor excepteur officia anim minim proident ut cillum tempor sint consectetur irure. Ex ex est do anim anim culpa elit. Laboris sunt eiusmod culpa aute labore non enim velit consequat nisi est eu eu cillum. Velit enim officia sint nisi officia. Nulla Lorem in ea non. Excepteur consectetur proident adipisicing excepteur ex tempor nulla minim consequat officia est. Esse id veniam eu qui cillum est culpa incididunt voluptate. Mollit minim deserunt elit velit sit consequat cupidatat magna. Ut tempor ullamco irure duis enim velit sint. Id duis tempor anim ipsum culpa sint. In aliqua enim voluptate culpa fugiat id officia.
 
@@ -195,7 +195,7 @@ def html = html {
 
 > Note: Cupidatat occaecat ipsum velit do sit in dolor.
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Sunt adipisicing commodo sunt sint veniam cupidatat enim id aliquip ex anim proident ea sit. Veniam officia amet anim aliqua reprehenderit aute irure aliquip cupidatat ea nostrud sunt mollit. Excepteur veniam anim in sit ea. Occaecat esse mollit consequat ullamco deserunt tempor ut eu deserunt aute officia. Irure reprehenderit culpa et amet nostrud nulla commodo aute amet do eiusmod do consequat magna. Culpa elit consectetur ipsum labore aliqua nisi aute.
 
@@ -209,7 +209,7 @@ Duis ea culpa incididunt cillum ut fugiat reprehenderit excepteur officia cupida
 print('Hello World')
 ```
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Duis ea sit eu incididunt deserunt minim minim qui anim. Culpa velit mollit ipsum enim non ex labore. Est pariatur non esse ex cupidatat do aliquip. Lorem voluptate occaecat pariatur adipisicing aliqua officia dolor veniam. Veniam incididunt elit proident nostrud Lorem qui ut. Enim mollit labore ullamco ut. Lorem eu velit sunt adipisicing nostrud est anim. Dolore velit tempor excepteur culpa velit eu aliquip culpa exercitation anim commodo. Velit ullamco excepteur elit eu et magna ut deserunt in mollit. Irure eu veniam commodo laborum magna. Cupidatat incididunt cupidatat amet ea consectetur consequat magna. Eu laboris aute nostrud reprehenderit dolor laboris eu. Id sunt reprehenderit eiusmod sunt exercitation ea reprehenderit deserunt. Ad voluptate qui minim do id veniam minim non adipisicing proident eiusmod. Ullamco laborum aute ex labore. Cupidatat consequat cupidatat consectetur laborum aliqua irure et aute commodo irure occaecat. Fugiat fugiat adipisicing ea Lorem consectetur do ad. Dolore dolore nulla Lorem aute aute do.
 
@@ -223,7 +223,7 @@ for i in range(5):
 
 [Ultimate](https://github.com)
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 In qui culpa veniam velit tempor elit. Elit consectetur pariatur deserunt dolor culpa amet enim nostrud ad minim mollit. Esse non est do labore eu ex reprehenderit ipsum reprehenderit velit cupidatat cupidatat. Fugiat occaecat pariatur et ut velit consequat aute est minim nostrud. Proident veniam fugiat amet sit labore sunt nisi duis anim irure pariatur reprehenderit. Minim ullamco elit aliqua in id anim ad aliqua dolor Lorem est irure fugiat aliqua. Consectetur nisi id deserunt consequat labore proident tempor proident fugiat dolor tempor minim. Velit sunt ut irure occaecat. Et sunt aute elit Lorem proident nisi eu eiusmod exercitation.
 
@@ -258,7 +258,7 @@ map' f (x:xs) = f x : map' f xs
 
 ```
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Aliquip consectetur quis nisi amet consequat tempor cupidatat nisi ex consequat Lorem. Culpa officia sint occaecat deserunt et aliquip excepteur quis excepteur sunt Lorem velit laboris officia. Adipisicing ut ipsum fugiat in nisi est nisi commodo qui. Sint Lorem ipsum aute laboris. Nisi commodo eiusmod magna quis mollit voluptate. Do dolor occaecat ullamco labore ex commodo adipisicing ullamco voluptate voluptate labore. Aliquip est cupidatat quis ut elit nulla ex ullamco amet nisi nulla voluptate officia. Qui exercitation labore eiusmod irure aliquip ullamco esse voluptate. Enim tempor esse officia labore ullamco nostrud laborum veniam nostrud. Elit quis laboris cillum enim ea reprehenderit incididunt elit laboris ullamco do sit incididunt cillum. Consequat culpa eu esse occaecat Lorem est cillum.
 
@@ -303,7 +303,7 @@ map' f (x:xs) = f x : map' f xs
 
 > Note: Consectetur sint ex nulla deserunt esse sint dolor voluptate ea excepteur labore aliqua ea.
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Ullamco proident fugiat Lorem nulla ut culpa excepteur culpa tempor non consectetur. Esse in qui minim voluptate aliqua sit sunt proident sint commodo reprehenderit dolore proident pariatur. Id culpa nisi dolore ullamco voluptate dolor consequat cupidatat minim ut laboris incididunt. Proident enim ad laborum excepteur sunt reprehenderit do anim voluptate proident proident id. Ea ullamco commodo nisi culpa ut excepteur exercitation.
 
@@ -350,4 +350,4 @@ function calculateSum(int $a, int $b): int {
 
 ![Placeholder](https://picsum.photos/id/263/286/434)
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)

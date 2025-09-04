@@ -10,10 +10,10 @@ tags:
 Esse minim eiusmod eu ad aliquip amet occaecat in magna excepteur. Ex ullamco id aliquip consequat. Minim adipisicing veniam voluptate aliquip.
 
 
-- [[digital-journey]] 
-- [[hidden-streamlined-fantastic]] 
-- [[epic-secret-art]] 
-- [[digital-journey]] 
-- [[alchemy-outsidethebox]] 
-- [[ninja-technique]] 
-- [[demystified-innovative]]
+- [digital-journey](/blog/digital-journey) 
+- [hidden-streamlined-fantastic](/blog/hidden-streamlined-fantastic) 
+- [epic-secret-art](/blog/epic-secret-art) 
+- [digital-journey](/blog/digital-journey) 
+- [alchemy-outsidethebox](/blog/alchemy-outsidethebox) 
+- [ninja-technique](/blog/ninja-technique) 
+- [demystified-innovative](/blog/demystified-innovative)

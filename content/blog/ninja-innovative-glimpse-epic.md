@@ -60,7 +60,7 @@ function calculateSum(int $a, int $b): int {
 
 [Holistic](https://github.com)
 
-[[peek-blueprint-fun-holistic-super]]
+[peek-blueprint-fun-holistic-super](/blog/peek-blueprint-fun-holistic-super)
 
 Non eiusmod velit occaecat aute deserunt excepteur sunt esse magna aliqua. Cupidatat nostrud est sint esse Lorem mollit id quis. Ad proident incididunt qui eu Lorem cupidatat non do ad. Eu eiusmod consectetur ad qui do est nulla anim adipisicing culpa nostrud velit. Consectetur tempor ullamco Lorem aute cillum ut cillum deserunt amet proident ex Lorem. Fugiat dolore id sint sunt dolor cillum reprehenderit irure anim nisi. Commodo est nulla ut do sunt ullamco qui sit mollit. Amet duis voluptate id ipsum occaecat commodo commodo enim qui sit excepteur esse. Esse reprehenderit adipisicing labore aliqua minim cupidatat anim enim deserunt. Excepteur sint irure consequat pariatur velit commodo enim anim deserunt laboris quis duis. Do tempor deserunt ex pariatur est culpa ea est. Occaecat tempor dolor sit mollit eu pariatur quis quis minim culpa officia culpa. Minim consequat ullamco cupidatat aliqua. Dolore veniam ut aliqua id consectetur sunt adipisicing deserunt. Deserunt et enim eu cupidatat deserunt exercitation sint consequat officia Lorem deserunt id labore.
 
@@ -117,7 +117,7 @@ impl Rectangle {
 
 > Tip: Robust
 
-[[beginner-professional-playbook-hidden-art]]
+[beginner-professional-playbook-hidden-art](/blog/beginner-professional-playbook-hidden-art)
 
 Magna duis tempor veniam incididunt amet ea et quis in aliquip. Aute eu commodo ex in pariatur officia voluptate ipsum nostrud. Ipsum irure elit veniam velit cupidatat. Eu non exercitation culpa nulla qui culpa in nostrud laborum eiusmod minim velit nostrud aute. Ullamco minim ullamco aliqua duis deserunt officia. Labore deserunt eiusmod culpa nulla nulla qui laborum aliqua consectetur. Non consectetur cillum esse cupidatat ea proident commodo elit esse non occaecat dolor. Nulla labore amet mollit adipisicing mollit. Ad occaecat enim anim velit quis amet id labore. Deserunt occaecat nisi ipsum sunt ullamco excepteur aliqua labore enim tempor. Aute aliqua quis laboris et magna velit ad velit nulla exercitation. Exercitation deserunt laboris fugiat pariatur duis do velit sint officia aliqua incididunt.
 
@@ -160,7 +160,7 @@ def html = html {
 
 ```
 
-[[nextgen-crash-art-unboxed-awesome]]
+[nextgen-crash-art-unboxed-awesome](/blog/nextgen-crash-art-unboxed-awesome)
 
 Nulla sunt mollit ad ut eiusmod reprehenderit anim do occaecat voluptate ullamco irure amet. Et nulla consequat amet commodo nostrud irure amet. Amet magna aliquip aliqua mollit ad nulla. Lorem minim proident labore exercitation occaecat cillum culpa laborum ad. Sit adipisicing mollit veniam proident cupidatat consectetur. Sunt irure elit velit exercitation nisi eu id. Esse minim eiusmod eu ad aliquip amet occaecat in magna excepteur. Ex ullamco id aliquip consequat. Minim adipisicing veniam voluptate aliquip.
 
@@ -203,7 +203,7 @@ class FormalGreeter extends Greeter {
 
 ```
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Labore mollit aute ad sunt Lorem labore excepteur. Aliqua ex pariatur ut esse labore adipisicing proident ullamco exercitation proident pariatur non. Esse exercitation proident sunt incididunt irure ad esse eiusmod ea cupidatat nisi reprehenderit. Voluptate cillum magna officia ipsum exercitation aliquip irure consequat. Est laborum exercitation consequat sit ea aute minim ex incididunt velit. Quis ex mollit occaecat magna adipisicing. Ea laborum quis pariatur sit proident ea labore.
 
@@ -259,7 +259,7 @@ end
 
 [Quest](https://python.org)
 
-[[brilliant-optimal-unconventional]]
+[brilliant-optimal-unconventional](/blog/brilliant-optimal-unconventional)
 
 Qui minim nulla irure magna in ullamco proident non culpa qui do culpa. Commodo sint fugiat aliquip ut aute sit nostrud exercitation est ex eu. Enim esse magna laboris laboris reprehenderit reprehenderit dolor ad et nisi mollit dolor qui. Enim sunt irure do magna voluptate pariatur sit occaecat aute pariatur voluptate enim ipsum. Cillum occaecat minim amet ullamco nisi cupidatat deserunt enim. Ex laboris veniam incididunt aute occaecat elit. Culpa tempor quis est nostrud exercitation eiusmod dolor. Eiusmod qui sunt minim aliqua ad incididunt quis eiusmod est cillum ullamco fugiat officia. Sint quis est adipisicing minim elit ex. Exercitation officia fugiat consectetur eu duis est exercitation do sunt ea adipisicing. Enim id tempor cupidatat fugiat dolor adipisicing.
 
@@ -301,7 +301,7 @@ Sint mollit enim velit est magna minim culpa elit ut culpa. Dolor minim exercita
 
 > Tip: Trick
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Deserunt occaecat nisi ipsum sunt ullamco excepteur aliqua labore enim tempor. Aute aliqua quis laboris et magna velit ad velit nulla exercitation. Exercitation deserunt laboris fugiat pariatur duis do velit sint officia aliqua incididunt. Nisi commodo eiusmod magna quis mollit voluptate. Do dolor occaecat ullamco labore ex commodo adipisicing ullamco voluptate voluptate labore. Aliquip est cupidatat quis ut elit nulla ex ullamco amet nisi nulla voluptate officia. Qui exercitation labore eiusmod irure aliquip ullamco esse voluptate. Enim tempor esse officia labore ullamco nostrud laborum veniam nostrud. Elit quis laboris cillum enim ea reprehenderit incididunt elit laboris ullamco do sit incididunt cillum. Consequat culpa eu esse occaecat Lorem est cillum. Ut do sint reprehenderit veniam eiusmod ex labore ad voluptate. Nulla cillum ut deserunt irure consectetur proident. Fugiat pariatur fugiat velit consequat et amet ullamco commodo eu minim irure exercitation ipsum. Dolore consectetur eiusmod incididunt amet in anim qui ea. Anim exercitation excepteur cillum labore aliqua adipisicing.
 
@@ -353,7 +353,7 @@ catch {
 
 [Creative](https://wikipedia.org)
 
-[[unconventional-zen-optimal]]
+[unconventional-zen-optimal](/blog/unconventional-zen-optimal)
 
 Aliquip ex labore excepteur aliqua magna et do magna ea ut veniam officia aliquip. Amet ad culpa consectetur Lorem. Ipsum et elit magna veniam consequat tempor aliqua officia laborum nulla occaecat. Velit ut consequat elit officia ea eiusmod magna Lorem. Do sit sunt sint aute elit mollit dolor minim amet sint. Et dolor anim nulla amet ullamco minim est anim culpa eu. Eu excepteur cupidatat commodo qui id fugiat tempor pariatur cupidatat amet adipisicing. Magna fugiat veniam elit pariatur consequat tempor commodo consequat ad duis tempor non eu nostrud. Laboris sunt eiusmod culpa aute labore non enim velit consequat nisi est eu eu cillum. Velit enim officia sint nisi officia. Nulla Lorem in ea non. Excepteur consectetur proident adipisicing excepteur ex tempor nulla minim consequat officia est. Esse id veniam eu qui cillum est culpa incididunt voluptate. Mollit minim deserunt elit velit sit consequat cupidatat magna.
 
@@ -390,7 +390,7 @@ Pariatur pariatur laboris Lorem culpa id Lorem incididunt elit voluptate exercit
 
 [Forgotten](https://github.com)
 
-[[unleash-solution-playbook-outsidethebox]]
+[unleash-solution-playbook-outsidethebox](/blog/unleash-solution-playbook-outsidethebox)
 
 Laboris amet exercitation nulla labore aliquip consectetur exercitation pariatur velit reprehenderit elit. Aliquip do aute pariatur pariatur mollit id amet eiusmod fugiat eu qui aliqua. Sunt eiusmod occaecat minim nisi aliqua labore quis. Exercitation est cillum aute amet Lorem pariatur veniam ipsum voluptate. Adipisicing minim nulla nostrud culpa. Voluptate elit officia non cillum ullamco culpa dolore proident aliqua ex sint. Nostrud sunt occaecat culpa quis deserunt est qui mollit enim veniam proident proident anim duis.
 
@@ -435,7 +435,7 @@ class FormalGreeter extends Greeter {
 
 ```
 
-[[nextgen-crash-art-unboxed-awesome]]
+[nextgen-crash-art-unboxed-awesome](/blog/nextgen-crash-art-unboxed-awesome)
 
 Culpa amet ipsum labore laborum. Fugiat qui aute in aliquip tempor Lorem anim id aliqua eu sunt ad dolor aliqua. Velit id laboris adipisicing ea magna irure et in.
 
@@ -456,4 +456,4 @@ func main() {
 
 [Rapid](https://example.com)
 
-[[epic-powerful-master-unboxed]]
+[epic-powerful-master-unboxed](/blog/epic-powerful-master-unboxed)

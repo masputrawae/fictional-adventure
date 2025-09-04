@@ -10,9 +10,9 @@ tags:
 Sunt enim nulla ea in fugiat dolor mollit esse ea ipsum sunt ex exercitation. Nulla sunt ea aute in veniam adipisicing nulla cupidatat. Velit qui adipisicing dolor aute et Lorem.
 
 
-- [[alchemy-outsidethebox]] 
-- [[super-simple-dynamic-strategy]] 
-- [[unlock-scalable]] 
-- [[quick-holistic-actionable]] 
-- [[unlock-scalable]] 
-- [[unlock-scalable]]
+- [alchemy-outsidethebox](/blog/alchemy-outsidethebox) 
+- [super-simple-dynamic-strategy](/blog/super-simple-dynamic-strategy) 
+- [unlock-scalable](/blog/unlock-scalable) 
+- [quick-holistic-actionable](/blog/quick-holistic-actionable) 
+- [unlock-scalable](/blog/unlock-scalable) 
+- [unlock-scalable](/blog/unlock-scalable)

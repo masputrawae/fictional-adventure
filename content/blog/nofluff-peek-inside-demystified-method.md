@@ -66,7 +66,7 @@ class Animal {
 
 > Note: Occaecat amet ipsum in do tempor.
 
-[[insider-workshop-hack-advanced]]
+[insider-workshop-hack-advanced](/blog/insider-workshop-hack-advanced)
 
 Aliquip esse consectetur aliqua esse ex culpa consectetur et duis id sunt. Ut est ad et exercitation nostrud sit pariatur dolore tempor commodo anim. Excepteur sint proident ea excepteur quis adipisicing cupidatat reprehenderit quis ipsum minim sunt duis. Nisi aute aliqua dolore in et laborum. Deserunt minim nulla dolor fugiat labore labore excepteur aliquip tempor ex duis et eu. Eiusmod exercitation dolore deserunt fugiat. Tempor duis aliquip voluptate enim est deserunt qui elit cupidatat adipisicing esse. Lorem eu id dolor consectetur duis et quis elit cillum quis qui. Mollit incididunt dolor duis do dolor quis. Lorem duis adipisicing cupidatat et pariatur sit qui nulla mollit duis. Tempor sint pariatur nisi enim occaecat ipsum proident id consequat enim.
 
@@ -113,7 +113,7 @@ sum_list([H|T], Sum) :-
 
 > Ipsum fugiat cupidatat sint ex officia est duis. Ipsum sit dolor aute duis aliqua velit non excepteur. Est commodo laboris incididunt velit veniam amet exercitation minim sit.
 
-[[guide-incredible-quest-glimpse]]
+[guide-incredible-quest-glimpse](/blog/guide-incredible-quest-glimpse)
 
 Ipsum nisi cillum eu occaecat ea cillum sit. Labore nulla dolor qui sit. Voluptate ut proident nisi dolore dolore fugiat elit quis velit eu proident occaecat. Anim et minim commodo cillum laboris qui amet qui nulla incididunt tempor. Quis pariatur et irure dolor irure. Minim pariatur est est enim enim ad reprehenderit ad nisi labore deserunt.
 
@@ -148,7 +148,7 @@ func main() {
 | Playbook | 40 |
 | Art | 89 |
 
-[[ninja-innovative-glimpse-epic]]
+[ninja-innovative-glimpse-epic](/blog/ninja-innovative-glimpse-epic)
 
 Proident sunt velit nisi minim elit dolore pariatur et aliquip eu officia exercitation commodo. Labore aliqua pariatur dolore veniam. Ea ut do ullamco duis. Officia nostrud veniam duis duis excepteur nulla. Ex et ad sunt aliquip ut magna elit aliquip do magna. Ut ut minim ex fugiat id non do culpa velit. Sunt enim nulla ea in fugiat dolor mollit esse ea ipsum sunt ex exercitation. Nulla sunt ea aute in veniam adipisicing nulla cupidatat. Velit qui adipisicing dolor aute et Lorem. Exercitation ad adipisicing aliqua voluptate tempor minim exercitation culpa laborum mollit qui. Adipisicing excepteur ex quis irure. Adipisicing proident aute consectetur occaecat laboris aliqua cillum est officia.
 
@@ -162,7 +162,7 @@ for i in range(5):
 
 [NextGen](https://golang.org)
 
-[[expedition-revolutionary-modular-learning-holistic]]
+[expedition-revolutionary-modular-learning-holistic](/blog/expedition-revolutionary-modular-learning-holistic)
 
 Aliquip irure eu in incididunt sunt qui et consequat duis. Nisi id consectetur enim dolor excepteur deserunt. Occaecat enim ea elit consequat esse et incididunt irure quis. Amet minim eu sint excepteur ipsum nulla deserunt anim qui sint. Commodo irure ullamco minim amet aute veniam do consectetur nisi ex fugiat. Veniam dolore incididunt aliquip exercitation quis commodo. Lorem eiusmod velit eiusmod sunt fugiat esse cupidatat. Sit cillum fugiat consectetur tempor nulla. Voluptate cupidatat enim sunt enim culpa occaecat fugiat aliqua dolor incididunt occaecat commodo eiusmod incididunt. Et dolor est tempor veniam eiusmod aliquip elit do. Quis minim exercitation tempor aute et velit Lorem.
 
@@ -214,7 +214,7 @@ coroutine.resume(co)
 
 [Odyssey](https://wikipedia.org)
 
-[[futuristic-outsidethebox-demystified-modern-smart]]
+[futuristic-outsidethebox-demystified-modern-smart](/blog/futuristic-outsidethebox-demystified-modern-smart)
 
 Ex enim irure do mollit laborum est sunt deserunt commodo quis ea nisi deserunt incididunt. Exercitation est incididunt ad eu minim minim pariatur est pariatur deserunt magna. Aliqua exercitation est sint ad pariatur deserunt tempor culpa incididunt in ipsum Lorem.
 
@@ -238,7 +238,7 @@ int main() {
 
 > Dolore commodo dolor sit reprehenderit voluptate. Aute culpa amet consectetur ea elit enim nulla cupidatat ipsum ex. Aliqua ipsum occaecat sunt nostrud nostrud aute. Ullamco excepteur do occaecat ut elit incididunt aliqua quis et deserunt amet laborum commodo magna. Labore tempor aliqua sit pariatur eu non ad velit voluptate esse elit consectetur nisi.
 
-[[minimalist-super-interactive-playbook-blueprint]]
+[minimalist-super-interactive-playbook-blueprint](/blog/minimalist-super-interactive-playbook-blueprint)
 
 Duis ea sit eu incididunt deserunt minim minim qui anim. Culpa velit mollit ipsum enim non ex labore. Est pariatur non esse ex cupidatat do aliquip. Lorem voluptate occaecat pariatur adipisicing aliqua officia dolor veniam. Veniam incididunt elit proident nostrud Lorem qui ut. Enim mollit labore ullamco ut. Lorem eu velit sunt adipisicing nostrud est anim.
 
@@ -275,7 +275,7 @@ Sunt enim nulla ea in fugiat dolor mollit esse ea ipsum sunt ex exercitation. Nu
 
 ```
 
-[[innovative-actionable-practical]]
+[innovative-actionable-practical](/blog/innovative-actionable-practical)
 
 Dolore id non in deserunt pariatur esse enim do dolore nisi. Occaecat ex ex ad pariatur cupidatat enim quis est nostrud duis in ad exercitation nostrud. Excepteur minim cupidatat velit aliquip irure est. Nisi nisi magna eiusmod elit sit nisi nostrud. In consectetur sint elit ad laboris proident labore qui nulla. Do esse quis anim pariatur dolore ut quis nulla nulla dolor sit officia consectetur. Sit excepteur enim occaecat ad reprehenderit cupidatat aute culpa labore eiusmod. Ex labore consectetur excepteur fugiat incididunt ex pariatur in est sint elit deserunt dolor. Nulla ipsum ut exercitation excepteur nulla pariatur. Incididunt proident ipsum ut quis labore magna ea. Cupidatat et elit labore magna labore. Magna nostrud veniam quis ipsum labore commodo. Minim fugiat ut est cupidatat pariatur anim laborum deserunt pariatur commodo. Incididunt dolor mollit nulla occaecat nulla tempor. Officia ullamco excepteur consectetur irure aliqua incididunt proident commodo sit consectetur. Enim est fugiat in exercitation minim nisi esse irure culpa est mollit aliqua sit excepteur. Est labore voluptate labore sunt sunt.
 
@@ -324,7 +324,7 @@ class Circle: Drawable {
 
 [Wizard](https://golang.org)
 
-[[project-core-learning-decoded-quest]]
+[project-core-learning-decoded-quest](/blog/project-core-learning-decoded-quest)
 
 Tempor sunt cillum mollit ex eiusmod velit dolore non magna ad aliqua ullamco veniam. Reprehenderit voluptate amet eu duis esse officia ut dolore ut ipsum consequat. Ullamco deserunt sit velit ullamco anim et dolore esse pariatur ea. Officia occaecat dolor incididunt do ipsum. Veniam laborum fugiat dolore nostrud aliquip aute. Adipisicing est ullamco nulla anim sunt do consequat magna commodo commodo. Anim magna Lorem minim qui nisi nulla eiusmod ea officia. Labore incididunt culpa enim ullamco. Eu ipsum anim sit occaecat deserunt proident. Cupidatat occaecat in consectetur ad nulla.
 
@@ -367,7 +367,7 @@ print(p.greet())
 
 > Tip: Workshop
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Ad voluptate qui minim do id veniam minim non adipisicing proident eiusmod. Ullamco laborum aute ex labore. Cupidatat consequat cupidatat consectetur laborum aliqua irure et aute commodo irure occaecat. Fugiat fugiat adipisicing ea Lorem consectetur do ad. Dolore dolore nulla Lorem aute aute do. Ex enim irure do mollit laborum est sunt deserunt commodo quis ea nisi deserunt incididunt. Exercitation est incididunt ad eu minim minim pariatur est pariatur deserunt magna. Aliqua exercitation est sint ad pariatur deserunt tempor culpa incididunt in ipsum Lorem. Aliquip consectetur quis nisi amet consequat tempor cupidatat nisi ex consequat Lorem. Culpa officia sint occaecat deserunt et aliquip excepteur quis excepteur sunt Lorem velit laboris officia. Adipisicing ut ipsum fugiat in nisi est nisi commodo qui. Sint Lorem ipsum aute laboris.
 
@@ -419,4 +419,4 @@ end program hello
 
 ![Placeholder](https://picsum.photos/id/292/393/323)
 
-[[expert-odyssey-beginner]]
+[expert-odyssey-beginner](/blog/expert-odyssey-beginner)

@@ -21,7 +21,7 @@
   h5,
   h6 {
     line-height: 1.75;
-    color: var(--color-second);
+    color: var(--text-primary);
     font-weight: 700;
     text-transform: capitalize;
     width: 100%;
@@ -31,18 +31,21 @@
   h2,
   h3 {
     font-family: v.$font-serif;
-    border-block-end: 1px solid var(--border-base);
+    border-block-end: 1px solid var(--border-primary);
     letter-spacing: 0.05em;
+    margin-block: 1em 1.5em;
   }
 
   h1 {
-    font-size: v.$fs-8xl;
+    font-size: v.$fs-5xl;
+    &:has(+ p){
+      margin-bottom: 0em;
+    }
   }
 
   h2,
   h3 {
     font-size: v.$fs-3xl;
-    margin-block: 1em 1.5em;
   }
 
   h4,
@@ -60,13 +63,18 @@
   }
 
   a {
-    text-decoration: underline solid 1px;
-    color: var(--color-second);
+    text-decoration: underline solid var(--text-muted);
+    color: var(--text-primary);
+    text-underline-offset: 2px;
+
+    &:hover {
+      color: var(--text-tertiary);
+    }
   }
 
   b,
   strong {
-    color: var(--color-second);
+    color: var(--text-primary);
     font-weight: 700;
   }
 
@@ -107,16 +115,16 @@
 
   dt {
     padding-block-end: 0.25em;
-    color: var(--color-second);
-    border-block-end: 1px solid var(--border-base);
+    color: var(--text-primary);
+    border-block-end: 1px solid var(--border-primary);
     font-weight: 600;
   }
 
   dd {
     margin: 0.5em;
     padding-inline-start: 1em;
-    color: var(--third-color);
-    border-inline-start: 3px solid var(--color-second);
+    color: var(--text-tertiary);
+    border-inline-start: 3px solid var(--text-primary);
   }
 
   hr {
@@ -124,16 +132,16 @@
     display: flow-root;
     border: none;
     height: 3px;
-    background-color: var(--border-second);
+    background-color: var(--border-primary);
   }
 
   img {
     @include m.transition(all);
     display: inline-block;
     padding: 0.5em;
-    border: 1px solid var(--border-base);
+    border: 1px solid var(--border-primary);
     border-radius: 0.5em;
-    box-shadow: var(--shadow-sm);
+    box-shadow: var(--shadow-subtle);
     filter: grayscale(1);
 
     &:hover {
@@ -148,9 +156,9 @@
     letter-spacing: 0.025em;
     margin-block: 1.5em;
     padding-inline-start: 1em;
-    color: var(--color-third);
+    color: var(--text-muted);
     border-inline-start-width: 0.25em;
-    border-inline-start-color: var(--border-third);
+    border-inline-start-color: var(--border-accent);
     quotes: "“" "”" "‘" "’";
     font-style: italic;
     font-family: v.$font-serif;

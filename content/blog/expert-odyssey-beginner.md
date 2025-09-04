@@ -65,7 +65,7 @@ class FormalGreeter extends Greeter {
 
 [Alchemy](https://golang.org)
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Sunt adipisicing commodo sunt sint veniam cupidatat enim id aliquip ex anim proident ea sit. Veniam officia amet anim aliqua reprehenderit aute irure aliquip cupidatat ea nostrud sunt mollit. Excepteur veniam anim in sit ea. Occaecat esse mollit consequat ullamco deserunt tempor ut eu deserunt aute officia. Irure reprehenderit culpa et amet nostrud nulla commodo aute amet do eiusmod do consequat magna. Culpa elit consectetur ipsum labore aliqua nisi aute.
 
@@ -89,7 +89,7 @@ func main() {
 - Turbo
 - Mindful
 
-[[core-streamlined-rapid-essential-powerful]]
+[core-streamlined-rapid-essential-powerful](/blog/core-streamlined-rapid-essential-powerful)
 
 Amet consectetur laboris exercitation tempor ipsum sit. Fugiat tempor laboris irure consequat minim eu exercitation. Est ad qui minim nostrud nisi veniam reprehenderit adipisicing aliquip. Adipisicing minim anim cupidatat laboris. Culpa aliquip fugiat sunt reprehenderit. Labore deserunt eiusmod culpa nulla nulla qui laborum aliqua consectetur. Non consectetur cillum esse cupidatat ea proident commodo elit esse non occaecat dolor. Nulla labore amet mollit adipisicing mollit. Ad occaecat enim anim velit quis amet id labore.
 
@@ -144,7 +144,7 @@ public:
 - Fun
 - Optimal
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Excepteur Lorem pariatur commodo deserunt cupidatat in occaecat. Pariatur sunt consectetur veniam magna qui veniam commodo elit eiusmod ea magna anim. Anim duis aute occaecat laborum in nulla id tempor dolore. Ipsum nisi cillum eu occaecat ea cillum sit. Labore nulla dolor qui sit. Voluptate ut proident nisi dolore dolore fugiat elit quis velit eu proident occaecat. Anim et minim commodo cillum laboris qui amet qui nulla incididunt tempor. Quis pariatur et irure dolor irure. Minim pariatur est est enim enim ad reprehenderit ad nisi labore deserunt.
 
@@ -192,7 +192,7 @@ print "Tax: $tax\n";
 - Magic
 - Robust
 
-[[peek-blueprint-fun-holistic-super]]
+[peek-blueprint-fun-holistic-super](/blog/peek-blueprint-fun-holistic-super)
 
 Ad sit officia velit reprehenderit consequat dolore consequat amet ullamco sit incididunt mollit. Laboris dolor eiusmod culpa officia. Lorem sunt officia ex Lorem ad nulla nulla labore eiusmod laborum enim incididunt. Adipisicing ut dolore sint non laboris Lorem. Velit fugiat pariatur in velit do reprehenderit do culpa non Lorem et est aliquip laboris. Ut in anim veniam consequat exercitation. Id et consectetur dolore voluptate ullamco enim excepteur consequat.
 
@@ -234,7 +234,7 @@ print "Tax: $tax\n";
 
 ```
 
-[[beginner-professional-playbook-hidden-art]]
+[beginner-professional-playbook-hidden-art](/blog/beginner-professional-playbook-hidden-art)
 
 Qui ex tempor laborum mollit officia labore ut anim reprehenderit non aute id pariatur anim. Consequat cillum culpa occaecat aliqua officia deserunt ullamco ex incididunt. Laboris cillum laboris minim amet nostrud nulla. Voluptate sint ex exercitation reprehenderit ut. Ut excepteur minim ex aliqua quis occaecat. Magna nostrud est quis Lorem nulla consequat aute non minim dolore tempor ut pariatur. Esse pariatur velit et voluptate laboris irure magna Lorem commodo fugiat ullamco. Ad sit officia velit reprehenderit consequat dolore consequat amet ullamco sit incididunt mollit. Laboris dolor eiusmod culpa officia. Lorem sunt officia ex Lorem ad nulla nulla labore eiusmod laborum enim incididunt. Adipisicing ut dolore sint non laboris Lorem. Velit fugiat pariatur in velit do reprehenderit do culpa non Lorem et est aliquip laboris. Ut in anim veniam consequat exercitation. Id et consectetur dolore voluptate ullamco enim excepteur consequat.
 
@@ -283,7 +283,7 @@ end
 
 > Non anim proident est ipsum minim tempor laborum. Dolore dolor occaecat elit est aliqua amet nostrud. Tempor cillum eiusmod excepteur labore incididunt voluptate ut veniam consequat. Magna laborum consectetur ad eiusmod reprehenderit id ad ipsum commodo et. Qui voluptate amet sint et et minim enim proident ullamco.
 
-[[guide-incredible-quest-glimpse]]
+[guide-incredible-quest-glimpse](/blog/guide-incredible-quest-glimpse)
 
 Cupidatat et elit labore magna labore. Magna nostrud veniam quis ipsum labore commodo. Minim fugiat ut est cupidatat pariatur anim laborum deserunt pariatur commodo. Incididunt dolor mollit nulla occaecat nulla tempor. Officia ullamco excepteur consectetur irure aliqua incididunt proident commodo sit consectetur. Enim est fugiat in exercitation minim nisi esse irure culpa est mollit aliqua sit excepteur. Est labore voluptate labore sunt sunt. Dolor ipsum nulla magna do ut. Amet aliquip exercitation labore consectetur Lorem ea. Sunt adipisicing officia voluptate tempor laborum. Dolore id non in deserunt pariatur esse enim do dolore nisi. Occaecat ex ex ad pariatur cupidatat enim quis est nostrud duis in ad exercitation nostrud. Excepteur minim cupidatat velit aliquip irure est. Nisi nisi magna eiusmod elit sit nisi nostrud. In consectetur sint elit ad laboris proident labore qui nulla.
 
@@ -297,7 +297,7 @@ print('Hello World')
 
 ![Placeholder](https://picsum.photos/id/547/393/502)
 
-[[nextgen-crash-art-unboxed-awesome]]
+[nextgen-crash-art-unboxed-awesome](/blog/nextgen-crash-art-unboxed-awesome)
 
 Fugiat sint pariatur voluptate cupidatat occaecat ullamco quis eu et qui irure culpa amet elit. Officia veniam mollit veniam ea velit proident consequat qui officia. Occaecat sint nisi ipsum commodo irure eu. Velit aute qui consectetur nulla consequat veniam cillum deserunt id ad commodo aute. Consectetur in exercitation irure cupidatat laboris adipisicing ea deserunt sint non est. Tempor excepteur magna esse nulla enim ut aliqua excepteur reprehenderit veniam incididunt cupidatat. Culpa nulla exercitation eiusmod consectetur exercitation eiusmod tempor veniam. Tempor dolor qui in in officia laboris. Esse nisi officia eiusmod voluptate consequat consequat aute aliquip minim ipsum sunt ut non officia. Aliquip adipisicing Lorem consequat in. Excepteur ad culpa minim mollit enim commodo dolor fugiat nisi dolor exercitation cupidatat aliqua. Consequat cillum Lorem ullamco ullamco ad velit minim dolor deserunt ad incididunt et nisi. Officia cillum dolore do velit laboris mollit consectetur reprehenderit labore laborum mollit. Cillum incididunt aliquip dolor commodo. Ut voluptate sit anim in est velit aute nostrud mollit Lorem. Reprehenderit non tempor excepteur est occaecat minim reprehenderit in incididunt.
 
@@ -333,4 +333,4 @@ sum_list([H|T], Sum) :-
     Sum is H + TailSum.
 ```
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)

@@ -8,7 +8,7 @@
 
 code:not(pre code) {
   font-size: v.$fs-sm;
-  background-color: var(--background-second);
+  background-color: var(--background-secondary);
   padding-inline: 0.25em;
   border-radius: 0.25em;
 }
@@ -23,9 +23,9 @@ code:not(pre code) {
   pre {
     padding: 0.75em;
     margin-block: 1em;
-    background-color: var(--background-second);
-    border: 1px dotted var(--border-base);
-    box-shadow: var(--shadow-sm);
+    background-color: var(--background-secondary);
+    border: 1px solid var(--border-primary);
+    box-shadow: var(--shadow-subtle);
     overflow-x: auto;
   }
 }
@@ -70,7 +70,7 @@ code:not(pre code) {
     .gu
   ) {
     font-weight: 700;
-    color: var(--color-second);
+    color: var(--text-primary);
   }
   :is(.c, .ch, .cm, .c1, .cs, .cp, .cpf, .ge) {
     font-style: italic;

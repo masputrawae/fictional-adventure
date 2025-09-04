@@ -6,15 +6,20 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     <hr />
+    <em
+      style="border-block-end: 1px solid var(--border-accent); width: 100%; display: block; margin-bottom: 1em;">
+      Last Build On:
+      <time datetime="{{ hugo.BuildDate }}">{{ hugo.BuildDate | time.Format "2006 January 02 - 15:04" }}</time>
+    </em>
   {{ else }}
     <h1>Page Number: ({{ $paginator.PageNumber }})</h1>
   {{ end }}
-  <div class="multi-column">
+  <div class="multi-column multi-column--fluid-lg">
     {{ range $paginator.Pages }}
       {{ $title := .LinkTitle }}
       <div class="multi-column__item">
         <section
-          class="card featured"
+          class="featured"
           onclick="window.location.href=`{{ .RelPermalink }}`">
           <header class="featured__header">
             {{ if .Params.images }}
@@ -32,7 +37,7 @@
             </h2>
           </header>
           <div class="featured__body">
-            <p>{{ .Description | default .Summary | truncate 160 }}</p>
+            {{ .Content }}
           </div>
           <footer
             class="featured__footer"
@@ -40,7 +45,7 @@
             <time datetime="" class="featured__time"
               >{{ .Date | time.Format "2006 Jan 02" }}</time
             >
-            <button class="btn" class="featured__btn">Read More</button>
+            <button class="featured__btn">Read More</button>
           </footer>
         </section>
       </div>

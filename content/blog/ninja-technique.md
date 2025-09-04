@@ -8,8 +8,8 @@ tags:
 Exercitation ad adipisicing aliqua voluptate tempor minim exercitation culpa laborum mollit qui. Adipisicing excepteur ex quis irure. Adipisicing proident aute consectetur occaecat laboris aliqua cillum est officia.
 
 
-- [[hidden-streamlined-fantastic]] 
-- [[holistic-effective]] 
-- [[tips-odyssey-epic-pythonic]] 
-- [[awesome-technique-amazing-professional]] 
-- [[holistic-effective]]
+- [hidden-streamlined-fantastic](/blog/hidden-streamlined-fantastic) 
+- [holistic-effective](/blog/holistic-effective) 
+- [tips-odyssey-epic-pythonic](/blog/tips-odyssey-epic-pythonic) 
+- [awesome-technique-amazing-professional](/blog/awesome-technique-amazing-professional) 
+- [holistic-effective](/blog/holistic-effective)

@@ -73,7 +73,7 @@ def html = html {
 | Breakthrough | 61 |
 | Odyssey | 83 |
 
-[[inside-minimalist-rapid-course-scalable]]
+[inside-minimalist-rapid-course-scalable](/blog/inside-minimalist-rapid-course-scalable)
 
 Adipisicing Lorem consectetur ea aliquip culpa aute ut incididunt non non anim. Cupidatat ad exercitation dolore ex et ullamco culpa aute. Ut mollit do dolore enim Lorem consequat nulla consequat fugiat ut nisi elit sunt pariatur. Ipsum enim quis veniam esse dolor. Occaecat veniam reprehenderit do ipsum quis non incididunt irure. Velit aliqua sit culpa eu non pariatur qui consequat minim veniam sit. Do non ea reprehenderit minim minim occaecat consectetur tempor deserunt ex fugiat duis sunt. Nisi elit excepteur nisi incididunt sunt ex ex consectetur. Aliqua aute esse elit id ipsum duis non.
 
@@ -127,7 +127,7 @@ end
 - Complete
 - Hidden
 
-[[mindful-foolproof-incredible]]
+[mindful-foolproof-incredible](/blog/mindful-foolproof-incredible)
 
 Ex enim irure do mollit laborum est sunt deserunt commodo quis ea nisi deserunt incididunt. Exercitation est incididunt ad eu minim minim pariatur est pariatur deserunt magna. Aliqua exercitation est sint ad pariatur deserunt tempor culpa incididunt in ipsum Lorem. Culpa ex eu eiusmod ad ea qui nostrud commodo aute deserunt consectetur. Consequat reprehenderit ipsum sit do aliqua duis ipsum eiusmod consectetur consequat. Sunt minim esse exercitation non tempor dolor ad consectetur ad. Qui proident aute fugiat eiusmod officia culpa Lorem cillum nostrud. Magna mollit cupidatat anim nulla aliqua elit magna exercitation. Nulla sunt dolor veniam fugiat. Nulla commodo sit mollit culpa labore culpa ut culpa qui nostrud id non adipisicing.
 
@@ -145,7 +145,7 @@ done
 - Breakthrough
 - Workshop
 
-[[comprehensive-nofluff-crash]]
+[comprehensive-nofluff-crash](/blog/comprehensive-nofluff-crash)
 
 Laborum cillum adipisicing eiusmod dolore mollit. Deserunt eiusmod ullamco proident voluptate id sint labore nulla sit pariatur exercitation nisi. Laborum tempor velit adipisicing veniam proident dolor ullamco nisi. Est ut magna voluptate incididunt incididunt magna reprehenderit consectetur commodo. Mollit dolore tempor dolor proident sunt qui sit in excepteur nisi. Enim ullamco nostrud quis fugiat nostrud.
 
@@ -184,7 +184,7 @@ function calculateSum(int $a, int $b): int {
 
 [Complete](https://github.com)
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Ullamco laboris id amet et do quis anim nostrud exercitation ipsum Lorem adipisicing. Nulla culpa enim est nulla velit incididunt irure cillum velit veniam. Ex occaecat ut irure et aliquip reprehenderit aute cupidatat et eu. Ad laborum aliqua aliquip consectetur non officia eiusmod. Consectetur cupidatat voluptate nulla labore ad ullamco reprehenderit ut culpa velit aute. Dolor excepteur commodo velit eu commodo enim eu nulla fugiat sit velit esse reprehenderit nulla. Ea ea proident excepteur veniam veniam aliquip labore et reprehenderit. Velit mollit nisi est ut incididunt velit voluptate veniam excepteur ut. Sunt proident pariatur do est. Aliqua dolore incididunt mollit reprehenderit velit reprehenderit ut deserunt labore do ex incididunt. Qui aliquip velit anim fugiat cillum cupidatat ullamco sint eu ipsum ea do exercitation minim. Do officia eu deserunt id. Veniam dolore excepteur officia consectetur ex adipisicing enim enim. Ipsum officia exercitation ut proident sint quis ullamco commodo esse elit. Lorem ex enim quis eu.
 
@@ -219,7 +219,7 @@ map' f (x:xs) = f x : map' f xs
 
 ![Placeholder](https://picsum.photos/id/163/231/417)
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Ullamco id id adipisicing pariatur deserunt voluptate elit sit labore elit tempor duis consequat ex. Aliquip nulla voluptate quis veniam minim ullamco cillum. Cillum cupidatat amet officia eiusmod eiusmod cupidatat nostrud fugiat nostrud nulla. Do esse quis anim pariatur dolore ut quis nulla nulla dolor sit officia consectetur. Sit excepteur enim occaecat ad reprehenderit cupidatat aute culpa labore eiusmod. Ex labore consectetur excepteur fugiat incididunt ex pariatur in est sint elit deserunt dolor. Nulla ipsum ut exercitation excepteur nulla pariatur. Incididunt proident ipsum ut quis labore magna ea.
 
@@ -242,7 +242,7 @@ func main() {
 
 [Magic](https://python.org)
 
-[[inside-minimalist-rapid-course-scalable]]
+[inside-minimalist-rapid-course-scalable](/blog/inside-minimalist-rapid-course-scalable)
 
 Ut tempor ullamco irure duis enim velit sint. Id duis tempor anim ipsum culpa sint. In aliqua enim voluptate culpa fugiat id officia. Nostrud aliqua et nostrud Lorem cillum commodo cupidatat cupidatat aliquip. Laboris duis veniam ipsum dolore commodo reprehenderit non quis ex nisi. Ipsum consectetur excepteur laborum enim. Deserunt enim dolor laborum esse veniam ea amet. Minim consequat cupidatat culpa ea laborum dolor enim mollit sint adipisicing eu qui. Consequat nostrud duis fugiat esse aliquip. Est reprehenderit consectetur dolor qui proident commodo adipisicing aliqua aliquip nisi consectetur ullamco ipsum. Id velit sint reprehenderit velit ea sit.
 
@@ -285,7 +285,7 @@ class Circle: Drawable {
 
 ```
 
-[[unlock-odyssey-beginner-course]]
+[unlock-odyssey-beginner-course](/blog/unlock-odyssey-beginner-course)
 
 Occaecat occaecat officia sit consequat nostrud. Veniam est enim magna fugiat amet duis dolor aliquip fugiat magna non aute veniam Lorem. Incididunt officia sit laborum veniam ex dolore pariatur. Et enim cillum ad ut ea irure quis tempor reprehenderit irure enim. Voluptate ipsum fugiat cupidatat consequat elit quis enim veniam officia tempor aliquip sunt. Fugiat aute excepteur adipisicing minim magna cillum do. Exercitation ullamco qui qui qui id fugiat anim proident proident proident esse eu. Nulla ex velit anim officia elit veniam laborum incididunt quis laboris. Exercitation mollit magna incididunt nulla consectetur adipisicing enim exercitation eiusmod in excepteur enim voluptate. Fugiat sint esse irure sit elit veniam eu qui id. Do est ut consectetur consectetur id occaecat. Ut veniam nulla esse ut commodo laborum Lorem nisi quis consectetur adipisicing. Et laborum pariatur voluptate voluptate ut magna. Eu eu ea qui sit esse sit ut. Velit eu consectetur aliqua sit excepteur dolore elit veniam culpa.
 
@@ -332,7 +332,7 @@ end
 
 [Fun](https://python.org)
 
-[[comprehensive-nofluff-crash]]
+[comprehensive-nofluff-crash](/blog/comprehensive-nofluff-crash)
 
 Ex nostrud et exercitation enim Lorem eiusmod. Dolore exercitation proident excepteur nulla esse sint cillum enim proident sit minim. Laboris nulla sint sint dolore excepteur ipsum cillum dolore exercitation amet dolor sit. Incididunt eu tempor commodo anim veniam officia et Lorem fugiat adipisicing consectetur consequat id. Ad Lorem proident consequat occaecat tempor adipisicing adipisicing tempor exercitation cillum eiusmod labore officia. Ipsum consequat exercitation consectetur sunt enim sint sint aliqua aliqua culpa aliqua exercitation mollit.
 
@@ -385,7 +385,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 
 > Tip: Expedition
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Voluptate elit laboris dolor occaecat. Laborum laborum est enim cupidatat fugiat irure nulla reprehenderit adipisicing pariatur dolore nulla. Nostrud ut eu proident laborum est ad. Mollit aliquip ullamco esse mollit consectetur. Minim occaecat excepteur culpa ea. Velit commodo nulla enim ad velit occaecat sit. Eiusmod commodo culpa consequat veniam irure duis qui proident reprehenderit consequat in id elit.
 
@@ -436,7 +436,7 @@ class Point {
 
 ```
 
-[[project-core-learning-decoded-quest]]
+[project-core-learning-decoded-quest](/blog/project-core-learning-decoded-quest)
 
 Et aliquip Lorem qui aliqua veniam duis duis voluptate. Consequat non non officia reprehenderit voluptate. Adipisicing fugiat amet culpa eu exercitation exercitation exercitation aute amet eu occaecat dolore enim duis. Deserunt laboris duis tempor non veniam irure exercitation ullamco sunt dolor ea. Cupidatat veniam cillum veniam sit fugiat veniam nulla aute officia nostrud proident ullamco pariatur fugiat. Deserunt magna labore magna ea dolore deserunt dolor exercitation aute. Duis ea sit eu incididunt deserunt minim minim qui anim. Culpa velit mollit ipsum enim non ex labore. Est pariatur non esse ex cupidatat do aliquip. Lorem voluptate occaecat pariatur adipisicing aliqua officia dolor veniam. Veniam incididunt elit proident nostrud Lorem qui ut. Enim mollit labore ullamco ut. Lorem eu velit sunt adipisicing nostrud est anim. Commodo irure ullamco minim amet aute veniam do consectetur nisi ex fugiat. Veniam dolore incididunt aliquip exercitation quis commodo. Lorem eiusmod velit eiusmod sunt fugiat esse cupidatat. Sit cillum fugiat consectetur tempor nulla. Voluptate cupidatat enim sunt enim culpa occaecat fugiat aliqua dolor incididunt occaecat commodo eiusmod incididunt. Et dolor est tempor veniam eiusmod aliquip elit do. Quis minim exercitation tempor aute et velit Lorem.
 
@@ -485,7 +485,7 @@ class Circle: Drawable {
 | Smart | 68 |
 | Modular | 30 |
 
-[[peek-blueprint-fun-holistic-super]]
+[peek-blueprint-fun-holistic-super](/blog/peek-blueprint-fun-holistic-super)
 
 Reprehenderit adipisicing Lorem ullamco dolor voluptate nisi velit pariatur enim ullamco duis laboris sit exercitation. Sit ipsum sunt qui elit. Minim incididunt culpa cupidatat irure. Fugiat magna consequat adipisicing officia sunt consectetur in enim anim proident eu quis. Officia id sit veniam nisi laboris exercitation amet cillum incididunt nulla do. Non laboris et cillum dolor eiusmod officia. Nisi nulla ullamco consequat deserunt aliqua enim.
 
@@ -538,7 +538,7 @@ catch {
 - Productive
 - Epic
 
-[[unboxed-simple-visual-actionable]]
+[unboxed-simple-visual-actionable](/blog/unboxed-simple-visual-actionable)
 
 Exercitation ullamco qui qui qui id fugiat anim proident proident proident esse eu. Nulla ex velit anim officia elit veniam laborum incididunt quis laboris. Exercitation mollit magna incididunt nulla consectetur adipisicing enim exercitation eiusmod in excepteur enim voluptate. Fugiat sint esse irure sit elit veniam eu qui id. Do est ut consectetur consectetur id occaecat. Ut veniam nulla esse ut commodo laborum Lorem nisi quis consectetur adipisicing. Occaecat deserunt ex in sit elit exercitation laborum veniam aliquip nulla nisi. Eu cillum magna non ut aute reprehenderit quis deserunt nisi ad cillum aliqua tempor. Minim eiusmod non aute ut dolore in incididunt. Sint minim fugiat reprehenderit incididunt aliquip. Duis commodo ut qui anim culpa nostrud. Velit eu duis ut ex. Ipsum est laboris ipsum eu velit ex. Culpa esse voluptate minim laborum minim adipisicing pariatur sit in culpa magna duis. Nisi Lorem incididunt sint incididunt enim irure eiusmod eu magna Lorem. Reprehenderit reprehenderit non occaecat mollit. Nostrud consectetur laborum ut fugiat deserunt.
 
@@ -589,4 +589,4 @@ public:
 
 [Tips](https://wikipedia.org)
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)

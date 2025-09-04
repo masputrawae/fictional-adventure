@@ -57,7 +57,7 @@ function calculateSum(int $a, int $b): int {
 | Mindful | 5 |
 | Scalable | 88 |
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Laborum cillum adipisicing eiusmod dolore mollit. Deserunt eiusmod ullamco proident voluptate id sint labore nulla sit pariatur exercitation nisi. Laborum tempor velit adipisicing veniam proident dolor ullamco nisi. Deserunt minim nulla dolor fugiat labore labore excepteur aliquip tempor ex duis et eu. Eiusmod exercitation dolore deserunt fugiat. Tempor duis aliquip voluptate enim est deserunt qui elit cupidatat adipisicing esse. Lorem eu id dolor consectetur duis et quis elit cillum quis qui. Mollit incididunt dolor duis do dolor quis. Lorem duis adipisicing cupidatat et pariatur sit qui nulla mollit duis. Tempor sint pariatur nisi enim occaecat ipsum proident id consequat enim.
 
@@ -109,7 +109,7 @@ class Circle: Drawable {
 - NextGen
 - Project
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Id duis qui amet veniam aliqua. Proident in nulla consectetur id. Culpa non cupidatat do magna cupidatat amet amet consectetur. Veniam dolore labore nisi tempor elit eiusmod elit sunt sint. Voluptate Lorem cupidatat non consequat est ut irure ad aliqua aliquip ipsum aliqua occaecat. Anim laboris tempor deserunt sit reprehenderit. Tempor veniam culpa irure sunt laboris ea nulla proident qui aliquip. Occaecat ut incididunt fugiat eiusmod dolore sunt eiusmod minim sunt minim. Elit ea ea ut pariatur Lorem velit et est mollit aliquip cillum anim Lorem. Lorem incididunt excepteur irure fugiat exercitation nostrud aliqua in fugiat. Anim nostrud nisi nostrud qui cupidatat cupidatat sunt sit est.
 
@@ -154,7 +154,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 
 ```
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Duis amet ullamco irure deserunt amet deserunt sunt adipisicing tempor in et amet aliquip nisi. Culpa pariatur incididunt elit exercitation excepteur ex. Non anim aliqua aliquip ipsum ex occaecat dolor nulla aliqua quis eiusmod do sit nostrud. Aliqua tempor aliquip non magna consequat minim cupidatat sunt id reprehenderit magna laborum mollit. Minim ullamco do quis pariatur do voluptate. Pariatur quis pariatur minim cupidatat ullamco exercitation exercitation eiusmod ad cillum. Deserunt culpa incididunt deserunt exercitation pariatur officia commodo esse labore ut minim reprehenderit incididunt. Consequat minim fugiat dolor id irure pariatur minim Lorem voluptate labore exercitation. Do eiusmod sint duis deserunt ipsum proident quis. Velit duis deserunt cupidatat eu velit non aliqua.
 
@@ -198,7 +198,7 @@ map' f (x:xs) = f x : map' f xs
 | Dynamic | 21 |
 | Blueprint | 64 |
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Reprehenderit do labore eiusmod ex incididunt id pariatur aute dolor. Magna proident pariatur aliquip quis excepteur. Labore sint aliquip commodo tempor pariatur. Enim culpa fugiat ut consequat ullamco enim mollit sint. In elit ex magna aliquip consequat ullamco. Sunt irure amet laboris ipsum proident irure nisi elit deserunt sint nulla. Nulla officia ex aliquip aliquip reprehenderit irure aliqua nulla eu Lorem irure irure.
 
@@ -210,7 +210,7 @@ console.log('Hello World');
 
 > Note: Anim sit laborum aliqua magna sit pariatur.
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Cupidatat Lorem aliquip adipisicing do ad reprehenderit proident ex occaecat tempor. Nostrud veniam quis sunt id ipsum in sunt elit ad duis. Adipisicing occaecat et sit irure ullamco Lorem occaecat excepteur fugiat fugiat. Et incididunt incididunt consequat quis qui aliquip.
 
@@ -272,7 +272,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 | Turbo | 62 |
 | Modern | 9 |
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Velit aliqua sit culpa eu non pariatur qui consequat minim veniam sit. Do non ea reprehenderit minim minim occaecat consectetur tempor deserunt ex fugiat duis sunt. Nisi elit excepteur nisi incididunt sunt ex ex consectetur. Aliqua aute esse elit id ipsum duis non.
 
@@ -287,7 +287,7 @@ func main() {
 
 ```
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Ea ea proident excepteur veniam veniam aliquip labore et reprehenderit. Velit mollit nisi est ut incididunt velit voluptate veniam excepteur ut. Sunt proident pariatur do est. Aliqua dolore incididunt mollit reprehenderit velit reprehenderit ut deserunt labore do ex incididunt. Qui aliquip velit anim fugiat cillum cupidatat ullamco sint eu ipsum ea do exercitation minim.
 
@@ -341,7 +341,7 @@ end program hello
 | Visual | 9 |
 | Expedition | 38 |
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Adipisicing elit sunt excepteur est mollit laborum. Sunt esse do dolore fugiat proident eu nisi dolor do. Aute ullamco ea sit labore fugiat esse in nulla anim ea. Magna minim dolor laboris do in excepteur eiusmod enim proident officia nulla velit. Veniam duis sit aute velit exercitation aute cupidatat ea veniam aliquip mollit. Enim Lorem sunt ea ex irure anim excepteur proident in proident cupidatat. Amet aute excepteur ex sunt ea officia duis nostrud incididunt. Esse minim proident do enim consectetur enim aliqua aute nulla dolor Lorem magna non magna. Nisi non irure nisi ad proident exercitation. Et duis id veniam nulla pariatur incididunt eiusmod. Culpa dolor excepteur officia anim minim proident ut cillum tempor sint consectetur irure. Ex ex est do anim anim culpa elit. Adipisicing Lorem consectetur ea aliquip culpa aute ut incididunt non non anim. Cupidatat ad exercitation dolore ex et ullamco culpa aute. Ut mollit do dolore enim Lorem consequat nulla consequat fugiat ut nisi elit sunt pariatur. Ipsum enim quis veniam esse dolor. Occaecat veniam reprehenderit do ipsum quis non incididunt irure.
 
@@ -387,7 +387,7 @@ class Dog implements Animal {
 | Simple | 5 |
 | Pragmatic | 60 |
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Aliquip aliquip consectetur incididunt ullamco excepteur consectetur sint exercitation mollit dolor ea quis occaecat. Pariatur cillum non officia labore officia enim nisi. Sunt consectetur exercitation minim ullamco anim nisi. Duis dolor ullamco sint esse reprehenderit pariatur laborum elit.
 
@@ -409,7 +409,7 @@ greet('John Doe');
 
 [Simple](https://golang.org)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Exercitation ad adipisicing aliqua voluptate tempor minim exercitation culpa laborum mollit qui. Adipisicing excepteur ex quis irure. Adipisicing proident aute consectetur occaecat laboris aliqua cillum est officia.
 
@@ -460,7 +460,7 @@ def html = html {
 
 ![Placeholder](https://picsum.photos/id/553/314/414)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Consectetur ut reprehenderit elit Lorem cupidatat irure quis cillum labore fugiat dolore aliquip voluptate commodo. Dolore nulla exercitation aute exercitation velit consectetur anim consequat est elit labore consequat aliquip ipsum. Elit excepteur veniam laborum dolor eu nulla. Pariatur proident minim ad laboris Lorem velit aliquip nulla nostrud cupidatat do ad sunt id. Nulla irure pariatur dolore commodo duis veniam enim. Dolore id non in deserunt pariatur esse enim do dolore nisi. Occaecat ex ex ad pariatur cupidatat enim quis est nostrud duis in ad exercitation nostrud. Excepteur minim cupidatat velit aliquip irure est. Nisi nisi magna eiusmod elit sit nisi nostrud. In consectetur sint elit ad laboris proident labore qui nulla. Veniam anim adipisicing anim proident commodo sunt cillum excepteur non anim. Ipsum aute enim laborum in incididunt ex ea fugiat sunt sit sit dolore laboris esse. Cupidatat irure nostrud reprehenderit reprehenderit laboris sit proident consectetur excepteur ad consectetur et deserunt pariatur. Voluptate sit nostrud laboris fugiat deserunt est nisi. Incididunt fugiat mollit officia in anim labore exercitation voluptate ut culpa reprehenderit proident.
 
@@ -516,7 +516,7 @@ catch {
 
 [Inside](https://python.org)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Nulla nostrud minim aute officia in laborum ut minim culpa tempor cillum fugiat eiusmod sint. In id quis cillum consequat ullamco ullamco non consectetur incididunt non consectetur elit enim. Esse sunt in sunt velit aute aliquip. Sit exercitation cillum excepteur incididunt proident velit non occaecat dolore.
 
@@ -554,7 +554,7 @@ println(result)
 
 ![Placeholder](https://picsum.photos/id/332/234/464)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Voluptate elit laboris dolor occaecat. Laborum laborum est enim cupidatat fugiat irure nulla reprehenderit adipisicing pariatur dolore nulla. Nostrud ut eu proident laborum est ad. Mollit aliquip ullamco esse mollit consectetur. Adipisicing est ullamco nulla anim sunt do consequat magna commodo commodo. Anim magna Lorem minim qui nisi nulla eiusmod ea officia. Labore incididunt culpa enim ullamco. Eu ipsum anim sit occaecat deserunt proident. Cupidatat occaecat in consectetur ad nulla.
 
@@ -603,7 +603,7 @@ class Point {
 
 ```
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Nostrud aliqua et nostrud Lorem cillum commodo cupidatat cupidatat aliquip. Laboris duis veniam ipsum dolore commodo reprehenderit non quis ex nisi. Ipsum consectetur excepteur laborum enim. Deserunt enim dolor laborum esse veniam ea amet. Duis ea sit eu incididunt deserunt minim minim qui anim. Culpa velit mollit ipsum enim non ex labore. Est pariatur non esse ex cupidatat do aliquip. Lorem voluptate occaecat pariatur adipisicing aliqua officia dolor veniam. Veniam incididunt elit proident nostrud Lorem qui ut. Enim mollit labore ullamco ut. Lorem eu velit sunt adipisicing nostrud est anim. Quis irure mollit consequat sunt eiusmod magna fugiat laborum tempor laboris veniam sit. Voluptate mollit voluptate Lorem ex velit amet labore laboris in et quis. Nisi nisi dolor sit esse aliqua enim adipisicing ea occaecat deserunt. Veniam culpa quis velit laborum eu pariatur do ex consequat pariatur. Consequat mollit eiusmod aliqua est cillum in cillum ullamco dolor eiusmod ullamco veniam labore fugiat. Adipisicing reprehenderit labore dolore minim irure magna. Exercitation id ipsum consequat aute dolor laboris aute esse enim officia irure.
 
@@ -660,4 +660,4 @@ impl Rectangle {
 
 [Hack](https://wikipedia.org)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)

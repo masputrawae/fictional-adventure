@@ -8,8 +8,8 @@ tags:
 Minim ullamco elit aliqua in id anim ad aliqua dolor Lorem est irure fugiat aliqua. Consectetur nisi id deserunt consequat labore proident tempor proident fugiat dolor tempor minim. Velit sunt ut irure occaecat. Et sunt aute elit Lorem proident nisi eu eiusmod exercitation.
 
 
-- [[tutorial-revolutionary-amazing-nofluff]] 
-- [[demystified-innovative]] 
-- [[optimal-pythonic-digital]] 
-- [[tips-odyssey-epic-pythonic]] 
-- [[hidden-streamlined-fantastic]]
+- [tutorial-revolutionary-amazing-nofluff](/blog/tutorial-revolutionary-amazing-nofluff) 
+- [demystified-innovative](/blog/demystified-innovative) 
+- [optimal-pythonic-digital](/blog/optimal-pythonic-digital) 
+- [tips-odyssey-epic-pythonic](/blog/tips-odyssey-epic-pythonic) 
+- [hidden-streamlined-fantastic](/blog/hidden-streamlined-fantastic)

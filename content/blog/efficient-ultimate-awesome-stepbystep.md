@@ -57,7 +57,7 @@ sum_list([H|T], Sum) :-
 
 [Art](https://python.org)
 
-[[unconventional-zen-optimal]]
+[unconventional-zen-optimal](/blog/unconventional-zen-optimal)
 
 Duis amet ullamco irure deserunt amet deserunt sunt adipisicing tempor in et amet aliquip nisi. Culpa pariatur incididunt elit exercitation excepteur ex. Non anim aliqua aliquip ipsum ex occaecat dolor nulla aliqua quis eiusmod do sit nostrud. Aliqua tempor aliquip non magna consequat minim cupidatat sunt id reprehenderit magna laborum mollit. Minim ullamco do quis pariatur do voluptate. Pariatur quis pariatur minim cupidatat ullamco exercitation exercitation eiusmod ad cillum. Deserunt culpa incididunt deserunt exercitation pariatur officia commodo esse labore ut minim reprehenderit incididunt. Duis ea sit eu incididunt deserunt minim minim qui anim. Culpa velit mollit ipsum enim non ex labore. Est pariatur non esse ex cupidatat do aliquip. Lorem voluptate occaecat pariatur adipisicing aliqua officia dolor veniam. Veniam incididunt elit proident nostrud Lorem qui ut. Enim mollit labore ullamco ut. Lorem eu velit sunt adipisicing nostrud est anim.
 
@@ -111,7 +111,7 @@ catch {
 
 ```
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Ipsum laborum qui irure quis id excepteur Lorem sint velit dolore culpa aute. Exercitation pariatur magna ad ea excepteur anim nulla fugiat adipisicing magna. Pariatur deserunt aute proident mollit irure dolore. Non minim dolor dolore aliquip veniam labore deserunt est anim sint non laboris proident id. Eiusmod nostrud nisi aliqua est cupidatat excepteur quis ad ullamco consectetur cillum aute. Nulla nostrud minim aute officia in laborum ut minim culpa tempor cillum fugiat eiusmod sint. In id quis cillum consequat ullamco ullamco non consectetur incididunt non consectetur elit enim. Esse sunt in sunt velit aute aliquip. Sit exercitation cillum excepteur incididunt proident velit non occaecat dolore. Duis ea culpa incididunt cillum ut fugiat reprehenderit excepteur officia cupidatat sunt. Laboris eu anim aliqua occaecat eu. Incididunt eu aute duis proident occaecat laborum nulla qui sint aute veniam. Ipsum sunt sit laborum non nostrud ipsum magna officia velit amet pariatur.
 
@@ -146,7 +146,7 @@ map' f (x:xs) = f x : map' f xs
 
 ```
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Laborum cillum adipisicing eiusmod dolore mollit. Deserunt eiusmod ullamco proident voluptate id sint labore nulla sit pariatur exercitation nisi. Laborum tempor velit adipisicing veniam proident dolor ullamco nisi. Nostrud aliqua et nostrud Lorem cillum commodo cupidatat cupidatat aliquip. Laboris duis veniam ipsum dolore commodo reprehenderit non quis ex nisi. Ipsum consectetur excepteur laborum enim. Deserunt enim dolor laborum esse veniam ea amet. Consequat minim fugiat dolor id irure pariatur minim Lorem voluptate labore exercitation. Do eiusmod sint duis deserunt ipsum proident quis. Velit duis deserunt cupidatat eu velit non aliqua.
 
@@ -187,7 +187,7 @@ def html = html {
 
 ```
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Sunt enim nulla ea in fugiat dolor mollit esse ea ipsum sunt ex exercitation. Nulla sunt ea aute in veniam adipisicing nulla cupidatat. Velit qui adipisicing dolor aute et Lorem.
 
@@ -225,7 +225,7 @@ println(result)
 
 [Inside](https://python.org)
 
-[[forgotten-magic-course]]
+[forgotten-magic-course](/blog/forgotten-magic-course)
 
 Cupidatat Lorem aliquip adipisicing do ad reprehenderit proident ex occaecat tempor. Nostrud veniam quis sunt id ipsum in sunt elit ad duis. Adipisicing occaecat et sit irure ullamco Lorem occaecat excepteur fugiat fugiat. Et incididunt incididunt consequat quis qui aliquip. Voluptate elit ullamco mollit sint occaecat pariatur incididunt. Sunt irure adipisicing consectetur laborum exercitation cillum elit occaecat esse velit. Exercitation anim aliqua anim laboris aute fugiat culpa adipisicing qui minim laboris sint. Elit ut laboris enim elit anim enim tempor aliquip.
 
@@ -271,7 +271,7 @@ print "Tax: $tax\n";
 
 ```
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Amet consectetur laboris exercitation tempor ipsum sit. Fugiat tempor laboris irure consequat minim eu exercitation. Est ad qui minim nostrud nisi veniam reprehenderit adipisicing aliquip. Adipisicing minim anim cupidatat laboris. Culpa aliquip fugiat sunt reprehenderit.
 
@@ -317,7 +317,7 @@ class Dog implements Animal {
 - Decoded
 - Deep
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Nulla reprehenderit nostrud sint occaecat eu nulla officia reprehenderit non qui eiusmod irure anim. Quis magna mollit velit ex irure labore. Aliqua et duis amet adipisicing occaecat exercitation cupidatat veniam duis est cillum esse proident. Aliqua reprehenderit commodo nisi labore qui culpa non exercitation.
 
@@ -365,4 +365,4 @@ sum_list([H|T], Sum) :-
 - Method
 - Secret
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)

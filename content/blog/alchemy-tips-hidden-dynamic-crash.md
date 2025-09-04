@@ -54,7 +54,7 @@ end
 
 ```
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Sit reprehenderit nostrud exercitation ullamco amet. Labore dolore consectetur excepteur do tempor qui magna nisi pariatur. Fugiat aliquip consectetur velit sint velit nostrud adipisicing eu voluptate. Voluptate aliquip ullamco laboris eu eu cupidatat ad velit. Eu sint tempor ad et. Duis tempor in irure qui enim commodo eu velit irure.
 
@@ -106,7 +106,7 @@ catch {
 
 [OutsideTheBox](https://github.com)
 
-[[decoded-alchemy-pythonic-journey-creative]]
+[decoded-alchemy-pythonic-journey-creative](/blog/decoded-alchemy-pythonic-journey-creative)
 
 Sunt adipisicing commodo sunt sint veniam cupidatat enim id aliquip ex anim proident ea sit. Veniam officia amet anim aliqua reprehenderit aute irure aliquip cupidatat ea nostrud sunt mollit. Excepteur veniam anim in sit ea. Occaecat esse mollit consequat ullamco deserunt tempor ut eu deserunt aute officia. Irure reprehenderit culpa et amet nostrud nulla commodo aute amet do eiusmod do consequat magna. Culpa elit consectetur ipsum labore aliqua nisi aute.
 
@@ -145,7 +145,7 @@ map' f (x:xs) = f x : map' f xs
 
 > Note: Ea fugiat incididunt ad ea occaecat non incididunt culpa magna voluptate ex cillum eu et.
 
-[[decoded-alchemy-pythonic-journey-creative]]
+[decoded-alchemy-pythonic-journey-creative](/blog/decoded-alchemy-pythonic-journey-creative)
 
 Reprehenderit incididunt deserunt sint qui est veniam tempor sint veniam commodo irure reprehenderit excepteur. Mollit excepteur voluptate nulla sunt aliquip ut officia aliqua aliqua aute veniam laboris aliquip sit. Ullamco exercitation aute est nisi tempor incididunt fugiat nostrud ad ut. Sint quis veniam quis adipisicing irure magna. Id duis qui amet veniam aliqua. Proident in nulla consectetur id. Culpa non cupidatat do magna cupidatat amet amet consectetur. Veniam dolore labore nisi tempor elit eiusmod elit sunt sint. Voluptate Lorem cupidatat non consequat est ut irure ad aliqua aliquip ipsum aliqua occaecat. Anim laboris tempor deserunt sit reprehenderit. Tempor veniam culpa irure sunt laboris ea nulla proident qui aliquip.
 
@@ -193,7 +193,7 @@ map' f (x:xs) = f x : map' f xs
 | Decoded | 1 |
 | Guide | 24 |
 
-[[trick-master-magic-comprehensive-peek]]
+[trick-master-magic-comprehensive-peek](/blog/trick-master-magic-comprehensive-peek)
 
 Amet consectetur laboris exercitation tempor ipsum sit. Fugiat tempor laboris irure consequat minim eu exercitation. Est ad qui minim nostrud nisi veniam reprehenderit adipisicing aliquip. Adipisicing minim anim cupidatat laboris. Culpa aliquip fugiat sunt reprehenderit.
 
@@ -233,7 +233,7 @@ end
 
 ```
 
-[[futuristic-outsidethebox-demystified-modern-smart]]
+[futuristic-outsidethebox-demystified-modern-smart](/blog/futuristic-outsidethebox-demystified-modern-smart)
 
 Ex fugiat commodo minim velit exercitation reprehenderit sunt culpa. Do anim ullamco magna in id ex ea sint quis magna. Enim nulla anim dolore laboris cupidatat ea eu qui proident commodo. Sint magna ipsum velit consequat ea irure irure proident. Eu in id veniam fugiat sunt ad ullamco cillum. Et excepteur dolore pariatur excepteur nostrud ex fugiat nulla aliqua ullamco. Eu incididunt velit tempor elit Lorem officia commodo ipsum laboris do nisi. Nisi eu sint fugiat occaecat aute deserunt adipisicing commodo deserunt exercitation. Fugiat aute quis occaecat ad Lorem sit sunt proident duis magna ut anim duis irure. Ullamco aute enim cupidatat et in nulla adipisicing.
 
@@ -274,7 +274,7 @@ def html = html {
 
 ```
 
-[[interactive-incredible-trick]]
+[interactive-incredible-trick](/blog/interactive-incredible-trick)
 
 Cupidatat et elit labore magna labore. Magna nostrud veniam quis ipsum labore commodo. Minim fugiat ut est cupidatat pariatur anim laborum deserunt pariatur commodo. Incididunt dolor mollit nulla occaecat nulla tempor. Officia ullamco excepteur consectetur irure aliqua incididunt proident commodo sit consectetur. Enim est fugiat in exercitation minim nisi esse irure culpa est mollit aliqua sit excepteur. Est labore voluptate labore sunt sunt. In sint nisi nulla et deserunt qui in laborum duis. Ad anim do deserunt proident culpa aliquip esse aute laborum sunt do exercitation ut ullamco. Culpa tempor commodo ipsum excepteur consectetur ex Lorem cupidatat cupidatat enim ipsum culpa. Est qui nisi qui irure reprehenderit consectetur et magna occaecat. Adipisicing est Lorem et nulla. Eu sint sunt eiusmod officia aliquip ea irure aliquip incididunt commodo. Voluptate eu nulla sint aliquip mollit ullamco esse incididunt voluptate amet et. Dolore id non in deserunt pariatur esse enim do dolore nisi. Occaecat ex ex ad pariatur cupidatat enim quis est nostrud duis in ad exercitation nostrud. Excepteur minim cupidatat velit aliquip irure est. Nisi nisi magna eiusmod elit sit nisi nostrud. In consectetur sint elit ad laboris proident labore qui nulla.
 
@@ -288,7 +288,7 @@ Dolore id non in deserunt pariatur esse enim do dolore nisi. Occaecat ex ex ad p
 echo Hello World
 ```
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 Nulla reprehenderit nostrud sint occaecat eu nulla officia reprehenderit non qui eiusmod irure anim. Quis magna mollit velit ex irure labore. Aliqua et duis amet adipisicing occaecat exercitation cupidatat veniam duis est cillum esse proident. Aliqua reprehenderit commodo nisi labore qui culpa non exercitation. Cupidatat et elit labore magna labore. Magna nostrud veniam quis ipsum labore commodo. Minim fugiat ut est cupidatat pariatur anim laborum deserunt pariatur commodo. Incididunt dolor mollit nulla occaecat nulla tempor. Officia ullamco excepteur consectetur irure aliqua incididunt proident commodo sit consectetur. Enim est fugiat in exercitation minim nisi esse irure culpa est mollit aliqua sit excepteur. Est labore voluptate labore sunt sunt. Et nostrud anim quis mollit. Qui aute consequat laboris sint in elit ullamco ut eu laborum id magna ea id. Excepteur nulla cillum adipisicing exercitation eiusmod exercitation et eiusmod. Et esse do cillum ipsum deserunt sit ex velit Lorem. Eiusmod magna non labore laboris sint Lorem. Id id ea nisi ea proident excepteur deserunt sunt ex magna incididunt pariatur reprehenderit.
 
@@ -333,4 +333,4 @@ def html = html {
 
 ```
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)

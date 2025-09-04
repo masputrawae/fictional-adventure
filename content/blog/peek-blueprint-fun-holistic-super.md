@@ -59,7 +59,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 
 ```
 
-[[mindful-foolproof-incredible]]
+[mindful-foolproof-incredible](/blog/mindful-foolproof-incredible)
 
 Eiusmod dolore laborum officia nulla ullamco elit mollit aliquip non. Do eiusmod occaecat exercitation esse reprehenderit quis minim aliquip minim labore incididunt non nisi sit. Aute nisi amet culpa do voluptate incididunt officia nostrud quis excepteur labore. Qui minim nulla irure magna in ullamco proident non culpa qui do culpa. Commodo sint fugiat aliquip ut aute sit nostrud exercitation est ex eu. Enim esse magna laboris laboris reprehenderit reprehenderit dolor ad et nisi mollit dolor qui. Enim sunt irure do magna voluptate pariatur sit occaecat aute pariatur voluptate enim ipsum. Cillum occaecat minim amet ullamco nisi cupidatat deserunt enim. Aliquip esse consectetur aliqua esse ex culpa consectetur et duis id sunt. Ut est ad et exercitation nostrud sit pariatur dolore tempor commodo anim. Excepteur sint proident ea excepteur quis adipisicing cupidatat reprehenderit quis ipsum minim sunt duis. Nisi aute aliqua dolore in et laborum.
 
@@ -107,7 +107,7 @@ print "Tax: $tax\n";
 - Genius
 - Magic
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Do esse quis anim pariatur dolore ut quis nulla nulla dolor sit officia consectetur. Sit excepteur enim occaecat ad reprehenderit cupidatat aute culpa labore eiusmod. Ex labore consectetur excepteur fugiat incididunt ex pariatur in est sint elit deserunt dolor. Nulla ipsum ut exercitation excepteur nulla pariatur. Incididunt proident ipsum ut quis labore magna ea.
 
@@ -142,7 +142,7 @@ map' f (x:xs) = f x : map' f xs
 
 ```
 
-[[beginner-professional-playbook-hidden-art]]
+[beginner-professional-playbook-hidden-art](/blog/beginner-professional-playbook-hidden-art)
 
 Exercitation ad adipisicing aliqua voluptate tempor minim exercitation culpa laborum mollit qui. Adipisicing excepteur ex quis irure. Adipisicing proident aute consectetur occaecat laboris aliqua cillum est officia.
 
@@ -198,7 +198,7 @@ catch {
 
 > Culpa velit enim quis adipisicing reprehenderit fugiat Lorem consequat. Ad cillum proident sit aute anim. Enim velit exercitation adipisicing duis ullamco quis eiusmod veniam fugiat in. Deserunt sint proident duis dolor tempor.
 
-[[unleash-solution-playbook-outsidethebox]]
+[unleash-solution-playbook-outsidethebox](/blog/unleash-solution-playbook-outsidethebox)
 
 Est id nulla labore est. Mollit elit dolor mollit duis officia commodo nisi dolore labore Lorem. Do laborum ad magna dolore dolore labore. Cupidatat aliqua tempor ipsum ea.
 
@@ -243,7 +243,7 @@ end
 
 ```
 
-[[insider-workshop-hack-advanced]]
+[insider-workshop-hack-advanced](/blog/insider-workshop-hack-advanced)
 
 Labore mollit aute ad sunt Lorem labore excepteur. Aliqua ex pariatur ut esse labore adipisicing proident ullamco exercitation proident pariatur non. Esse exercitation proident sunt incididunt irure ad esse eiusmod ea cupidatat nisi reprehenderit. Voluptate cillum magna officia ipsum exercitation aliquip irure consequat. Est laborum exercitation consequat sit ea aute minim ex incididunt velit. Quis ex mollit occaecat magna adipisicing. Ea laborum quis pariatur sit proident ea labore.
 
@@ -294,7 +294,7 @@ public:
 
 ![Placeholder](https://picsum.photos/id/280/304/500)
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Cupidatat laboris esse consectetur eiusmod aute voluptate. Cillum laboris est excepteur magna nulla deserunt officia ad eiusmod mollit ipsum proident excepteur tempor. Cillum duis id elit aliquip quis aute reprehenderit culpa veniam. Ea non dolore sunt fugiat incididunt aliqua id anim consequat cillum eu. Ullamco proident fugiat Lorem nulla ut culpa excepteur culpa tempor non consectetur. Esse in qui minim voluptate aliqua sit sunt proident sint commodo reprehenderit dolore proident pariatur. Id culpa nisi dolore ullamco voluptate dolor consequat cupidatat minim ut laboris incididunt. Proident enim ad laborum excepteur sunt reprehenderit do anim voluptate proident proident id. Ea ullamco commodo nisi culpa ut excepteur exercitation. Veniam anim adipisicing anim proident commodo sunt cillum excepteur non anim. Ipsum aute enim laborum in incididunt ex ea fugiat sunt sit sit dolore laboris esse. Cupidatat irure nostrud reprehenderit reprehenderit laboris sit proident consectetur excepteur ad consectetur et deserunt pariatur. Voluptate sit nostrud laboris fugiat deserunt est nisi. Incididunt fugiat mollit officia in anim labore exercitation voluptate ut culpa reprehenderit proident.
 
@@ -345,7 +345,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 
 > Tip: Smart
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Proident tempor enim aliquip quis culpa proident esse irure occaecat amet nostrud et. Fugiat mollit veniam qui sunt voluptate. In consequat non fugiat mollit. Sunt qui veniam excepteur laboris proident incididunt. Proident ipsum do esse aute enim. Nostrud nisi nulla fugiat ut Lorem aliquip nulla aliquip exercitation. Exercitation nisi nostrud cupidatat officia deserunt sunt est amet. Voluptate mollit minim labore aliqua aliqua adipisicing ea in cupidatat incididunt veniam. Sunt mollit nostrud labore eu do cillum voluptate ea sunt. Dolore id sunt dolore nulla elit id. Ut elit ut exercitation sunt occaecat nulla nisi ut ullamco labore. Sit aliquip aliqua consectetur esse sint officia incididunt. Ea sint non deserunt consequat commodo cillum sit exercitation. Duis non deserunt occaecat tempor sint occaecat do sunt. Excepteur sint velit sunt ut. Sint est minim reprehenderit amet est aute dolore pariatur id irure magna in.
 
@@ -398,7 +398,7 @@ class Point {
 
 ![Placeholder](https://picsum.photos/id/232/261/458)
 
-[[beginner-professional-playbook-hidden-art]]
+[beginner-professional-playbook-hidden-art](/blog/beginner-professional-playbook-hidden-art)
 
 Laborum proident anim enim nisi culpa deserunt aliqua excepteur cupidatat aute sint. Commodo adipisicing proident consequat nisi mollit est. Veniam dolor proident veniam est fugiat in irure reprehenderit eu deserunt adipisicing consectetur. Commodo cupidatat aliqua anim ipsum sint ut. Ex dolor laborum et culpa sunt non excepteur exercitation. Consequat consequat consequat ut eu esse reprehenderit Lorem reprehenderit qui officia tempor. Pariatur commodo exercitation sunt cillum aute elit incididunt consectetur Lorem est adipisicing deserunt minim. Dolore velit sint qui ut sint consectetur aliquip duis in mollit nulla cillum aute. Quis irure mollit consequat sunt eiusmod magna fugiat laborum tempor laboris veniam sit. Voluptate mollit voluptate Lorem ex velit amet labore laboris in et quis. Nisi nisi dolor sit esse aliqua enim adipisicing ea occaecat deserunt. Veniam culpa quis velit laborum eu pariatur do ex consequat pariatur. Consequat mollit eiusmod aliqua est cillum in cillum ullamco dolor eiusmod ullamco veniam labore fugiat. Adipisicing reprehenderit labore dolore minim irure magna. Exercitation id ipsum consequat aute dolor laboris aute esse enim officia irure.
 
@@ -444,7 +444,7 @@ class Animal {
 
 ```
 
-[[inside-minimalist-rapid-course-scalable]]
+[inside-minimalist-rapid-course-scalable](/blog/inside-minimalist-rapid-course-scalable)
 
 Ipsum fugiat cupidatat sint ex officia est duis. Ipsum sit dolor aute duis aliqua velit non excepteur. Est commodo laboris incididunt velit veniam amet exercitation minim sit. Aliquip ex labore excepteur aliqua magna et do magna ea ut veniam officia aliquip. Amet ad culpa consectetur Lorem. Ipsum et elit magna veniam consequat tempor aliqua officia laborum nulla occaecat. Velit ut consequat elit officia ea eiusmod magna Lorem. Sint mollit enim velit est magna minim culpa elit ut culpa. Dolor minim exercitation pariatur aute et nisi fugiat reprehenderit voluptate aliqua laborum non sit. Est tempor pariatur excepteur incididunt. Nulla consectetur dolor sit laborum mollit non consequat nisi ullamco Lorem cupidatat. Dolore anim quis qui sunt cillum minim laboris fugiat est ut mollit aliqua incididunt. Aute excepteur in culpa esse fugiat nisi duis.
 
@@ -495,7 +495,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 | Turbo | 36 |
 | Project | 92 |
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)
 
 Cupidatat et elit labore magna labore. Magna nostrud veniam quis ipsum labore commodo. Minim fugiat ut est cupidatat pariatur anim laborum deserunt pariatur commodo. Incididunt dolor mollit nulla occaecat nulla tempor. Officia ullamco excepteur consectetur irure aliqua incididunt proident commodo sit consectetur. Enim est fugiat in exercitation minim nisi esse irure culpa est mollit aliqua sit excepteur. Est labore voluptate labore sunt sunt.
 
@@ -522,7 +522,7 @@ greet('John Doe');
 | Mindful | 7 |
 | Secret | 23 |
 
-[[optimal-amazing-hack-minimalist]]
+[optimal-amazing-hack-minimalist](/blog/optimal-amazing-hack-minimalist)
 
 Quis irure mollit consequat sunt eiusmod magna fugiat laborum tempor laboris veniam sit. Voluptate mollit voluptate Lorem ex velit amet labore laboris in et quis. Nisi nisi dolor sit esse aliqua enim adipisicing ea occaecat deserunt. Veniam culpa quis velit laborum eu pariatur do ex consequat pariatur. Consequat mollit eiusmod aliqua est cillum in cillum ullamco dolor eiusmod ullamco veniam labore fugiat. Adipisicing reprehenderit labore dolore minim irure magna. Exercitation id ipsum consequat aute dolor laboris aute esse enim officia irure. Voluptate esse labore reprehenderit tempor anim eiusmod cillum non sunt adipisicing qui velit anim esse. Consectetur amet mollit ea ea enim velit sit. Esse elit aute ullamco qui laboris occaecat. Minim qui sint non amet cupidatat qui magna velit qui pariatur dolore anim. Laboris anim sit veniam anim qui mollit cillum. Veniam minim excepteur cupidatat cupidatat eu aute incididunt. Culpa ex eu eiusmod ad ea qui nostrud commodo aute deserunt consectetur. Consequat reprehenderit ipsum sit do aliqua duis ipsum eiusmod consectetur consequat. Sunt minim esse exercitation non tempor dolor ad consectetur ad. Qui proident aute fugiat eiusmod officia culpa Lorem cillum nostrud. Magna mollit cupidatat anim nulla aliqua elit magna exercitation. Nulla sunt dolor veniam fugiat. Nulla commodo sit mollit culpa labore culpa ut culpa qui nostrud id non adipisicing.
 
@@ -567,4 +567,4 @@ public:
 
 ```
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)

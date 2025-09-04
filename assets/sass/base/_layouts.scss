@@ -26,6 +26,7 @@ button {
 
   &__item {
     display: inline-block;
+    width: 100%;
     break-inside: avoid;
     margin-block-end: 2em;
     break-inside: avoid;
@@ -38,57 +39,24 @@ html,
 body {
   @include m.transition(background-color, color, font-size);
   @include m.custom-scrollbar(
-    var(--background-base),
-    var(--color-white-invert)
+    var(--background-primary),
+    var(--border-primary)
   );
   font-size: 16px;
   font-family: v.$font-sans;
 }
 
 body {
-  background-color: var(--background-base);
-  color: var(--color-base);
-}
-
-.site-sidebar {
-  @include m.custom-scrollbar(
-    var(--background-second),
-    var(--color-white-invert)
-  );
-  @include m.transition(all);
-  @include m.width-height(14em, 100dvh);
-
-  position: fixed;
-  padding: 1em;
-  inset-inline-start: -100%;
-  inset-block-start: 0;
-  overflow-x: auto;
-
-  border-inline-end: 2px solid var(--border-base);
-  background-color: var(--background-second);
-
-  visibility: hidden;
-  z-index: 200;
-
-  &__btn-close {
-    position: absolute;
-    inset-inline-end: 1em;
-    inset-block-start: 1em;
-    color: var(--color-second);
-  }
-
-  &.is-active {
-    inset-inline-start: 0%;
-    visibility: visible;
-  }
+  background-color: var(--background-primary);
+  color: var(--text-secondary);
 }
 
 .site-mobile-header {
   @include m.flex-justify(space-between, center);
   @include m.width-height(100%, 4em);
-  background-color: var(--background-second);
-  border-block-end: 1px solid var(--border-base);
-  box-shadow: var(--shadow-md);
+  background-color: var(--background-secondary);
+  border-block-end: 1px solid var(--border-primary);
+  box-shadow: var(--shadow-subtle);
 
   position: fixed;
   inset-inline-start: 0;
@@ -99,16 +67,50 @@ body {
 
   &__title {
     letter-spacing: 0.05em;
-    font-size: v.$fs-6xl;
+    font-size: v.$fs-4xl;
     font-family: v.$font-serif;
-    color: var(--color-second);
+    color: var(--text-primary);
     font-weight: 700;
   }
 }
 
+.site-sidebar {
+  @include m.custom-scrollbar(
+    var(--background-secondary),
+    var(--border-primary)
+  );
+  @include m.transition(all);
+  @include m.width-height(14em, 100dvh);
+
+  position: fixed;
+  padding: 1em;
+  inset-inline-start: -100%;
+  inset-block-start: 0;
+  overflow-x: auto;
+
+  border-inline-end: 2px solid var(--border-primary);
+  background-color: var(--background-secondary);
+
+  visibility: hidden;
+  z-index: 200;
+
+  &__btn-close {
+    position: absolute;
+    inset-inline-end: 1em;
+    inset-block-start: 1em;
+    color: var(--text-primary);
+  }
+
+  &.is-active {
+    inset-inline-start: 0%;
+    visibility: visible;
+  }
+}
+
 .site-main {
-  margin-block-start: 4em;
+  margin-block-start: 5em;
   min-height: 100dvh;
+  padding-inline: 1.5em;
 }
 
 //  BREAKPOINTS
@@ -136,15 +138,7 @@ body {
   .site-main {
     grid-area: main;
     margin-block-start: 0;
-
-    &__content--home {
-      margin-block-start: 2.5em;
-      min-height: 100dvh;
-    }
-
-    .markdown {
-      padding-inline: 2.5em;
-    }
+    padding-inline: 2.5em;
   }
 
   .site-footer {

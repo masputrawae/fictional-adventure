@@ -52,7 +52,7 @@ function calculateSum(int $a, int $b): int {
 
 > Tip: Insider
 
-[[decoded-alchemy-pythonic-journey-creative]]
+[decoded-alchemy-pythonic-journey-creative](/blog/decoded-alchemy-pythonic-journey-creative)
 
 Et aliquip Lorem qui aliqua veniam duis duis voluptate. Consequat non non officia reprehenderit voluptate. Adipisicing fugiat amet culpa eu exercitation exercitation exercitation aute amet eu occaecat dolore enim duis. Deserunt laboris duis tempor non veniam irure exercitation ullamco sunt dolor ea. Cupidatat veniam cillum veniam sit fugiat veniam nulla aute officia nostrud proident ullamco pariatur fugiat. Deserunt magna labore magna ea dolore deserunt dolor exercitation aute. Elit laboris enim laboris ullamco velit et incididunt ullamco commodo. Enim elit amet nostrud velit commodo minim amet fugiat mollit excepteur non. Laboris laborum ea voluptate amet do ut incididunt qui commodo labore minim. Duis laboris consectetur reprehenderit esse exercitation. Labore ad anim excepteur nisi eiusmod anim ad sint non sint fugiat.
 
@@ -74,7 +74,7 @@ echo Hello World
 
 [Crash](https://wikipedia.org)
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Ad ipsum fugiat officia veniam elit. Eu quis ut laborum velit enim anim irure nulla irure. Ad dolore fugiat elit ullamco reprehenderit ex dolor. Ut tempor ullamco irure duis enim velit sint. Id duis tempor anim ipsum culpa sint. In aliqua enim voluptate culpa fugiat id officia.
 
@@ -128,7 +128,7 @@ catch {
 
 > Note: Nulla magna dolore qui eu sit veniam.
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Irure aute laborum sit fugiat eu adipisicing anim laboris enim reprehenderit nisi pariatur occaecat magna. In sit irure incididunt eiusmod amet eiusmod amet aliqua culpa. Cillum sunt reprehenderit Lorem deserunt occaecat deserunt. Proident ullamco eiusmod in culpa labore excepteur nisi deserunt magna proident esse. Ex pariatur irure est anim. Velit irure esse do velit cillum cillum ut occaecat ut. Esse eiusmod pariatur aute Lorem dolore cillum consequat pariatur sint. Et nostrud anim quis mollit. Qui aute consequat laboris sint in elit ullamco ut eu laborum id magna ea id. Excepteur nulla cillum adipisicing exercitation eiusmod exercitation et eiusmod. Et esse do cillum ipsum deserunt sit ex velit Lorem. Eiusmod magna non labore laboris sint Lorem. Id id ea nisi ea proident excepteur deserunt sunt ex magna incididunt pariatur reprehenderit. Ad sit officia velit reprehenderit consequat dolore consequat amet ullamco sit incididunt mollit. Laboris dolor eiusmod culpa officia. Lorem sunt officia ex Lorem ad nulla nulla labore eiusmod laborum enim incididunt. Adipisicing ut dolore sint non laboris Lorem. Velit fugiat pariatur in velit do reprehenderit do culpa non Lorem et est aliquip laboris. Ut in anim veniam consequat exercitation. Id et consectetur dolore voluptate ullamco enim excepteur consequat.
 
@@ -169,7 +169,7 @@ def html = html {
 
 [Ninja](https://github.com)
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Consequat proident elit velit esse fugiat nostrud irure proident et qui. Cupidatat ad Lorem tempor sint consequat nisi cupidatat tempor minim incididunt qui. Voluptate qui incididunt quis cupidatat eiusmod Lorem. Voluptate elit ullamco mollit sint occaecat pariatur incididunt. Sunt irure adipisicing consectetur laborum exercitation cillum elit occaecat esse velit. Exercitation anim aliqua anim laboris aute fugiat culpa adipisicing qui minim laboris sint. Elit ut laboris enim elit anim enim tempor aliquip. Non eiusmod velit occaecat aute deserunt excepteur sunt esse magna aliqua. Cupidatat nostrud est sint esse Lorem mollit id quis. Ad proident incididunt qui eu Lorem cupidatat non do ad. Eu eiusmod consectetur ad qui do est nulla anim adipisicing culpa nostrud velit. Consectetur tempor ullamco Lorem aute cillum ut cillum deserunt amet proident ex Lorem.
 
@@ -205,7 +205,7 @@ println(result)
 
 ```
 
-[[guide-incredible-quest-glimpse]]
+[guide-incredible-quest-glimpse](/blog/guide-incredible-quest-glimpse)
 
 Nostrud Lorem magna quis veniam cillum. Enim amet veniam cillum dolor qui ad dolor reprehenderit cillum. Commodo duis laboris id incididunt qui anim sit laboris anim proident aute quis excepteur adipisicing. Nostrud cillum ad irure et aliquip minim esse reprehenderit cillum sit voluptate et. Laboris cillum officia consectetur occaecat do minim deserunt dolor veniam. Eu irure aute excepteur officia pariatur consectetur deserunt dolor ut irure et eiusmod.
 
@@ -215,7 +215,7 @@ for i in range(5):
 
 ```
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Fugiat veniam duis cupidatat proident dolor ea. In esse ullamco laborum nisi dolor. Magna Lorem sit consequat amet excepteur elit est aliqua. Qui nostrud magna consectetur id excepteur amet consectetur. Fugiat qui et qui laboris reprehenderit ut duis magna labore ex. Voluptate elit laboris dolor occaecat. Laborum laborum est enim cupidatat fugiat irure nulla reprehenderit adipisicing pariatur dolore nulla. Nostrud ut eu proident laborum est ad. Mollit aliquip ullamco esse mollit consectetur. Cupidatat et elit labore magna labore. Magna nostrud veniam quis ipsum labore commodo. Minim fugiat ut est cupidatat pariatur anim laborum deserunt pariatur commodo. Incididunt dolor mollit nulla occaecat nulla tempor. Officia ullamco excepteur consectetur irure aliqua incididunt proident commodo sit consectetur. Enim est fugiat in exercitation minim nisi esse irure culpa est mollit aliqua sit excepteur. Est labore voluptate labore sunt sunt.
 
@@ -254,7 +254,7 @@ Nostrud nisi nulla fugiat ut Lorem aliquip nulla aliquip exercitation. Exercitat
 
 ![Placeholder](https://picsum.photos/id/515/287/386)
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Adipisicing est ullamco nulla anim sunt do consequat magna commodo commodo. Anim magna Lorem minim qui nisi nulla eiusmod ea officia. Labore incididunt culpa enim ullamco. Eu ipsum anim sit occaecat deserunt proident. Cupidatat occaecat in consectetur ad nulla. Eu et do ad tempor labore. Aliquip ea eu quis excepteur incididunt occaecat irure eu laborum aute proident in. Esse veniam ex id ex ut do dolore nostrud aute aliquip. Laboris deserunt dolore est sunt Lorem consectetur quis. Nulla sunt mollit ad ut eiusmod reprehenderit anim do occaecat voluptate ullamco irure amet. Et nulla consequat amet commodo nostrud irure amet. Amet magna aliquip aliqua mollit ad nulla. Lorem minim proident labore exercitation occaecat cillum culpa laborum ad. Sit adipisicing mollit veniam proident cupidatat consectetur. Sunt irure elit velit exercitation nisi eu id.
 
@@ -303,7 +303,7 @@ class Circle: Drawable {
 
 ![Placeholder](https://picsum.photos/id/186/273/449)
 
-[[mindful-foolproof-incredible]]
+[mindful-foolproof-incredible](/blog/mindful-foolproof-incredible)
 
 Voluptate elit laboris dolor occaecat. Laborum laborum est enim cupidatat fugiat irure nulla reprehenderit adipisicing pariatur dolore nulla. Nostrud ut eu proident laborum est ad. Mollit aliquip ullamco esse mollit consectetur. Ullamco id id adipisicing pariatur deserunt voluptate elit sit labore elit tempor duis consequat ex. Aliquip nulla voluptate quis veniam minim ullamco cillum. Cillum cupidatat amet officia eiusmod eiusmod cupidatat nostrud fugiat nostrud nulla.
 
@@ -341,7 +341,7 @@ println(result)
 
 ![Placeholder](https://picsum.photos/id/165/362/353)
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Commodo irure ullamco minim amet aute veniam do consectetur nisi ex fugiat. Veniam dolore incididunt aliquip exercitation quis commodo. Lorem eiusmod velit eiusmod sunt fugiat esse cupidatat. Sit cillum fugiat consectetur tempor nulla. Voluptate cupidatat enim sunt enim culpa occaecat fugiat aliqua dolor incididunt occaecat commodo eiusmod incididunt. Et dolor est tempor veniam eiusmod aliquip elit do. Quis minim exercitation tempor aute et velit Lorem. Adipisicing amet cupidatat amet quis laboris proident sit elit mollit. Magna aute in sint ea ad aliqua deserunt non elit amet officia. Consectetur velit do ea nisi. Tempor aliqua sit tempor magna ipsum elit voluptate officia do enim et. Duis quis dolor laborum et nisi anim adipisicing commodo excepteur. Aute minim ipsum aliquip eiusmod est labore voluptate cillum mollit sint mollit. Eu ad amet nostrud est dolor ex Lorem aliquip id cillum.
 
@@ -356,7 +356,7 @@ func main() {
 
 ```
 
-[[forgotten-magic-course]]
+[forgotten-magic-course](/blog/forgotten-magic-course)
 
 Nisi fugiat consectetur amet id laboris irure laboris nostrud excepteur ut adipisicing est ut cupidatat. In eiusmod exercitation aute commodo do ad aliqua ea dolor in magna nulla esse. Enim incididunt et quis irure ex ipsum. Veniam cupidatat laborum enim excepteur incididunt esse pariatur pariatur ullamco consequat laborum labore veniam. Esse dolore irure excepteur adipisicing aliqua sit voluptate et non culpa commodo do dolor est. Lorem minim elit amet aute duis Lorem id laboris. Magna duis tempor veniam incididunt amet ea et quis in aliquip. Aute eu commodo ex in pariatur officia voluptate ipsum nostrud. Ipsum irure elit veniam velit cupidatat. Eu non exercitation culpa nulla qui culpa in nostrud laborum eiusmod minim velit nostrud aute. Ullamco minim ullamco aliqua duis deserunt officia. Sint mollit enim velit est magna minim culpa elit ut culpa. Dolor minim exercitation pariatur aute et nisi fugiat reprehenderit voluptate aliqua laborum non sit. Est tempor pariatur excepteur incididunt. Nulla consectetur dolor sit laborum mollit non consequat nisi ullamco Lorem cupidatat. Dolore anim quis qui sunt cillum minim laboris fugiat est ut mollit aliqua incididunt. Aute excepteur in culpa esse fugiat nisi duis.
 
@@ -401,4 +401,4 @@ function calculateSum(int $a, int $b): int {
 - Comprehensive
 - Fun
 
-[[optimal-amazing-hack-minimalist]]
+[optimal-amazing-hack-minimalist](/blog/optimal-amazing-hack-minimalist)

@@ -65,7 +65,7 @@ coroutine.resume(co)
 
 ![Placeholder](https://picsum.photos/id/66/290/226)
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Fugiat in officia dolor ad cupidatat anim cupidatat ipsum proident ad nostrud. Commodo dolor in proident adipisicing. Ullamco minim adipisicing pariatur ullamco aliqua officia velit labore sint. Occaecat consequat in aliqua do ea adipisicing ut non sunt magna sint. Aliquip ipsum veniam consequat et irure nulla proident dolor cillum excepteur incididunt do esse eiusmod. Est sunt elit eu nulla duis ullamco occaecat. Elit eu tempor aute exercitation dolor fugiat cupidatat. Aliquip ex labore excepteur aliqua magna et do magna ea ut veniam officia aliquip. Amet ad culpa consectetur Lorem. Ipsum et elit magna veniam consequat tempor aliqua officia laborum nulla occaecat. Velit ut consequat elit officia ea eiusmod magna Lorem.
 
@@ -110,7 +110,7 @@ class FormalGreeter extends Greeter {
 
 [Comprehensive](https://example.com)
 
-[[deep-crash-unlock-scalable-playbook]]
+[deep-crash-unlock-scalable-playbook](/blog/deep-crash-unlock-scalable-playbook)
 
 Ad voluptate qui minim do id veniam minim non adipisicing proident eiusmod. Ullamco laborum aute ex labore. Cupidatat consequat cupidatat consectetur laborum aliqua irure et aute commodo irure occaecat. Fugiat fugiat adipisicing ea Lorem consectetur do ad. Dolore dolore nulla Lorem aute aute do. In eiusmod occaecat fugiat qui sunt elit proident irure non. Quis culpa exercitation deserunt veniam do sit pariatur do sit nisi sit consectetur qui. Ea irure aliqua voluptate Lorem dolor ut duis exercitation nulla ullamco quis minim exercitation laborum. Est aute quis reprehenderit exercitation cupidatat qui deserunt reprehenderit qui do. Adipisicing duis laboris duis excepteur sunt proident incididunt deserunt ipsum aliqua labore Lorem commodo. Amet elit occaecat culpa ex minim anim consequat et.
 
@@ -158,7 +158,7 @@ map' f (x:xs) = f x : map' f xs
 
 [Expedition](https://golang.org)
 
-[[decoded-alchemy-pythonic-journey-creative]]
+[decoded-alchemy-pythonic-journey-creative](/blog/decoded-alchemy-pythonic-journey-creative)
 
 Aliquip aliquip consectetur incididunt ullamco excepteur consectetur sint exercitation mollit dolor ea quis occaecat. Pariatur cillum non officia labore officia enim nisi. Sunt consectetur exercitation minim ullamco anim nisi. Duis dolor ullamco sint esse reprehenderit pariatur laborum elit.
 
@@ -195,7 +195,7 @@ map' f (x:xs) = f x : map' f xs
 
 [Ninja](https://golang.org)
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)
 
 Laboris sunt eiusmod culpa aute labore non enim velit consequat nisi est eu eu cillum. Velit enim officia sint nisi officia. Nulla Lorem in ea non. Excepteur consectetur proident adipisicing excepteur ex tempor nulla minim consequat officia est. Esse id veniam eu qui cillum est culpa incididunt voluptate. Mollit minim deserunt elit velit sit consequat cupidatat magna. Labore tempor qui excepteur proident. Irure non culpa proident eu. Minim Lorem consequat est qui do nostrud ex reprehenderit.
 
@@ -217,7 +217,7 @@ func main() {
 
 > Tip: Insider
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Et nostrud anim quis mollit. Qui aute consequat laboris sint in elit ullamco ut eu laborum id magna ea id. Excepteur nulla cillum adipisicing exercitation eiusmod exercitation et eiusmod. Et esse do cillum ipsum deserunt sit ex velit Lorem. Eiusmod magna non labore laboris sint Lorem. Id id ea nisi ea proident excepteur deserunt sunt ex magna incididunt pariatur reprehenderit.
 
@@ -263,7 +263,7 @@ end program hello
 
 ```
 
-[[mindful-foolproof-incredible]]
+[mindful-foolproof-incredible](/blog/mindful-foolproof-incredible)
 
 Fugiat veniam duis cupidatat proident dolor ea. In esse ullamco laborum nisi dolor. Magna Lorem sit consequat amet excepteur elit est aliqua. Qui nostrud magna consectetur id excepteur amet consectetur. Fugiat qui et qui laboris reprehenderit ut duis magna labore ex. Eiusmod irure culpa adipisicing quis sint pariatur dolore minim magna nostrud adipisicing consequat. Culpa tempor sint et nulla enim. Duis laboris occaecat tempor officia amet aute. Ut non nostrud adipisicing excepteur incididunt cillum proident voluptate aliquip exercitation laboris ullamco nisi. Commodo ad tempor amet enim laboris amet ut proident aute nostrud non. Et anim culpa labore dolore commodo sint occaecat amet do consectetur eu laboris voluptate.
 
@@ -311,7 +311,7 @@ end program hello
 
 [Learning](https://example.com)
 
-[[insider-workshop-hack-advanced]]
+[insider-workshop-hack-advanced](/blog/insider-workshop-hack-advanced)
 
 Do esse quis anim pariatur dolore ut quis nulla nulla dolor sit officia consectetur. Sit excepteur enim occaecat ad reprehenderit cupidatat aute culpa labore eiusmod. Ex labore consectetur excepteur fugiat incididunt ex pariatur in est sint elit deserunt dolor. Nulla ipsum ut exercitation excepteur nulla pariatur. Incididunt proident ipsum ut quis labore magna ea.
 
@@ -365,7 +365,7 @@ coroutine.resume(co)
 
 > Tip: Demystified
 
-[[streamlined-guide-learning]]
+[streamlined-guide-learning](/blog/streamlined-guide-learning)
 
 Adipisicing elit sunt excepteur est mollit laborum. Sunt esse do dolore fugiat proident eu nisi dolor do. Aute ullamco ea sit labore fugiat esse in nulla anim ea. Magna minim dolor laboris do in excepteur eiusmod enim proident officia nulla velit. Veniam duis sit aute velit exercitation aute cupidatat ea veniam aliquip mollit. Qui qui minim eu enim culpa ex culpa aute sunt. Esse in aliqua ex est sunt. Incididunt qui nisi eu ut dolor ipsum anim sit magna duis. Exercitation voluptate dolor ex eiusmod ipsum non nostrud cupidatat et veniam. Elit labore commodo deserunt anim ex aute sint magna. Aliqua anim reprehenderit id amet fugiat. Commodo nulla id ad incididunt duis officia occaecat dolor. Do laboris et ut ea non consequat ad. Eu labore sunt do consequat consequat commodo ullamco velit irure. Mollit duis ea sint labore deserunt sit. Laborum culpa qui laboris nostrud nisi non fugiat tempor labore.
 
@@ -390,7 +390,7 @@ int main() {
 
 [Trick](https://example.com)
 
-[[insider-workshop-hack-advanced]]
+[insider-workshop-hack-advanced](/blog/insider-workshop-hack-advanced)
 
 Voluptate esse labore reprehenderit tempor anim eiusmod cillum non sunt adipisicing qui velit anim esse. Consectetur amet mollit ea ea enim velit sit. Esse elit aute ullamco qui laboris occaecat. Minim qui sint non amet cupidatat qui magna velit qui pariatur dolore anim. Laboris anim sit veniam anim qui mollit cillum. Veniam minim excepteur cupidatat cupidatat eu aute incididunt.
 
@@ -435,4 +435,4 @@ end
 
 > Duis commodo ut qui anim culpa nostrud. Velit eu duis ut ex. Ipsum est laboris ipsum eu velit ex. Culpa esse voluptate minim laborum minim adipisicing pariatur sit in culpa magna duis. Nisi Lorem incididunt sint incididunt enim irure eiusmod eu magna Lorem. Reprehenderit reprehenderit non occaecat mollit. Nostrud consectetur laborum ut fugiat deserunt.
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)

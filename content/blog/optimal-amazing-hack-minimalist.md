@@ -78,7 +78,7 @@ coroutine.resume(co)
 - Simple
 - Unconventional
 
-[[guide-incredible-quest-glimpse]]
+[guide-incredible-quest-glimpse](/blog/guide-incredible-quest-glimpse)
 
 Tempor dolor qui in in officia laboris. Esse nisi officia eiusmod voluptate consequat consequat aute aliquip minim ipsum sunt ut non officia. Aliquip adipisicing Lorem consequat in. Excepteur ad culpa minim mollit enim commodo dolor fugiat nisi dolor exercitation cupidatat aliqua.
 
@@ -101,7 +101,7 @@ greet('John Doe');
 - Magic
 - Expedition
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 Sunt enim nulla ea in fugiat dolor mollit esse ea ipsum sunt ex exercitation. Nulla sunt ea aute in veniam adipisicing nulla cupidatat. Velit qui adipisicing dolor aute et Lorem. Do sit sunt sint aute elit mollit dolor minim amet sint. Et dolor anim nulla amet ullamco minim est anim culpa eu. Eu excepteur cupidatat commodo qui id fugiat tempor pariatur cupidatat amet adipisicing. Magna fugiat veniam elit pariatur consequat tempor commodo consequat ad duis tempor non eu nostrud. Adipisicing elit sunt excepteur est mollit laborum. Sunt esse do dolore fugiat proident eu nisi dolor do. Aute ullamco ea sit labore fugiat esse in nulla anim ea. Magna minim dolor laboris do in excepteur eiusmod enim proident officia nulla velit. Veniam duis sit aute velit exercitation aute cupidatat ea veniam aliquip mollit.
 
@@ -138,7 +138,7 @@ println(result)
 - Simple
 - Expedition
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Cupidatat et elit labore magna labore. Magna nostrud veniam quis ipsum labore commodo. Minim fugiat ut est cupidatat pariatur anim laborum deserunt pariatur commodo. Incididunt dolor mollit nulla occaecat nulla tempor. Officia ullamco excepteur consectetur irure aliqua incididunt proident commodo sit consectetur. Enim est fugiat in exercitation minim nisi esse irure culpa est mollit aliqua sit excepteur. Est labore voluptate labore sunt sunt. Minim occaecat excepteur culpa ea. Velit commodo nulla enim ad velit occaecat sit. Eiusmod commodo culpa consequat veniam irure duis qui proident reprehenderit consequat in id elit.
 
@@ -185,7 +185,7 @@ class Circle: Drawable {
 
 > Tip: Ultimate
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)
 
 Ut do sint reprehenderit veniam eiusmod ex labore ad voluptate. Nulla cillum ut deserunt irure consectetur proident. Fugiat pariatur fugiat velit consequat et amet ullamco commodo eu minim irure exercitation ipsum. Dolore consectetur eiusmod incididunt amet in anim qui ea. Anim exercitation excepteur cillum labore aliqua adipisicing.
 
@@ -204,7 +204,7 @@ int main() {
 
 > Tip: Deep
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 In eiusmod tempor anim ullamco aliqua commodo consequat aute Lorem cupidatat anim Lorem. Dolore proident ut consectetur Lorem fugiat minim. Officia ea occaecat mollit est esse ut mollit eu commodo pariatur ullamco minim tempor. Aute proident magna quis ea enim sint quis consequat anim cupidatat. Ad sit sunt sint culpa labore esse aliqua proident consequat enim. Pariatur nostrud in occaecat et sit dolore eiusmod quis ut sunt proident esse quis consequat. Est nostrud eiusmod voluptate non ea consectetur occaecat veniam duis sint ex nisi sint. Reprehenderit incididunt non sunt exercitation tempor qui id. Veniam ut voluptate velit veniam minim esse anim. Laboris mollit culpa ex labore ad mollit deserunt sunt sunt nisi duis tempor sunt mollit. Excepteur amet officia laborum nostrud non elit ipsum anim. Aute aute ipsum mollit enim commodo enim eu duis aliquip ipsum adipisicing. Sint ut labore commodo duis cillum irure dolore fugiat culpa aliqua ipsum nulla duis. Ut tempor ullamco irure duis enim velit sint. Id duis tempor anim ipsum culpa sint. In aliqua enim voluptate culpa fugiat id officia.
 
@@ -243,7 +243,7 @@ map' f (x:xs) = f x : map' f xs
 
 [HandsOn](https://github.com)
 
-[[unboxed-simple-visual-actionable]]
+[unboxed-simple-visual-actionable](/blog/unboxed-simple-visual-actionable)
 
 Non eiusmod velit occaecat aute deserunt excepteur sunt esse magna aliqua. Cupidatat nostrud est sint esse Lorem mollit id quis. Ad proident incididunt qui eu Lorem cupidatat non do ad. Eu eiusmod consectetur ad qui do est nulla anim adipisicing culpa nostrud velit. Consectetur tempor ullamco Lorem aute cillum ut cillum deserunt amet proident ex Lorem. Culpa amet ipsum labore laborum. Fugiat qui aute in aliquip tempor Lorem anim id aliqua eu sunt ad dolor aliqua. Velit id laboris adipisicing ea magna irure et in.
 
@@ -295,7 +295,7 @@ class Animal {
 
 ```
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 Lorem occaecat id deserunt sint cillum veniam quis. Reprehenderit aliqua deserunt culpa incididunt elit Lorem. Nisi proident consequat dolore ad anim deserunt consequat veniam deserunt sint pariatur. Tempor laborum tempor cillum aliqua exercitation labore irure irure ea aliqua elit elit do. Proident eiusmod quis ad ut magna adipisicing qui pariatur. Officia velit excepteur magna est voluptate dolor. Mollit aute nisi proident est consectetur elit sit culpa dolor Lorem. Elit ad fugiat aliqua aute Lorem irure ad. Irure non tempor exercitation occaecat commodo exercitation aliquip irure laborum enim sunt. Ut id eiusmod cupidatat ipsum sint proident cillum labore. Laborum laboris enim consequat officia et. Lorem aliquip esse eiusmod officia eiusmod ut ex ullamco irure sint nulla. Lorem exercitation eiusmod amet dolor. Officia voluptate proident sint culpa eiusmod eu do aute dolor qui. Ad aute magna veniam sint cupidatat est sit minim officia. Deserunt ex nisi dolor dolor mollit. Ex irure adipisicing cillum id labore.
 
@@ -311,4 +311,4 @@ for i in range(5):
 
 ![Placeholder](https://picsum.photos/id/142/292/331)
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)

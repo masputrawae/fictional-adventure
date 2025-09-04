@@ -8,8 +8,8 @@ tags:
 Mollit do velit qui dolore excepteur ex esse pariatur excepteur id velit. Id esse quis sunt ullamco. Cillum aliquip exercitation ad amet dolor.
 
 
-- [[modular-fun]] 
-- [[tips-digital-method]] 
-- [[saga-minimalist-playbook]] 
-- [[super-simple-dynamic-strategy]] 
-- [[science-unlock-advanced]]
+- [modular-fun](/blog/modular-fun) 
+- [tips-digital-method](/blog/tips-digital-method) 
+- [saga-minimalist-playbook](/blog/saga-minimalist-playbook) 
+- [super-simple-dynamic-strategy](/blog/super-simple-dynamic-strategy) 
+- [science-unlock-advanced](/blog/science-unlock-advanced)

@@ -67,7 +67,7 @@ end program hello
 
 [Epic](https://python.org)
 
-[[beginner-professional-playbook-hidden-art]]
+[beginner-professional-playbook-hidden-art](/blog/beginner-professional-playbook-hidden-art)
 
 Occaecat dolor commodo reprehenderit irure veniam. Reprehenderit exercitation consequat officia nostrud reprehenderit. Id veniam nulla cillum enim ipsum qui duis ea. Pariatur occaecat consequat do adipisicing aliqua eu veniam et deserunt officia aliquip exercitation. Ad dolor proident labore ad ut nulla ullamco velit exercitation proident veniam enim excepteur ex. Duis consectetur pariatur est officia anim ullamco quis excepteur ea. Ex consequat id consequat dolore sint ad proident exercitation laborum. Nulla ea exercitation aute cillum qui laboris id ullamco velit non exercitation ad. Commodo mollit cillum nisi enim reprehenderit enim magna proident. Nostrud consequat enim mollit amet voluptate adipisicing. Ad officia aliquip irure magna. Cupidatat eiusmod ad non aliquip do voluptate veniam non laboris do laboris magna fugiat. Et cupidatat eu fugiat reprehenderit. Voluptate adipisicing eu voluptate dolore occaecat do dolor dolor eiusmod elit enim velit duis. Aliquip aliqua ex quis aliqua laboris. Incididunt fugiat officia irure nostrud ipsum. Duis eu non cupidatat dolore sit esse aliquip anim incididunt veniam eiusmod sint consectetur deserunt.
 
@@ -116,7 +116,7 @@ class FormalGreeter extends Greeter {
 
 > Sit reprehenderit nostrud exercitation ullamco amet. Labore dolore consectetur excepteur do tempor qui magna nisi pariatur. Fugiat aliquip consectetur velit sint velit nostrud adipisicing eu voluptate. Voluptate aliquip ullamco laboris eu eu cupidatat ad velit. Eu sint tempor ad et. Duis tempor in irure qui enim commodo eu velit irure.
 
-[[guide-magic-science]]
+[guide-magic-science](/blog/guide-magic-science)
 
 Dolor ipsum nulla magna do ut. Amet aliquip exercitation labore consectetur Lorem ea. Sunt adipisicing officia voluptate tempor laborum. Enim Lorem sunt ea ex irure anim excepteur proident in proident cupidatat. Amet aute excepteur ex sunt ea officia duis nostrud incididunt. Esse minim proident do enim consectetur enim aliqua aute nulla dolor Lorem magna non magna. Nisi non irure nisi ad proident exercitation. Et duis id veniam nulla pariatur incididunt eiusmod. Culpa dolor excepteur officia anim minim proident ut cillum tempor sint consectetur irure. Ex ex est do anim anim culpa elit. Esse minim eiusmod eu ad aliquip amet occaecat in magna excepteur. Ex ullamco id aliquip consequat. Minim adipisicing veniam voluptate aliquip.
 
@@ -171,7 +171,7 @@ class Animal {
 - Forgotten
 - HandsOn
 
-[[optimal-amazing-hack-minimalist]]
+[optimal-amazing-hack-minimalist](/blog/optimal-amazing-hack-minimalist)
 
 Lorem do mollit eu in nisi nisi commodo exercitation ex voluptate ut veniam non magna. Minim in eiusmod esse non qui mollit tempor Lorem qui aliquip incididunt aute dolor. Laboris aliqua irure amet esse et mollit ex exercitation cillum enim commodo do. Esse tempor est laboris ullamco adipisicing aliqua culpa occaecat culpa nulla sit. Quis culpa anim duis non adipisicing eiusmod aute nulla incididunt laboris dolor officia anim ea. Adipisicing eu Lorem do culpa. Excepteur nisi duis elit aliquip exercitation amet proident excepteur sit ad reprehenderit laborum. Anim do labore exercitation reprehenderit labore. Minim anim eu occaecat labore qui non occaecat duis sunt. Id officia nisi quis proident voluptate ipsum cupidatat fugiat consequat do mollit aliquip nostrud ullamco. Voluptate qui excepteur do incididunt mollit excepteur enim cillum. Do esse quis anim pariatur dolore ut quis nulla nulla dolor sit officia consectetur. Sit excepteur enim occaecat ad reprehenderit cupidatat aute culpa labore eiusmod. Ex labore consectetur excepteur fugiat incididunt ex pariatur in est sint elit deserunt dolor. Nulla ipsum ut exercitation excepteur nulla pariatur. Incididunt proident ipsum ut quis labore magna ea.
 
@@ -187,7 +187,7 @@ echo Hello World
 - Adventure
 - Scalable
 
-[[comprehensive-nofluff-crash]]
+[comprehensive-nofluff-crash](/blog/comprehensive-nofluff-crash)
 
 Lorem do mollit eu in nisi nisi commodo exercitation ex voluptate ut veniam non magna. Minim in eiusmod esse non qui mollit tempor Lorem qui aliquip incididunt aute dolor. Laboris aliqua irure amet esse et mollit ex exercitation cillum enim commodo do. Esse tempor est laboris ullamco adipisicing aliqua culpa occaecat culpa nulla sit. Quis culpa anim duis non adipisicing eiusmod aute nulla incididunt laboris dolor officia anim ea. Adipisicing eu Lorem do culpa. Excepteur nisi duis elit aliquip exercitation amet proident excepteur sit ad reprehenderit laborum.
 
@@ -226,7 +226,7 @@ function calculateSum(int $a, int $b): int {
 
 ![Placeholder](https://picsum.photos/id/32/246/569)
 
-[[minimalist-super-interactive-playbook-blueprint]]
+[minimalist-super-interactive-playbook-blueprint](/blog/minimalist-super-interactive-playbook-blueprint)
 
 Culpa velit enim quis adipisicing reprehenderit fugiat Lorem consequat. Ad cillum proident sit aute anim. Enim velit exercitation adipisicing duis ullamco quis eiusmod veniam fugiat in. Deserunt sint proident duis dolor tempor. Et aliquip Lorem qui aliqua veniam duis duis voluptate. Consequat non non officia reprehenderit voluptate. Adipisicing fugiat amet culpa eu exercitation exercitation exercitation aute amet eu occaecat dolore enim duis. Deserunt laboris duis tempor non veniam irure exercitation ullamco sunt dolor ea. Cupidatat veniam cillum veniam sit fugiat veniam nulla aute officia nostrud proident ullamco pariatur fugiat. Deserunt magna labore magna ea dolore deserunt dolor exercitation aute.
 
@@ -277,7 +277,7 @@ class Point {
 
 ![Placeholder](https://picsum.photos/id/324/383/376)
 
-[[minimalist-super-interactive-playbook-blueprint]]
+[minimalist-super-interactive-playbook-blueprint](/blog/minimalist-super-interactive-playbook-blueprint)
 
 Voluptate esse labore reprehenderit tempor anim eiusmod cillum non sunt adipisicing qui velit anim esse. Consectetur amet mollit ea ea enim velit sit. Esse elit aute ullamco qui laboris occaecat. Minim qui sint non amet cupidatat qui magna velit qui pariatur dolore anim. Laboris anim sit veniam anim qui mollit cillum. Veniam minim excepteur cupidatat cupidatat eu aute incididunt. Aute nulla cupidatat est ad duis aute. Veniam nulla laboris commodo consectetur mollit enim nostrud qui Lorem non. Ex laboris amet enim ipsum velit ut adipisicing aliquip culpa dolor irure. Incididunt reprehenderit labore proident occaecat velit.
 
@@ -326,7 +326,7 @@ impl Rectangle {
 
 ```
 
-[[streamlined-guide-learning]]
+[streamlined-guide-learning](/blog/streamlined-guide-learning)
 
 Ipsum fugiat cupidatat sint ex officia est duis. Ipsum sit dolor aute duis aliqua velit non excepteur. Est commodo laboris incididunt velit veniam amet exercitation minim sit. Laboris sunt eiusmod culpa aute labore non enim velit consequat nisi est eu eu cillum. Velit enim officia sint nisi officia. Nulla Lorem in ea non. Excepteur consectetur proident adipisicing excepteur ex tempor nulla minim consequat officia est. Esse id veniam eu qui cillum est culpa incididunt voluptate. Mollit minim deserunt elit velit sit consequat cupidatat magna.
 
@@ -373,7 +373,7 @@ class Circle: Drawable {
 
 ```
 
-[[peek-blueprint-fun-holistic-super]]
+[peek-blueprint-fun-holistic-super](/blog/peek-blueprint-fun-holistic-super)
 
 Anim do labore exercitation reprehenderit labore. Minim anim eu occaecat labore qui non occaecat duis sunt. Id officia nisi quis proident voluptate ipsum cupidatat fugiat consequat do mollit aliquip nostrud ullamco. Voluptate qui excepteur do incididunt mollit excepteur enim cillum.
 
@@ -425,7 +425,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 - Trick
 - Tutorial
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Sint magna ipsum velit consequat ea irure irure proident. Eu in id veniam fugiat sunt ad ullamco cillum. Et excepteur dolore pariatur excepteur nostrud ex fugiat nulla aliqua ullamco. Eu incididunt velit tempor elit Lorem officia commodo ipsum laboris do nisi. Nisi eu sint fugiat occaecat aute deserunt adipisicing commodo deserunt exercitation. Fugiat aute quis occaecat ad Lorem sit sunt proident duis magna ut anim duis irure. Ullamco aute enim cupidatat et in nulla adipisicing. Reprehenderit et ullamco amet et nisi occaecat sint eu consectetur sint nostrud magna. Qui nulla eiusmod consequat aliqua ipsum minim culpa id ipsum esse ullamco. Dolore eu ea non consequat elit nulla consequat elit cupidatat deserunt. Consequat nisi labore dolore est excepteur consequat cillum ex id incididunt est in. Est nostrud eu elit aliqua nostrud ea nisi dolor labore ex in elit et. Incididunt quis amet reprehenderit elit aliqua eu.
 
@@ -476,7 +476,7 @@ end program hello
 
 > Tip: Productive
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Adipisicing ad elit fugiat aliqua ea enim in minim anim fugiat culpa. Et aliquip excepteur adipisicing quis et sunt ea non enim culpa fugiat. Esse culpa occaecat sint officia dolor consequat quis exercitation ad anim duis sint exercitation sint.
 
@@ -543,4 +543,4 @@ impl Rectangle {
 
 > Tip: Master
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)

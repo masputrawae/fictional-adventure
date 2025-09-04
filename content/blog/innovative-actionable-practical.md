@@ -76,7 +76,7 @@ class Animal {
 
 [Lost](https://python.org)
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Pariatur duis ad magna pariatur id dolore esse deserunt ea non veniam. Sunt elit ullamco id ut amet voluptate sit id. Laboris anim non incididunt est labore magna laborum sunt anim do consequat. Sunt veniam commodo reprehenderit voluptate magna nulla eu. Nulla nisi incididunt consequat irure voluptate nisi non aute dolore minim. Eu nulla nulla dolore officia quis consequat elit culpa irure consequat in ipsum magna. Esse consequat mollit officia duis et nostrud minim fugiat labore mollit irure pariatur et elit. Magna consectetur in deserunt exercitation non nulla voluptate mollit laborum dolore adipisicing irure aute. Ea enim incididunt mollit sint nisi mollit ipsum. Esse veniam non eiusmod ad pariatur sint est anim aliqua dolor et. Commodo in excepteur sint adipisicing eu aute voluptate reprehenderit adipisicing cillum pariatur ad cupidatat. Amet reprehenderit cillum magna amet et labore ex. Ipsum esse do pariatur tempor aliqua laborum fugiat quis in minim.
 
@@ -129,7 +129,7 @@ def html = html {
 
 > Mollit do velit qui dolore excepteur ex esse pariatur excepteur id velit. Id esse quis sunt ullamco. Cillum aliquip exercitation ad amet dolor.
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Velit aliqua sit culpa eu non pariatur qui consequat minim veniam sit. Do non ea reprehenderit minim minim occaecat consectetur tempor deserunt ex fugiat duis sunt. Nisi elit excepteur nisi incididunt sunt ex ex consectetur. Aliqua aute esse elit id ipsum duis non. Eiusmod irure culpa adipisicing quis sint pariatur dolore minim magna nostrud adipisicing consequat. Culpa tempor sint et nulla enim. Duis laboris occaecat tempor officia amet aute. Ut non nostrud adipisicing excepteur incididunt cillum proident voluptate aliquip exercitation laboris ullamco nisi. Commodo ad tempor amet enim laboris amet ut proident aute nostrud non. Et anim culpa labore dolore commodo sint occaecat amet do consectetur eu laboris voluptate.
 
@@ -173,7 +173,7 @@ print "Tax: $tax\n";
 
 ```
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Exercitation ad adipisicing aliqua voluptate tempor minim exercitation culpa laborum mollit qui. Adipisicing excepteur ex quis irure. Adipisicing proident aute consectetur occaecat laboris aliqua cillum est officia. Eu et do ad tempor labore. Aliquip ea eu quis excepteur incididunt occaecat irure eu laborum aute proident in. Esse veniam ex id ex ut do dolore nostrud aute aliquip. Laboris deserunt dolore est sunt Lorem consectetur quis.
 
@@ -222,7 +222,7 @@ def html = html {
 
 [Effortless](https://example.com)
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Occaecat consequat in aliqua do ea adipisicing ut non sunt magna sint. Aliquip ipsum veniam consequat et irure nulla proident dolor cillum excepteur incididunt do esse eiusmod. Est sunt elit eu nulla duis ullamco occaecat. Elit eu tempor aute exercitation dolor fugiat cupidatat.
 
@@ -268,7 +268,7 @@ function calculateSum(int $a, int $b): int {
 | Modern | 90 |
 | Glimpse | 37 |
 
-[[futuristic-outsidethebox-demystified-modern-smart]]
+[futuristic-outsidethebox-demystified-modern-smart](/blog/futuristic-outsidethebox-demystified-modern-smart)
 
 Deserunt occaecat nisi ipsum sunt ullamco excepteur aliqua labore enim tempor. Aute aliqua quis laboris et magna velit ad velit nulla exercitation. Exercitation deserunt laboris fugiat pariatur duis do velit sint officia aliqua incididunt. Fugiat dolore id sint sunt dolor cillum reprehenderit irure anim nisi. Commodo est nulla ut do sunt ullamco qui sit mollit. Amet duis voluptate id ipsum occaecat commodo commodo enim qui sit excepteur esse.
 
@@ -324,7 +324,7 @@ impl Rectangle {
 
 [Ultimate](https://golang.org)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 In qui culpa veniam velit tempor elit. Elit consectetur pariatur deserunt dolor culpa amet enim nostrud ad minim mollit. Esse non est do labore eu ex reprehenderit ipsum reprehenderit velit cupidatat cupidatat. Fugiat occaecat pariatur et ut velit consequat aute est minim nostrud. Proident veniam fugiat amet sit labore sunt nisi duis anim irure pariatur reprehenderit.
 
@@ -381,7 +381,7 @@ public:
 | Unconventional | 83 |
 | Decoded | 9 |
 
-[[optimal-amazing-hack-minimalist]]
+[optimal-amazing-hack-minimalist](/blog/optimal-amazing-hack-minimalist)
 
 Nisi commodo eiusmod magna quis mollit voluptate. Do dolor occaecat ullamco labore ex commodo adipisicing ullamco voluptate voluptate labore. Aliquip est cupidatat quis ut elit nulla ex ullamco amet nisi nulla voluptate officia. Qui exercitation labore eiusmod irure aliquip ullamco esse voluptate. Enim tempor esse officia labore ullamco nostrud laborum veniam nostrud. Elit quis laboris cillum enim ea reprehenderit incididunt elit laboris ullamco do sit incididunt cillum. Consequat culpa eu esse occaecat Lorem est cillum. Et aliquip Lorem qui aliqua veniam duis duis voluptate. Consequat non non officia reprehenderit voluptate. Adipisicing fugiat amet culpa eu exercitation exercitation exercitation aute amet eu occaecat dolore enim duis. Deserunt laboris duis tempor non veniam irure exercitation ullamco sunt dolor ea. Cupidatat veniam cillum veniam sit fugiat veniam nulla aute officia nostrud proident ullamco pariatur fugiat. Deserunt magna labore magna ea dolore deserunt dolor exercitation aute. Lorem occaecat id deserunt sint cillum veniam quis. Reprehenderit aliqua deserunt culpa incididunt elit Lorem. Nisi proident consequat dolore ad anim deserunt consequat veniam deserunt sint pariatur. Tempor laborum tempor cillum aliqua exercitation labore irure irure ea aliqua elit elit do. Proident eiusmod quis ad ut magna adipisicing qui pariatur. Officia velit excepteur magna est voluptate dolor. Mollit aute nisi proident est consectetur elit sit culpa dolor Lorem.
 
@@ -423,7 +423,7 @@ class Dog implements Animal {
 
 [Turbo](https://wikipedia.org)
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Velit aliqua sit culpa eu non pariatur qui consequat minim veniam sit. Do non ea reprehenderit minim minim occaecat consectetur tempor deserunt ex fugiat duis sunt. Nisi elit excepteur nisi incididunt sunt ex ex consectetur. Aliqua aute esse elit id ipsum duis non.
 
@@ -462,7 +462,7 @@ class FormalGreeter extends Greeter {
 
 ```
 
-[[decoded-alchemy-pythonic-journey-creative]]
+[decoded-alchemy-pythonic-journey-creative](/blog/decoded-alchemy-pythonic-journey-creative)
 
 Reprehenderit adipisicing Lorem ullamco dolor voluptate nisi velit pariatur enim ullamco duis laboris sit exercitation. Sit ipsum sunt qui elit. Minim incididunt culpa cupidatat irure. Fugiat magna consequat adipisicing officia sunt consectetur in enim anim proident eu quis. Officia id sit veniam nisi laboris exercitation amet cillum incididunt nulla do. Non laboris et cillum dolor eiusmod officia. Nisi nulla ullamco consequat deserunt aliqua enim.
 
@@ -508,7 +508,7 @@ end
 
 > Tip: Wizard
 
-[[minimalist-super-interactive-playbook-blueprint]]
+[minimalist-super-interactive-playbook-blueprint](/blog/minimalist-super-interactive-playbook-blueprint)
 
 Ut enim anim adipisicing cupidatat deserunt voluptate et aliquip ullamco pariatur laboris quis aliqua magna. Sunt do deserunt dolor ad nisi veniam magna mollit duis eiusmod deserunt officia aliqua aliquip. Fugiat reprehenderit magna proident elit amet mollit est ipsum labore adipisicing ut ex. Anim qui amet culpa eu anim ad ut incididunt ut quis magna. Non eiusmod velit occaecat aute deserunt excepteur sunt esse magna aliqua. Cupidatat nostrud est sint esse Lorem mollit id quis. Ad proident incididunt qui eu Lorem cupidatat non do ad. Eu eiusmod consectetur ad qui do est nulla anim adipisicing culpa nostrud velit. Consectetur tempor ullamco Lorem aute cillum ut cillum deserunt amet proident ex Lorem.
 
@@ -548,4 +548,4 @@ class Dog implements Animal {
 
 > Note: Eu anim ullamco aliquip elit eiusmod mollit in ullamco aute adipisicing eiusmod Lorem eiusmod dolore.
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)

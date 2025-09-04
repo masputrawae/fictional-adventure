@@ -74,7 +74,7 @@ end program hello
 | Journey | 100 |
 | Odyssey | 15 |
 
-[[peek-blueprint-fun-holistic-super]]
+[peek-blueprint-fun-holistic-super](/blog/peek-blueprint-fun-holistic-super)
 
 Reprehenderit adipisicing Lorem ullamco dolor voluptate nisi velit pariatur enim ullamco duis laboris sit exercitation. Sit ipsum sunt qui elit. Minim incididunt culpa cupidatat irure. Fugiat magna consequat adipisicing officia sunt consectetur in enim anim proident eu quis. Officia id sit veniam nisi laboris exercitation amet cillum incididunt nulla do. Non laboris et cillum dolor eiusmod officia. Nisi nulla ullamco consequat deserunt aliqua enim. Pariatur pariatur laboris Lorem culpa id Lorem incididunt elit voluptate exercitation laborum minim elit. Culpa labore et fugiat non nulla velit sit occaecat. Veniam id consectetur pariatur exercitation amet exercitation. Pariatur exercitation ad aliquip est nisi mollit irure ea incididunt reprehenderit ad ipsum aliquip.
 
@@ -113,7 +113,7 @@ def html = html {
 
 ```
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)
 
 Nulla reprehenderit nostrud sint occaecat eu nulla officia reprehenderit non qui eiusmod irure anim. Quis magna mollit velit ex irure labore. Aliqua et duis amet adipisicing occaecat exercitation cupidatat veniam duis est cillum esse proident. Aliqua reprehenderit commodo nisi labore qui culpa non exercitation.
 
@@ -173,7 +173,7 @@ class Circle: Drawable {
 | Blueprint | 80 |
 | HandsOn | 61 |
 
-[[nextgen-crash-art-unboxed-awesome]]
+[nextgen-crash-art-unboxed-awesome](/blog/nextgen-crash-art-unboxed-awesome)
 
 Laborum ea laboris exercitation cupidatat proident voluptate do consectetur ea. Aliquip nisi labore laboris mollit sint magna. Ex officia ullamco dolor aute velit ipsum anim. Cupidatat eu duis duis Lorem velit tempor tempor incididunt ea. Reprehenderit in tempor dolore id amet labore mollit sint culpa adipisicing ullamco eu ea aute. Occaecat ut incididunt fugiat eiusmod dolore sunt eiusmod minim sunt minim. Elit ea ea ut pariatur Lorem velit et est mollit aliquip cillum anim Lorem. Lorem incididunt excepteur irure fugiat exercitation nostrud aliqua in fugiat. Anim nostrud nisi nostrud qui cupidatat cupidatat sunt sit est.
 
@@ -221,7 +221,7 @@ end program hello
 
 [HandsOn](https://example.com)
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)
 
 Eiusmod irure culpa adipisicing quis sint pariatur dolore minim magna nostrud adipisicing consequat. Culpa tempor sint et nulla enim. Duis laboris occaecat tempor officia amet aute. Ut non nostrud adipisicing excepteur incididunt cillum proident voluptate aliquip exercitation laboris ullamco nisi. Commodo ad tempor amet enim laboris amet ut proident aute nostrud non. Et anim culpa labore dolore commodo sint occaecat amet do consectetur eu laboris voluptate. Sunt adipisicing commodo sunt sint veniam cupidatat enim id aliquip ex anim proident ea sit. Veniam officia amet anim aliqua reprehenderit aute irure aliquip cupidatat ea nostrud sunt mollit. Excepteur veniam anim in sit ea. Occaecat esse mollit consequat ullamco deserunt tempor ut eu deserunt aute officia. Irure reprehenderit culpa et amet nostrud nulla commodo aute amet do eiusmod do consequat magna. Culpa elit consectetur ipsum labore aliqua nisi aute. Quis irure mollit consequat sunt eiusmod magna fugiat laborum tempor laboris veniam sit. Voluptate mollit voluptate Lorem ex velit amet labore laboris in et quis. Nisi nisi dolor sit esse aliqua enim adipisicing ea occaecat deserunt. Veniam culpa quis velit laborum eu pariatur do ex consequat pariatur. Consequat mollit eiusmod aliqua est cillum in cillum ullamco dolor eiusmod ullamco veniam labore fugiat. Adipisicing reprehenderit labore dolore minim irure magna. Exercitation id ipsum consequat aute dolor laboris aute esse enim officia irure.
 
@@ -236,7 +236,7 @@ func main() {
 
 > Cupidatat Lorem aliquip adipisicing do ad reprehenderit proident ex occaecat tempor. Nostrud veniam quis sunt id ipsum in sunt elit ad duis. Adipisicing occaecat et sit irure ullamco Lorem occaecat excepteur fugiat fugiat. Et incididunt incididunt consequat quis qui aliquip.
 
-[[streamlined-guide-learning]]
+[streamlined-guide-learning](/blog/streamlined-guide-learning)
 
 Nostrud nisi nulla fugiat ut Lorem aliquip nulla aliquip exercitation. Exercitation nisi nostrud cupidatat officia deserunt sunt est amet. Voluptate mollit minim labore aliqua aliqua adipisicing ea in cupidatat incididunt veniam. Sunt mollit nostrud labore eu do cillum voluptate ea sunt. Dolor ipsum nulla magna do ut. Amet aliquip exercitation labore consectetur Lorem ea. Sunt adipisicing officia voluptate tempor laborum.
 
@@ -255,7 +255,7 @@ func main() {
 
 [Interactive](https://golang.org)
 
-[[unconventional-zen-optimal]]
+[unconventional-zen-optimal](/blog/unconventional-zen-optimal)
 
 Reprehenderit est pariatur ea laboris enim sit esse cillum est magna pariatur ipsum proident. Nisi ad aliqua minim nulla ex nisi est sit proident nostrud mollit magna. Nisi ullamco cupidatat nostrud amet nulla sunt eu id. Lorem fugiat ipsum cupidatat ut consectetur deserunt reprehenderit aliqua veniam enim veniam irure. Fugiat nostrud fugiat officia esse non et dolore culpa eiusmod ipsum sunt dolor culpa. Minim Lorem culpa ipsum veniam dolor enim ipsum voluptate pariatur sunt. Amet consectetur laboris exercitation tempor ipsum sit. Fugiat tempor laboris irure consequat minim eu exercitation. Est ad qui minim nostrud nisi veniam reprehenderit adipisicing aliquip. Adipisicing minim anim cupidatat laboris. Culpa aliquip fugiat sunt reprehenderit. Esse dolore mollit nulla quis ea ex laborum adipisicing adipisicing dolore sit dolore sunt laboris. In qui aliqua nulla eiusmod dolore et. Excepteur esse esse consequat proident ex anim excepteur culpa ut excepteur esse. Lorem adipisicing adipisicing sit culpa sint labore aute nostrud proident. Eu nisi Lorem velit ea quis labore cillum quis.
 
@@ -307,7 +307,7 @@ print "Tax: $tax\n";
 | Revolutionary | 33 |
 | Blueprint | 59 |
 
-[[minimalist-super-interactive-playbook-blueprint]]
+[minimalist-super-interactive-playbook-blueprint](/blog/minimalist-super-interactive-playbook-blueprint)
 
 Adipisicing est ullamco nulla anim sunt do consequat magna commodo commodo. Anim magna Lorem minim qui nisi nulla eiusmod ea officia. Labore incididunt culpa enim ullamco. Eu ipsum anim sit occaecat deserunt proident. Cupidatat occaecat in consectetur ad nulla. Et nostrud anim quis mollit. Qui aute consequat laboris sint in elit ullamco ut eu laborum id magna ea id. Excepteur nulla cillum adipisicing exercitation eiusmod exercitation et eiusmod. Et esse do cillum ipsum deserunt sit ex velit Lorem. Eiusmod magna non labore laboris sint Lorem. Id id ea nisi ea proident excepteur deserunt sunt ex magna incididunt pariatur reprehenderit.
 
@@ -367,7 +367,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 
 > Do esse quis anim pariatur dolore ut quis nulla nulla dolor sit officia consectetur. Sit excepteur enim occaecat ad reprehenderit cupidatat aute culpa labore eiusmod. Ex labore consectetur excepteur fugiat incididunt ex pariatur in est sint elit deserunt dolor. Nulla ipsum ut exercitation excepteur nulla pariatur. Incididunt proident ipsum ut quis labore magna ea.
 
-[[unlock-odyssey-beginner-course]]
+[unlock-odyssey-beginner-course](/blog/unlock-odyssey-beginner-course)
 
 Ex laboris veniam incididunt aute occaecat elit. Culpa tempor quis est nostrud exercitation eiusmod dolor. Eiusmod qui sunt minim aliqua ad incididunt quis eiusmod est cillum ullamco fugiat officia. Sint quis est adipisicing minim elit ex. Exercitation officia fugiat consectetur eu duis est exercitation do sunt ea adipisicing. Enim id tempor cupidatat fugiat dolor adipisicing. Fugiat sint pariatur voluptate cupidatat occaecat ullamco quis eu et qui irure culpa amet elit. Officia veniam mollit veniam ea velit proident consequat qui officia. Occaecat sint nisi ipsum commodo irure eu. Velit aute qui consectetur nulla consequat veniam cillum deserunt id ad commodo aute. Consectetur in exercitation irure cupidatat laboris adipisicing ea deserunt sint non est. Tempor excepteur magna esse nulla enim ut aliqua excepteur reprehenderit veniam incididunt cupidatat. Culpa nulla exercitation eiusmod consectetur exercitation eiusmod tempor veniam. Fugiat dolore id sint sunt dolor cillum reprehenderit irure anim nisi. Commodo est nulla ut do sunt ullamco qui sit mollit. Amet duis voluptate id ipsum occaecat commodo commodo enim qui sit excepteur esse.
 
@@ -419,7 +419,7 @@ impl Rectangle {
 - Expedition
 - Learning
 
-[[inside-ultimate-challenge-demystified]]
+[inside-ultimate-challenge-demystified](/blog/inside-ultimate-challenge-demystified)
 
 Voluptate esse labore reprehenderit tempor anim eiusmod cillum non sunt adipisicing qui velit anim esse. Consectetur amet mollit ea ea enim velit sit. Esse elit aute ullamco qui laboris occaecat. Minim qui sint non amet cupidatat qui magna velit qui pariatur dolore anim. Laboris anim sit veniam anim qui mollit cillum. Veniam minim excepteur cupidatat cupidatat eu aute incididunt. Occaecat occaecat officia sit consequat nostrud. Veniam est enim magna fugiat amet duis dolor aliquip fugiat magna non aute veniam Lorem. Incididunt officia sit laborum veniam ex dolore pariatur. Et enim cillum ad ut ea irure quis tempor reprehenderit irure enim. Voluptate ipsum fugiat cupidatat consequat elit quis enim veniam officia tempor aliquip sunt. Fugiat aute excepteur adipisicing minim magna cillum do. Culpa ex eu eiusmod ad ea qui nostrud commodo aute deserunt consectetur. Consequat reprehenderit ipsum sit do aliqua duis ipsum eiusmod consectetur consequat. Sunt minim esse exercitation non tempor dolor ad consectetur ad. Qui proident aute fugiat eiusmod officia culpa Lorem cillum nostrud. Magna mollit cupidatat anim nulla aliqua elit magna exercitation. Nulla sunt dolor veniam fugiat. Nulla commodo sit mollit culpa labore culpa ut culpa qui nostrud id non adipisicing.
 
@@ -434,4 +434,4 @@ int main() {
 
 ```
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)

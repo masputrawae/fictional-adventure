@@ -65,7 +65,7 @@ public:
 
 ![Placeholder](https://picsum.photos/id/177/298/201)
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Fugiat dolore id sint sunt dolor cillum reprehenderit irure anim nisi. Commodo est nulla ut do sunt ullamco qui sit mollit. Amet duis voluptate id ipsum occaecat commodo commodo enim qui sit excepteur esse. Consequat ipsum ut eiusmod sunt ipsum quis quis irure officia dolore consectetur dolore fugiat ad. Aliquip id tempor tempor et qui culpa sint ea. Enim aute deserunt ut laboris sint consequat qui sit eu. Anim consectetur enim id deserunt. Duis ut adipisicing eiusmod cupidatat ex ut eiusmod excepteur in esse id enim.
 
@@ -107,7 +107,7 @@ sum_list([H|T], Sum) :-
 - Creative
 - Expert
 
-[[inside-minimalist-rapid-course-scalable]]
+[inside-minimalist-rapid-course-scalable](/blog/inside-minimalist-rapid-course-scalable)
 
 Nisi fugiat consectetur amet id laboris irure laboris nostrud excepteur ut adipisicing est ut cupidatat. In eiusmod exercitation aute commodo do ad aliqua ea dolor in magna nulla esse. Enim incididunt et quis irure ex ipsum. Veniam cupidatat laborum enim excepteur incididunt esse pariatur pariatur ullamco consequat laborum labore veniam. Esse dolore irure excepteur adipisicing aliqua sit voluptate et non culpa commodo do dolor est. Lorem minim elit amet aute duis Lorem id laboris. Aute nulla cupidatat est ad duis aute. Veniam nulla laboris commodo consectetur mollit enim nostrud qui Lorem non. Ex laboris amet enim ipsum velit ut adipisicing aliquip culpa dolor irure. Incididunt reprehenderit labore proident occaecat velit.
 
@@ -123,7 +123,7 @@ print('Hello World')
 
 [Demystified](https://golang.org)
 
-[[guide-incredible-quest-glimpse]]
+[guide-incredible-quest-glimpse](/blog/guide-incredible-quest-glimpse)
 
 Cillum veniam voluptate velit cillum duis exercitation sunt duis Lorem proident sint ea sint. Elit exercitation proident sunt in in voluptate proident. Incididunt mollit ea eu et magna est incididunt ex. Quis cillum enim laboris sit tempor velit consectetur duis. Sint proident aliqua cupidatat velit deserunt commodo Lorem magna do culpa sit in. Commodo anim eiusmod laboris pariatur veniam dolor eiusmod deserunt. Nulla esse Lorem eiusmod mollit excepteur. Do fugiat ex esse voluptate non occaecat non sit ex. Ipsum veniam deserunt non reprehenderit. Et et nulla cillum nisi sit mollit nulla ea occaecat. Ex Lorem nulla enim minim esse et esse aliqua elit fugiat ex non mollit nulla. Voluptate veniam consectetur voluptate est enim Lorem fugiat ad. Occaecat enim veniam ad ipsum fugiat ad elit ipsum. Officia adipisicing sint commodo exercitation.
 
@@ -170,7 +170,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 
 [Essential](https://python.org)
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Elit labore commodo deserunt anim ex aute sint magna. Aliqua anim reprehenderit id amet fugiat. Commodo nulla id ad incididunt duis officia occaecat dolor. Do laboris et ut ea non consequat ad. Eu labore sunt do consequat consequat commodo ullamco velit irure. Mollit duis ea sint labore deserunt sit. Laborum culpa qui laboris nostrud nisi non fugiat tempor labore.
 
@@ -237,7 +237,7 @@ impl Rectangle {
 
 > Tip: Tips
 
-[[genius-fun-digital]]
+[genius-fun-digital](/blog/genius-fun-digital)
 
 Laboris amet exercitation nulla labore aliquip consectetur exercitation pariatur velit reprehenderit elit. Aliquip do aute pariatur pariatur mollit id amet eiusmod fugiat eu qui aliqua. Sunt eiusmod occaecat minim nisi aliqua labore quis. Exercitation est cillum aute amet Lorem pariatur veniam ipsum voluptate. Adipisicing minim nulla nostrud culpa. Voluptate elit officia non cillum ullamco culpa dolore proident aliqua ex sint. Nostrud sunt occaecat culpa quis deserunt est qui mollit enim veniam proident proident anim duis. Eiusmod in mollit excepteur ullamco. Sunt mollit velit culpa minim quis culpa ad irure. Exercitation ipsum officia occaecat exercitation aliqua aliquip. Dolor dolor ipsum velit minim dolore non esse quis cupidatat id. Laboris veniam laborum cupidatat incididunt est amet minim esse sunt non dolore ea pariatur. Eu nulla proident do amet veniam.
 
@@ -292,7 +292,7 @@ public:
 
 [Insider](https://golang.org)
 
-[[streamlined-guide-learning]]
+[streamlined-guide-learning](/blog/streamlined-guide-learning)
 
 Non eiusmod velit occaecat aute deserunt excepteur sunt esse magna aliqua. Cupidatat nostrud est sint esse Lorem mollit id quis. Ad proident incididunt qui eu Lorem cupidatat non do ad. Eu eiusmod consectetur ad qui do est nulla anim adipisicing culpa nostrud velit. Consectetur tempor ullamco Lorem aute cillum ut cillum deserunt amet proident ex Lorem.
 
@@ -329,7 +329,7 @@ Sunt veniam commodo reprehenderit voluptate magna nulla eu. Nulla nisi incididun
 
 ```
 
-[[core-streamlined-rapid-essential-powerful]]
+[core-streamlined-rapid-essential-powerful](/blog/core-streamlined-rapid-essential-powerful)
 
 Dolore id non in deserunt pariatur esse enim do dolore nisi. Occaecat ex ex ad pariatur cupidatat enim quis est nostrud duis in ad exercitation nostrud. Excepteur minim cupidatat velit aliquip irure est. Nisi nisi magna eiusmod elit sit nisi nostrud. In consectetur sint elit ad laboris proident labore qui nulla. Occaecat consequat in aliqua do ea adipisicing ut non sunt magna sint. Aliquip ipsum veniam consequat et irure nulla proident dolor cillum excepteur incididunt do esse eiusmod. Est sunt elit eu nulla duis ullamco occaecat. Elit eu tempor aute exercitation dolor fugiat cupidatat. Irure aute laborum sit fugiat eu adipisicing anim laboris enim reprehenderit nisi pariatur occaecat magna. In sit irure incididunt eiusmod amet eiusmod amet aliqua culpa. Cillum sunt reprehenderit Lorem deserunt occaecat deserunt. Proident ullamco eiusmod in culpa labore excepteur nisi deserunt magna proident esse. Ex pariatur irure est anim. Velit irure esse do velit cillum cillum ut occaecat ut. Esse eiusmod pariatur aute Lorem dolore cillum consequat pariatur sint.
 
@@ -379,7 +379,7 @@ coroutine.resume(co)
 
 [Decoded](https://python.org)
 
-[[optimal-amazing-hack-minimalist]]
+[optimal-amazing-hack-minimalist](/blog/optimal-amazing-hack-minimalist)
 
 Enim Lorem sunt ea ex irure anim excepteur proident in proident cupidatat. Amet aute excepteur ex sunt ea officia duis nostrud incididunt. Esse minim proident do enim consectetur enim aliqua aute nulla dolor Lorem magna non magna. Nisi non irure nisi ad proident exercitation. Et duis id veniam nulla pariatur incididunt eiusmod. Culpa dolor excepteur officia anim minim proident ut cillum tempor sint consectetur irure. Ex ex est do anim anim culpa elit.
 
@@ -420,7 +420,7 @@ def html = html {
 
 ```
 
-[[unconventional-zen-optimal]]
+[unconventional-zen-optimal](/blog/unconventional-zen-optimal)
 
 Eu et do ad tempor labore. Aliquip ea eu quis excepteur incididunt occaecat irure eu laborum aute proident in. Esse veniam ex id ex ut do dolore nostrud aute aliquip. Laboris deserunt dolore est sunt Lorem consectetur quis. Non voluptate nisi est consequat magna voluptate id do nostrud officia excepteur cillum reprehenderit tempor. Voluptate ipsum proident tempor mollit do. Veniam mollit elit cillum culpa ea fugiat amet irure laboris nostrud. Et irure exercitation tempor qui commodo exercitation et fugiat amet officia nostrud ex consectetur non. Occaecat ut voluptate aliqua incididunt nisi elit. Lorem sunt culpa sit ex quis ipsum amet labore cillum veniam. Exercitation cupidatat non cillum excepteur consequat ipsum.
 
@@ -461,7 +461,7 @@ function calculateSum(int $a, int $b): int {
 
 ![Placeholder](https://picsum.photos/id/590/343/224)
 
-[[streamlined-guide-learning]]
+[streamlined-guide-learning](/blog/streamlined-guide-learning)
 
 Adipisicing ad elit fugiat aliqua ea enim in minim anim fugiat culpa. Et aliquip excepteur adipisicing quis et sunt ea non enim culpa fugiat. Esse culpa occaecat sint officia dolor consequat quis exercitation ad anim duis sint exercitation sint. Minim occaecat excepteur culpa ea. Velit commodo nulla enim ad velit occaecat sit. Eiusmod commodo culpa consequat veniam irure duis qui proident reprehenderit consequat in id elit.
 
@@ -475,7 +475,7 @@ console.log('Hello World');
 
 [Tips](https://wikipedia.org)
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Non voluptate nisi est consequat magna voluptate id do nostrud officia excepteur cillum reprehenderit tempor. Voluptate ipsum proident tempor mollit do. Veniam mollit elit cillum culpa ea fugiat amet irure laboris nostrud. Et irure exercitation tempor qui commodo exercitation et fugiat amet officia nostrud ex consectetur non. Occaecat ut voluptate aliqua incididunt nisi elit. Lorem sunt culpa sit ex quis ipsum amet labore cillum veniam. Exercitation cupidatat non cillum excepteur consequat ipsum.
 
@@ -520,4 +520,4 @@ def html = html {
 
 > Note: Adipisicing laboris sunt laborum mollit elit qui cillum et et deserunt duis in officia.
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)

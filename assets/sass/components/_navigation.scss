@@ -9,8 +9,8 @@
 
   &__label {
     letter-spacing: 0.05em;
-    border-bottom: 1px solid var(--border-base);
-    color: var(--color-second);
+    border-bottom: 1px solid var(--border-primary);
+    color: var(--text-primary);
     margin-block: 0 1em;
   }
 
@@ -18,7 +18,7 @@
     @include m.transition(all);
     position: relative;
     display: block;
-    color: var(--color-third);
+    color: var(--text-muted);
     font-size: v.$fs-sm;
     padding: 0.15em;
     margin-block: 0.25em;
@@ -32,7 +32,7 @@
       position: absolute;
       inset-inline-start: 0;
       inset-block-start: 0;
-      box-shadow: var(--shadow-sm);
+      box-shadow: var(--shadow-subtle);
       height: 100%;
       z-index: -1;
       border-radius: 0.15em;
@@ -41,33 +41,33 @@
     &::before {
       margin-inline-start: -1em;
       width: 3px;
-      background-color: var(--background-base);
+      background-color: var(--background-tertiary);
     }
 
     &::after {
       margin-inline-start: -0.5em;
       width: 0;
-      background-color: var(--color-black-fix);
+      background-color: var(--color-pure-black);
     }
 
     &--is-active {
-      color: var(--color-second);
+      color: var(--text-primary);
 
       &::after {
         width: 100%;
-        background-color: var(--background-base);
+        background-color: var(--background-tertiary);
       }
     }
 
     &:hover,
     &:focus-visible,
     &:active {
-      color: var(--color-white-fix);
+      color: var(--color-pure-white);
       outline: none;
 
       &::before,
       &::after {
-        background-color: var(--color-black-fix);
+        background-color: var(--color-pure-black);
         box-shadow: var(--shadow-md);
       }
       &::after {

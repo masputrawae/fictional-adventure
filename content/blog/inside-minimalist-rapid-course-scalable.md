@@ -60,7 +60,7 @@ def html = html {
 | Zen | 35 |
 | Futuristic | 63 |
 
-[[forgotten-magic-course]]
+[forgotten-magic-course](/blog/forgotten-magic-course)
 
 Esse dolore mollit nulla quis ea ex laborum adipisicing adipisicing dolore sit dolore sunt laboris. In qui aliqua nulla eiusmod dolore et. Excepteur esse esse consequat proident ex anim excepteur culpa ut excepteur esse. Lorem adipisicing adipisicing sit culpa sint labore aute nostrud proident. Eu nisi Lorem velit ea quis labore cillum quis. Consequat ipsum ut eiusmod sunt ipsum quis quis irure officia dolore consectetur dolore fugiat ad. Aliquip id tempor tempor et qui culpa sint ea. Enim aute deserunt ut laboris sint consequat qui sit eu. Anim consectetur enim id deserunt. Duis ut adipisicing eiusmod cupidatat ex ut eiusmod excepteur in esse id enim. Ullamco laboris id amet et do quis anim nostrud exercitation ipsum Lorem adipisicing. Nulla culpa enim est nulla velit incididunt irure cillum velit veniam. Ex occaecat ut irure et aliquip reprehenderit aute cupidatat et eu. Ad laborum aliqua aliquip consectetur non officia eiusmod. Consectetur cupidatat voluptate nulla labore ad ullamco reprehenderit ut culpa velit aute. Dolor excepteur commodo velit eu commodo enim eu nulla fugiat sit velit esse reprehenderit nulla.
 
@@ -118,7 +118,7 @@ JOIN top_customers tc ON u.id = tc.user_id;
 
 [Glimpse](https://golang.org)
 
-[[forgotten-magic-course]]
+[forgotten-magic-course](/blog/forgotten-magic-course)
 
 Esse dolore mollit nulla quis ea ex laborum adipisicing adipisicing dolore sit dolore sunt laboris. In qui aliqua nulla eiusmod dolore et. Excepteur esse esse consequat proident ex anim excepteur culpa ut excepteur esse. Lorem adipisicing adipisicing sit culpa sint labore aute nostrud proident. Eu nisi Lorem velit ea quis labore cillum quis. Magna duis tempor veniam incididunt amet ea et quis in aliquip. Aute eu commodo ex in pariatur officia voluptate ipsum nostrud. Ipsum irure elit veniam velit cupidatat. Eu non exercitation culpa nulla qui culpa in nostrud laborum eiusmod minim velit nostrud aute. Ullamco minim ullamco aliqua duis deserunt officia. Sint mollit enim velit est magna minim culpa elit ut culpa. Dolor minim exercitation pariatur aute et nisi fugiat reprehenderit voluptate aliqua laborum non sit. Est tempor pariatur excepteur incididunt. Nulla consectetur dolor sit laborum mollit non consequat nisi ullamco Lorem cupidatat. Dolore anim quis qui sunt cillum minim laboris fugiat est ut mollit aliqua incididunt. Aute excepteur in culpa esse fugiat nisi duis.
 
@@ -157,7 +157,7 @@ map' f (x:xs) = f x : map' f xs
 - Brilliant
 - Resilient
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Labore tempor qui excepteur proident. Irure non culpa proident eu. Minim Lorem consequat est qui do nostrud ex reprehenderit. Quis eiusmod pariatur officia est ut elit consectetur ut velit. Nisi aute fugiat ipsum dolor id eu tempor. Exercitation adipisicing duis deserunt id laborum ullamco magna nisi cillum commodo cillum ullamco. Aute minim ipsum consequat magna in eiusmod duis.
 
@@ -212,7 +212,7 @@ end
 
 [Hidden](https://example.com)
 
-[[inside-ultimate-challenge-demystified]]
+[inside-ultimate-challenge-demystified](/blog/inside-ultimate-challenge-demystified)
 
 Do aliqua incididunt velit ullamco ea amet ea proident. Excepteur pariatur eu duis proident irure incididunt. Veniam ea qui dolore deserunt sunt dolore ipsum exercitation ea. Ea magna ut aliqua reprehenderit enim irure anim id. Exercitation et aliqua do ullamco eu esse exercitation reprehenderit sint duis amet. Non anim elit fugiat fugiat reprehenderit ullamco proident culpa.
 
@@ -266,7 +266,7 @@ catch {
 - Turbo
 - Ultimate
 
-[[mindful-foolproof-incredible]]
+[mindful-foolproof-incredible](/blog/mindful-foolproof-incredible)
 
 In eiusmod occaecat fugiat qui sunt elit proident irure non. Quis culpa exercitation deserunt veniam do sit pariatur do sit nisi sit consectetur qui. Ea irure aliqua voluptate Lorem dolor ut duis exercitation nulla ullamco quis minim exercitation laborum. Est aute quis reprehenderit exercitation cupidatat qui deserunt reprehenderit qui do. Adipisicing duis laboris duis excepteur sunt proident incididunt deserunt ipsum aliqua labore Lorem commodo. Amet elit occaecat culpa ex minim anim consequat et. Eiusmod in mollit excepteur ullamco. Sunt mollit velit culpa minim quis culpa ad irure. Exercitation ipsum officia occaecat exercitation aliqua aliquip. Dolor dolor ipsum velit minim dolore non esse quis cupidatat id. Laboris veniam laborum cupidatat incididunt est amet minim esse sunt non dolore ea pariatur. Eu nulla proident do amet veniam. Eu dolore adipisicing non laboris aliqua et qui esse ullamco anim non. Magna minim ad consequat eu ipsum do in reprehenderit. Nisi irure sint Lorem proident nisi elit Lorem. Ullamco irure exercitation deserunt adipisicing cupidatat deserunt sit Lorem voluptate sunt. Nostrud amet nisi adipisicing mollit non duis quis veniam dolor.
 
@@ -318,7 +318,7 @@ coroutine.resume(co)
 
 ```
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Voluptate esse labore reprehenderit tempor anim eiusmod cillum non sunt adipisicing qui velit anim esse. Consectetur amet mollit ea ea enim velit sit. Esse elit aute ullamco qui laboris occaecat. Minim qui sint non amet cupidatat qui magna velit qui pariatur dolore anim. Laboris anim sit veniam anim qui mollit cillum. Veniam minim excepteur cupidatat cupidatat eu aute incididunt. Aliquip esse consectetur aliqua esse ex culpa consectetur et duis id sunt. Ut est ad et exercitation nostrud sit pariatur dolore tempor commodo anim. Excepteur sint proident ea excepteur quis adipisicing cupidatat reprehenderit quis ipsum minim sunt duis. Nisi aute aliqua dolore in et laborum.
 
@@ -359,7 +359,7 @@ function calculateSum(int $a, int $b): int {
 
 > Tip: Foolproof
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Laborum cillum adipisicing eiusmod dolore mollit. Deserunt eiusmod ullamco proident voluptate id sint labore nulla sit pariatur exercitation nisi. Laborum tempor velit adipisicing veniam proident dolor ullamco nisi.
 
@@ -411,7 +411,7 @@ sum_list([H|T], Sum) :-
 | Expert | 33 |
 | Holistic | 85 |
 
-[[modern-unlock-crash-efficient-pro]]
+[modern-unlock-crash-efficient-pro](/blog/modern-unlock-crash-efficient-pro)
 
 Lorem do mollit eu in nisi nisi commodo exercitation ex voluptate ut veniam non magna. Minim in eiusmod esse non qui mollit tempor Lorem qui aliquip incididunt aute dolor. Laboris aliqua irure amet esse et mollit ex exercitation cillum enim commodo do. Esse tempor est laboris ullamco adipisicing aliqua culpa occaecat culpa nulla sit. Quis culpa anim duis non adipisicing eiusmod aute nulla incididunt laboris dolor officia anim ea. Adipisicing eu Lorem do culpa. Excepteur nisi duis elit aliquip exercitation amet proident excepteur sit ad reprehenderit laborum. Sunt veniam commodo reprehenderit voluptate magna nulla eu. Nulla nisi incididunt consequat irure voluptate nisi non aute dolore minim. Eu nulla nulla dolore officia quis consequat elit culpa irure consequat in ipsum magna. Esse consequat mollit officia duis et nostrud minim fugiat labore mollit irure pariatur et elit. Nulla sunt mollit ad ut eiusmod reprehenderit anim do occaecat voluptate ullamco irure amet. Et nulla consequat amet commodo nostrud irure amet. Amet magna aliquip aliqua mollit ad nulla. Lorem minim proident labore exercitation occaecat cillum culpa laborum ad. Sit adipisicing mollit veniam proident cupidatat consectetur. Sunt irure elit velit exercitation nisi eu id.
 
@@ -460,7 +460,7 @@ class FormalGreeter extends Greeter {
 - Lost
 - Trick
 
-[[shortcut-foolproof-minimalist-workshop]]
+[shortcut-foolproof-minimalist-workshop](/blog/shortcut-foolproof-minimalist-workshop)
 
 Consequat ipsum ut eiusmod sunt ipsum quis quis irure officia dolore consectetur dolore fugiat ad. Aliquip id tempor tempor et qui culpa sint ea. Enim aute deserunt ut laboris sint consequat qui sit eu. Anim consectetur enim id deserunt. Duis ut adipisicing eiusmod cupidatat ex ut eiusmod excepteur in esse id enim. Aliquip esse consectetur aliqua esse ex culpa consectetur et duis id sunt. Ut est ad et exercitation nostrud sit pariatur dolore tempor commodo anim. Excepteur sint proident ea excepteur quis adipisicing cupidatat reprehenderit quis ipsum minim sunt duis. Nisi aute aliqua dolore in et laborum. Occaecat dolor commodo reprehenderit irure veniam. Reprehenderit exercitation consequat officia nostrud reprehenderit. Id veniam nulla cillum enim ipsum qui duis ea. Pariatur occaecat consequat do adipisicing aliqua eu veniam et deserunt officia aliquip exercitation.
 
@@ -500,7 +500,7 @@ Consequat ipsum ut eiusmod sunt ipsum quis quis irure officia dolore consectetur
 
 > Tip: Essential
 
-[[forgotten-magic-course]]
+[forgotten-magic-course](/blog/forgotten-magic-course)
 
 Aliquip aliquip consectetur incididunt ullamco excepteur consectetur sint exercitation mollit dolor ea quis occaecat. Pariatur cillum non officia labore officia enim nisi. Sunt consectetur exercitation minim ullamco anim nisi. Duis dolor ullamco sint esse reprehenderit pariatur laborum elit. Et et nulla cillum nisi sit mollit nulla ea occaecat. Ex Lorem nulla enim minim esse et esse aliqua elit fugiat ex non mollit nulla. Voluptate veniam consectetur voluptate est enim Lorem fugiat ad. Occaecat enim veniam ad ipsum fugiat ad elit ipsum. Officia adipisicing sint commodo exercitation. Anim enim aliquip mollit amet id laborum labore labore do aliqua magna ex sint. Quis reprehenderit sint in adipisicing qui dolor. Exercitation reprehenderit Lorem aliqua ex nisi.
 
@@ -544,4 +544,4 @@ print "Tax: $tax\n";
 
 ```
 
-[[efficient-ultimate-awesome-stepbystep]]
+[efficient-ultimate-awesome-stepbystep](/blog/efficient-ultimate-awesome-stepbystep)

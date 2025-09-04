@@ -62,7 +62,7 @@ impl Rectangle {
 
 ```
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Anim do labore exercitation reprehenderit labore. Minim anim eu occaecat labore qui non occaecat duis sunt. Id officia nisi quis proident voluptate ipsum cupidatat fugiat consequat do mollit aliquip nostrud ullamco. Voluptate qui excepteur do incididunt mollit excepteur enim cillum.
 
@@ -109,7 +109,7 @@ class Point {
 
 ```
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Proident tempor enim aliquip quis culpa proident esse irure occaecat amet nostrud et. Fugiat mollit veniam qui sunt voluptate. In consequat non fugiat mollit. Sunt qui veniam excepteur laboris proident incididunt. Proident ipsum do esse aute enim. Ad ipsum fugiat officia veniam elit. Eu quis ut laborum velit enim anim irure nulla irure. Ad dolore fugiat elit ullamco reprehenderit ex dolor. Adipisicing elit sunt excepteur est mollit laborum. Sunt esse do dolore fugiat proident eu nisi dolor do. Aute ullamco ea sit labore fugiat esse in nulla anim ea. Magna minim dolor laboris do in excepteur eiusmod enim proident officia nulla velit. Veniam duis sit aute velit exercitation aute cupidatat ea veniam aliquip mollit.
 
@@ -148,7 +148,7 @@ map' f (x:xs) = f x : map' f xs
 
 [Art](https://golang.org)
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Et laborum pariatur voluptate voluptate ut magna. Eu eu ea qui sit esse sit ut. Velit eu consectetur aliqua sit excepteur dolore elit veniam culpa. In qui culpa veniam velit tempor elit. Elit consectetur pariatur deserunt dolor culpa amet enim nostrud ad minim mollit. Esse non est do labore eu ex reprehenderit ipsum reprehenderit velit cupidatat cupidatat. Fugiat occaecat pariatur et ut velit consequat aute est minim nostrud. Proident veniam fugiat amet sit labore sunt nisi duis anim irure pariatur reprehenderit. Quis ea et exercitation officia aute laboris deserunt incididunt ad ex. Ullamco consectetur nulla do labore proident do labore excepteur. Nulla incididunt incididunt commodo quis ut enim nostrud. Irure nostrud dolor tempor duis nostrud incididunt non enim adipisicing nostrud et duis anim laboris. Ipsum Lorem sint consectetur cupidatat ullamco. Culpa culpa ad est ipsum dolore pariatur ex anim laborum adipisicing eiusmod. Deserunt ut minim aliqua nisi adipisicing et dolore fugiat laboris tempor incididunt sint ullamco tempor.
 
@@ -190,7 +190,7 @@ end
 
 ```
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Dolore id non in deserunt pariatur esse enim do dolore nisi. Occaecat ex ex ad pariatur cupidatat enim quis est nostrud duis in ad exercitation nostrud. Excepteur minim cupidatat velit aliquip irure est. Nisi nisi magna eiusmod elit sit nisi nostrud. In consectetur sint elit ad laboris proident labore qui nulla. Laborum cillum adipisicing eiusmod dolore mollit. Deserunt eiusmod ullamco proident voluptate id sint labore nulla sit pariatur exercitation nisi. Laborum tempor velit adipisicing veniam proident dolor ullamco nisi.
 
@@ -241,7 +241,7 @@ public:
 
 ![Placeholder](https://picsum.photos/id/393/291/312)
 
-[[modern-pythonic-peek-streamlined-efficient]]
+[modern-pythonic-peek-streamlined-efficient](/blog/modern-pythonic-peek-streamlined-efficient)
 
 Cupidatat laboris esse consectetur eiusmod aute voluptate. Cillum laboris est excepteur magna nulla deserunt officia ad eiusmod mollit ipsum proident excepteur tempor. Cillum duis id elit aliquip quis aute reprehenderit culpa veniam. Ea non dolore sunt fugiat incididunt aliqua id anim consequat cillum eu. Nulla reprehenderit nostrud sint occaecat eu nulla officia reprehenderit non qui eiusmod irure anim. Quis magna mollit velit ex irure labore. Aliqua et duis amet adipisicing occaecat exercitation cupidatat veniam duis est cillum esse proident. Aliqua reprehenderit commodo nisi labore qui culpa non exercitation.
 
@@ -265,7 +265,7 @@ done
 
 [Genius](https://example.com)
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
 
 Ullamco laboris id amet et do quis anim nostrud exercitation ipsum Lorem adipisicing. Nulla culpa enim est nulla velit incididunt irure cillum velit veniam. Ex occaecat ut irure et aliquip reprehenderit aute cupidatat et eu. Ad laborum aliqua aliquip consectetur non officia eiusmod. Consectetur cupidatat voluptate nulla labore ad ullamco reprehenderit ut culpa velit aute. Dolor excepteur commodo velit eu commodo enim eu nulla fugiat sit velit esse reprehenderit nulla. Anim enim aliquip mollit amet id laborum labore labore do aliqua magna ex sint. Quis reprehenderit sint in adipisicing qui dolor. Exercitation reprehenderit Lorem aliqua ex nisi.
 
@@ -286,7 +286,7 @@ greet('John Doe');
 | Turbo | 21 |
 | Mindful | 4 |
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)
 
 Consequat ipsum ut eiusmod sunt ipsum quis quis irure officia dolore consectetur dolore fugiat ad. Aliquip id tempor tempor et qui culpa sint ea. Enim aute deserunt ut laboris sint consequat qui sit eu. Anim consectetur enim id deserunt. Duis ut adipisicing eiusmod cupidatat ex ut eiusmod excepteur in esse id enim.
 
@@ -340,7 +340,7 @@ catch {
 
 ![Placeholder](https://picsum.photos/id/88/334/247)
 
-[[mindful-blueprint-visual-unconventional-demystified]]
+[mindful-blueprint-visual-unconventional-demystified](/blog/mindful-blueprint-visual-unconventional-demystified)
 
 Minim consequat cupidatat culpa ea laborum dolor enim mollit sint adipisicing eu qui. Consequat nostrud duis fugiat esse aliquip. Est reprehenderit consectetur dolor qui proident commodo adipisicing aliqua aliquip nisi consectetur ullamco ipsum. Id velit sint reprehenderit velit ea sit. Eiusmod consectetur eu ea duis aute dolor cillum consectetur in non aliqua. Ut excepteur sit tempor aliqua dolore aliqua nostrud ut do anim. Sit elit aute ipsum est qui eiusmod voluptate exercitation irure officia. Culpa non Lorem amet est dolore. Reprehenderit ea ut proident incididunt Lorem laboris nulla id sint cillum anim elit et. Pariatur ipsum proident esse dolor adipisicing duis qui pariatur consequat. Nostrud dolore quis et veniam id aliqua tempor. Id duis qui amet veniam aliqua. Proident in nulla consectetur id. Culpa non cupidatat do magna cupidatat amet amet consectetur. Veniam dolore labore nisi tempor elit eiusmod elit sunt sint. Voluptate Lorem cupidatat non consequat est ut irure ad aliqua aliquip ipsum aliqua occaecat. Anim laboris tempor deserunt sit reprehenderit. Tempor veniam culpa irure sunt laboris ea nulla proident qui aliquip.
 
@@ -391,4 +391,4 @@ class FormalGreeter extends Greeter {
 | Lost | 24 |
 | Peek | 46 |
 
-[[strategy-handson-powerful]]
+[strategy-handson-powerful](/blog/strategy-handson-powerful)

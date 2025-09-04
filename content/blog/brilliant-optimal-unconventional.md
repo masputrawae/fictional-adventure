@@ -70,7 +70,7 @@ impl Rectangle {
 
 > Quis ea et exercitation officia aute laboris deserunt incididunt ad ex. Ullamco consectetur nulla do labore proident do labore excepteur. Nulla incididunt incididunt commodo quis ut enim nostrud. Irure nostrud dolor tempor duis nostrud incididunt non enim adipisicing nostrud et duis anim laboris. Ipsum Lorem sint consectetur cupidatat ullamco. Culpa culpa ad est ipsum dolore pariatur ex anim laborum adipisicing eiusmod. Deserunt ut minim aliqua nisi adipisicing et dolore fugiat laboris tempor incididunt sint ullamco tempor.
 
-[[efficient-ultimate-awesome-stepbystep]]
+[efficient-ultimate-awesome-stepbystep](/blog/efficient-ultimate-awesome-stepbystep)
 
 Consequat proident elit velit esse fugiat nostrud irure proident et qui. Cupidatat ad Lorem tempor sint consequat nisi cupidatat tempor minim incididunt qui. Voluptate qui incididunt quis cupidatat eiusmod Lorem. Duis ea sit eu incididunt deserunt minim minim qui anim. Culpa velit mollit ipsum enim non ex labore. Est pariatur non esse ex cupidatat do aliquip. Lorem voluptate occaecat pariatur adipisicing aliqua officia dolor veniam. Veniam incididunt elit proident nostrud Lorem qui ut. Enim mollit labore ullamco ut. Lorem eu velit sunt adipisicing nostrud est anim. Aliquip esse consectetur aliqua esse ex culpa consectetur et duis id sunt. Ut est ad et exercitation nostrud sit pariatur dolore tempor commodo anim. Excepteur sint proident ea excepteur quis adipisicing cupidatat reprehenderit quis ipsum minim sunt duis. Nisi aute aliqua dolore in et laborum.
 
@@ -118,7 +118,7 @@ coroutine.resume(co)
 
 ![Placeholder](https://picsum.photos/id/276/307/396)
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)
 
 Labore mollit aute ad sunt Lorem labore excepteur. Aliqua ex pariatur ut esse labore adipisicing proident ullamco exercitation proident pariatur non. Esse exercitation proident sunt incididunt irure ad esse eiusmod ea cupidatat nisi reprehenderit. Voluptate cillum magna officia ipsum exercitation aliquip irure consequat. Est laborum exercitation consequat sit ea aute minim ex incididunt velit. Quis ex mollit occaecat magna adipisicing. Ea laborum quis pariatur sit proident ea labore. Ex enim irure do mollit laborum est sunt deserunt commodo quis ea nisi deserunt incididunt. Exercitation est incididunt ad eu minim minim pariatur est pariatur deserunt magna. Aliqua exercitation est sint ad pariatur deserunt tempor culpa incididunt in ipsum Lorem.
 
@@ -167,7 +167,7 @@ public:
 
 [Streamlined](https://github.com)
 
-[[efficient-ultimate-awesome-stepbystep]]
+[efficient-ultimate-awesome-stepbystep](/blog/efficient-ultimate-awesome-stepbystep)
 
 Occaecat occaecat officia sit consequat nostrud. Veniam est enim magna fugiat amet duis dolor aliquip fugiat magna non aute veniam Lorem. Incididunt officia sit laborum veniam ex dolore pariatur. Et enim cillum ad ut ea irure quis tempor reprehenderit irure enim. Voluptate ipsum fugiat cupidatat consequat elit quis enim veniam officia tempor aliquip sunt. Fugiat aute excepteur adipisicing minim magna cillum do.
 
@@ -211,7 +211,7 @@ println(result)
 
 [NextGen](https://github.com)
 
-[[mindful-foolproof-incredible]]
+[mindful-foolproof-incredible](/blog/mindful-foolproof-incredible)
 
 Dolore id sunt dolore nulla elit id. Ut elit ut exercitation sunt occaecat nulla nisi ut ullamco labore. Sit aliquip aliqua consectetur esse sint officia incididunt. Ea sint non deserunt consequat commodo cillum sit exercitation. Duis non deserunt occaecat tempor sint occaecat do sunt. Excepteur sint velit sunt ut. Sint est minim reprehenderit amet est aute dolore pariatur id irure magna in. Duis deserunt in nulla cupidatat eu aliqua ut incididunt ad proident consectetur nostrud occaecat. Voluptate velit culpa culpa dolore incididunt enim proident aute et adipisicing sit eu excepteur. Ut eiusmod culpa est labore nostrud mollit voluptate. Commodo aliqua esse culpa magna eu Lorem adipisicing nostrud laborum enim aute non aute. Fugiat dolore id sint sunt dolor cillum reprehenderit irure anim nisi. Commodo est nulla ut do sunt ullamco qui sit mollit. Amet duis voluptate id ipsum occaecat commodo commodo enim qui sit excepteur esse.
 
@@ -267,7 +267,7 @@ class Circle: Drawable {
 | Deep | 2 |
 | Effective | 59 |
 
-[[efficient-ultimate-awesome-stepbystep]]
+[efficient-ultimate-awesome-stepbystep](/blog/efficient-ultimate-awesome-stepbystep)
 
 Eiusmod in mollit excepteur ullamco. Sunt mollit velit culpa minim quis culpa ad irure. Exercitation ipsum officia occaecat exercitation aliqua aliquip. Dolor dolor ipsum velit minim dolore non esse quis cupidatat id. Laboris veniam laborum cupidatat incididunt est amet minim esse sunt non dolore ea pariatur. Eu nulla proident do amet veniam.
 
@@ -333,7 +333,7 @@ catch {
 
 [Seamless](https://golang.org)
 
-[[forgotten-magic-course]]
+[forgotten-magic-course](/blog/forgotten-magic-course)
 
 Qui ex tempor laborum mollit officia labore ut anim reprehenderit non aute id pariatur anim. Consequat cillum culpa occaecat aliqua officia deserunt ullamco ex incididunt. Laboris cillum laboris minim amet nostrud nulla. Voluptate sint ex exercitation reprehenderit ut. Ut excepteur minim ex aliqua quis occaecat. Magna nostrud est quis Lorem nulla consequat aute non minim dolore tempor ut pariatur. Esse pariatur velit et voluptate laboris irure magna Lorem commodo fugiat ullamco. Tempor quis eu sint cupidatat elit deserunt fugiat. Culpa mollit magna occaecat cupidatat. Pariatur id pariatur amet sunt irure cupidatat ut velit. Laboris esse laboris irure laborum sit proident consectetur id eu sunt ullamco proident magna.
 
@@ -385,7 +385,7 @@ catch {
 
 > Ex enim irure do mollit laborum est sunt deserunt commodo quis ea nisi deserunt incididunt. Exercitation est incididunt ad eu minim minim pariatur est pariatur deserunt magna. Aliqua exercitation est sint ad pariatur deserunt tempor culpa incididunt in ipsum Lorem.
 
-[[efficient-ultimate-awesome-stepbystep]]
+[efficient-ultimate-awesome-stepbystep](/blog/efficient-ultimate-awesome-stepbystep)
 
 Quis ea et exercitation officia aute laboris deserunt incididunt ad ex. Ullamco consectetur nulla do labore proident do labore excepteur. Nulla incididunt incididunt commodo quis ut enim nostrud. Irure nostrud dolor tempor duis nostrud incididunt non enim adipisicing nostrud et duis anim laboris. Ipsum Lorem sint consectetur cupidatat ullamco. Culpa culpa ad est ipsum dolore pariatur ex anim laborum adipisicing eiusmod. Deserunt ut minim aliqua nisi adipisicing et dolore fugiat laboris tempor incididunt sint ullamco tempor.
 
@@ -426,7 +426,7 @@ map' f (x:xs) = f x : map' f xs
 
 [Technique](https://golang.org)
 
-[[mindful-foolproof-incredible]]
+[mindful-foolproof-incredible](/blog/mindful-foolproof-incredible)
 
 Proident sunt velit nisi minim elit dolore pariatur et aliquip eu officia exercitation commodo. Labore aliqua pariatur dolore veniam. Ea ut do ullamco duis. Officia nostrud veniam duis duis excepteur nulla. Ex et ad sunt aliquip ut magna elit aliquip do magna. Ut ut minim ex fugiat id non do culpa velit.
 
@@ -446,7 +446,7 @@ echo Hello World
 
 > Note: Aliquip et voluptate in dolor anim.
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Minim officia aute id ipsum nisi culpa sint sint sint sunt nulla aliquip. Amet ad laborum eiusmod deserunt sint tempor enim. Duis ad aliqua velit sunt commodo culpa laboris consectetur. Esse reprehenderit adipisicing labore aliqua minim cupidatat anim enim deserunt. Excepteur sint irure consequat pariatur velit commodo enim anim deserunt laboris quis duis. Do tempor deserunt ex pariatur est culpa ea est. Occaecat tempor dolor sit mollit eu pariatur quis quis minim culpa officia culpa. Minim consequat ullamco cupidatat aliqua. Dolore veniam ut aliqua id consectetur sunt adipisicing deserunt. Deserunt et enim eu cupidatat deserunt exercitation sint consequat officia Lorem deserunt id labore. Nostrud Lorem magna quis veniam cillum. Enim amet veniam cillum dolor qui ad dolor reprehenderit cillum. Commodo duis laboris id incididunt qui anim sit laboris anim proident aute quis excepteur adipisicing. Nostrud cillum ad irure et aliquip minim esse reprehenderit cillum sit voluptate et. Laboris cillum officia consectetur occaecat do minim deserunt dolor veniam. Eu irure aute excepteur officia pariatur consectetur deserunt dolor ut irure et eiusmod.
 
@@ -483,4 +483,4 @@ function calculateSum(int $a, int $b): int {
 
 ```
 
-[[nextgen-efficient-optimal]]
+[nextgen-efficient-optimal](/blog/nextgen-efficient-optimal)

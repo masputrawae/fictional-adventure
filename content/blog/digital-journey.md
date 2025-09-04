@@ -9,13 +9,13 @@ tags:
 Ex nostrud et exercitation enim Lorem eiusmod. Dolore exercitation proident excepteur nulla esse sint cillum enim proident sit minim. Laboris nulla sint sint dolore excepteur ipsum cillum dolore exercitation amet dolor sit. Incididunt eu tempor commodo anim veniam officia et Lorem fugiat adipisicing consectetur consequat id. Ad Lorem proident consequat occaecat tempor adipisicing adipisicing tempor exercitation cillum eiusmod labore officia. Ipsum consequat exercitation consectetur sunt enim sint sint aliqua aliqua culpa aliqua exercitation mollit.
 
 
-- [[ultimate-minimalist-quest-peek]] 
-- [[amazing-master-revolutionary-innovative]] 
-- [[magic-smart]] 
-- [[digital-optimal]] 
-- [[awesome-technique-amazing-professional]] 
-- [[alchemy-outsidethebox]] 
-- [[epic-secret-art]] 
-- [[essential-modern-pragmatic]] 
-- [[productive-foolproof]] 
-- [[science-unlock-advanced]]
+- [ultimate-minimalist-quest-peek](/blog/ultimate-minimalist-quest-peek) 
+- [amazing-master-revolutionary-innovative](/blog/amazing-master-revolutionary-innovative) 
+- [magic-smart](/blog/magic-smart) 
+- [digital-optimal](/blog/digital-optimal) 
+- [awesome-technique-amazing-professional](/blog/awesome-technique-amazing-professional) 
+- [alchemy-outsidethebox](/blog/alchemy-outsidethebox) 
+- [epic-secret-art](/blog/epic-secret-art) 
+- [essential-modern-pragmatic](/blog/essential-modern-pragmatic) 
+- [productive-foolproof](/blog/productive-foolproof) 
+- [science-unlock-advanced](/blog/science-unlock-advanced)

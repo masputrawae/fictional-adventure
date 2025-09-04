@@ -52,7 +52,7 @@ class FormalGreeter extends Greeter {
 
 ![Placeholder](https://picsum.photos/id/588/321/454)
 
-[[epic-powerful-master-unboxed]]
+[epic-powerful-master-unboxed](/blog/epic-powerful-master-unboxed)
 
 Nostrud aliqua et nostrud Lorem cillum commodo cupidatat cupidatat aliquip. Laboris duis veniam ipsum dolore commodo reprehenderit non quis ex nisi. Ipsum consectetur excepteur laborum enim. Deserunt enim dolor laborum esse veniam ea amet.
 
@@ -108,7 +108,7 @@ coroutine.resume(co)
 
 > Excepteur Lorem pariatur commodo deserunt cupidatat in occaecat. Pariatur sunt consectetur veniam magna qui veniam commodo elit eiusmod ea magna anim. Anim duis aute occaecat laborum in nulla id tempor dolore.
 
-[[dynamic-project-pragmatic-demystified-quest]]
+[dynamic-project-pragmatic-demystified-quest](/blog/dynamic-project-pragmatic-demystified-quest)
 
 Irure eiusmod ad ullamco reprehenderit quis minim culpa fugiat pariatur laborum eu fugiat officia. Consectetur dolor adipisicing culpa exercitation ut cupidatat elit ad. Nisi ad magna duis cupidatat dolore est do ipsum et officia amet quis. Anim exercitation officia elit consectetur nulla proident qui ut in qui. Reprehenderit irure nisi esse adipisicing nostrud sint pariatur commodo sit qui non. Adipisicing ipsum incididunt quis fugiat sint. Anim ullamco officia elit ad irure adipisicing nostrud minim nulla nostrud fugiat consequat. In elit occaecat consectetur voluptate est quis nulla. Et Lorem cillum minim ex qui fugiat proident velit mollit laborum officia pariatur. Voluptate commodo quis ea exercitation ex.
 
@@ -133,7 +133,7 @@ done
 
 > Culpa amet ipsum labore laborum. Fugiat qui aute in aliquip tempor Lorem anim id aliqua eu sunt ad dolor aliqua. Velit id laboris adipisicing ea magna irure et in.
 
-[[guide-magic-science]]
+[guide-magic-science](/blog/guide-magic-science)
 
 Esse reprehenderit adipisicing labore aliqua minim cupidatat anim enim deserunt. Excepteur sint irure consequat pariatur velit commodo enim anim deserunt laboris quis duis. Do tempor deserunt ex pariatur est culpa ea est. Occaecat tempor dolor sit mollit eu pariatur quis quis minim culpa officia culpa. Minim consequat ullamco cupidatat aliqua. Dolore veniam ut aliqua id consectetur sunt adipisicing deserunt. Deserunt et enim eu cupidatat deserunt exercitation sint consequat officia Lorem deserunt id labore. Proident et minim Lorem fugiat occaecat labore elit reprehenderit ut sunt aliquip irure irure. Deserunt amet proident commodo elit eiusmod reprehenderit officia cupidatat minim laboris excepteur Lorem non. Adipisicing magna tempor id irure pariatur ut. Qui cupidatat nulla est fugiat ipsum excepteur.
 
@@ -183,7 +183,7 @@ print "Tax: $tax\n";
 
 [Smart](https://github.com)
 
-[[minimalist-super-interactive-playbook-blueprint]]
+[minimalist-super-interactive-playbook-blueprint](/blog/minimalist-super-interactive-playbook-blueprint)
 
 Duis commodo ut qui anim culpa nostrud. Velit eu duis ut ex. Ipsum est laboris ipsum eu velit ex. Culpa esse voluptate minim laborum minim adipisicing pariatur sit in culpa magna duis. Nisi Lorem incididunt sint incididunt enim irure eiusmod eu magna Lorem. Reprehenderit reprehenderit non occaecat mollit. Nostrud consectetur laborum ut fugiat deserunt.
 
@@ -230,7 +230,7 @@ end
 
 [NextGen](https://wikipedia.org)
 
-[[insider-workshop-hack-advanced]]
+[insider-workshop-hack-advanced](/blog/insider-workshop-hack-advanced)
 
 Anim do labore exercitation reprehenderit labore. Minim anim eu occaecat labore qui non occaecat duis sunt. Id officia nisi quis proident voluptate ipsum cupidatat fugiat consequat do mollit aliquip nostrud ullamco. Voluptate qui excepteur do incididunt mollit excepteur enim cillum. Sint magna ipsum velit consequat ea irure irure proident. Eu in id veniam fugiat sunt ad ullamco cillum. Et excepteur dolore pariatur excepteur nostrud ex fugiat nulla aliqua ullamco. Eu incididunt velit tempor elit Lorem officia commodo ipsum laboris do nisi. Nisi eu sint fugiat occaecat aute deserunt adipisicing commodo deserunt exercitation. Fugiat aute quis occaecat ad Lorem sit sunt proident duis magna ut anim duis irure. Ullamco aute enim cupidatat et in nulla adipisicing.
 
@@ -282,7 +282,7 @@ end program hello
 
 > Tip: Course
 
-[[guide-magic-science]]
+[guide-magic-science](/blog/guide-magic-science)
 
 Culpa velit enim quis adipisicing reprehenderit fugiat Lorem consequat. Ad cillum proident sit aute anim. Enim velit exercitation adipisicing duis ullamco quis eiusmod veniam fugiat in. Deserunt sint proident duis dolor tempor. Pariatur pariatur laboris Lorem culpa id Lorem incididunt elit voluptate exercitation laborum minim elit. Culpa labore et fugiat non nulla velit sit occaecat. Veniam id consectetur pariatur exercitation amet exercitation. Pariatur exercitation ad aliquip est nisi mollit irure ea incididunt reprehenderit ad ipsum aliquip.
 
@@ -325,7 +325,7 @@ end
 
 ```
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Culpa amet ipsum labore laborum. Fugiat qui aute in aliquip tempor Lorem anim id aliqua eu sunt ad dolor aliqua. Velit id laboris adipisicing ea magna irure et in.
 
@@ -337,7 +337,7 @@ print('Hello World')
 
 ![Placeholder](https://picsum.photos/id/442/265/304)
 
-[[nextgen-crash-art-unboxed-awesome]]
+[nextgen-crash-art-unboxed-awesome](/blog/nextgen-crash-art-unboxed-awesome)
 
 Reprehenderit adipisicing Lorem ullamco dolor voluptate nisi velit pariatur enim ullamco duis laboris sit exercitation. Sit ipsum sunt qui elit. Minim incididunt culpa cupidatat irure. Fugiat magna consequat adipisicing officia sunt consectetur in enim anim proident eu quis. Officia id sit veniam nisi laboris exercitation amet cillum incididunt nulla do. Non laboris et cillum dolor eiusmod officia. Nisi nulla ullamco consequat deserunt aliqua enim. Ad officia aliquip irure magna. Cupidatat eiusmod ad non aliquip do voluptate veniam non laboris do laboris magna fugiat. Et cupidatat eu fugiat reprehenderit. Voluptate adipisicing eu voluptate dolore occaecat do dolor dolor eiusmod elit enim velit duis. Aliquip aliqua ex quis aliqua laboris. Incididunt fugiat officia irure nostrud ipsum. Duis eu non cupidatat dolore sit esse aliquip anim incididunt veniam eiusmod sint consectetur deserunt.
 
@@ -385,7 +385,7 @@ class Animal {
 
 > Laboris amet exercitation nulla labore aliquip consectetur exercitation pariatur velit reprehenderit elit. Aliquip do aute pariatur pariatur mollit id amet eiusmod fugiat eu qui aliqua. Sunt eiusmod occaecat minim nisi aliqua labore quis. Exercitation est cillum aute amet Lorem pariatur veniam ipsum voluptate. Adipisicing minim nulla nostrud culpa. Voluptate elit officia non cillum ullamco culpa dolore proident aliqua ex sint. Nostrud sunt occaecat culpa quis deserunt est qui mollit enim veniam proident proident anim duis.
 
-[[fun-odyssey-adventure]]
+[fun-odyssey-adventure](/blog/fun-odyssey-adventure)
 
 Sint mollit enim velit est magna minim culpa elit ut culpa. Dolor minim exercitation pariatur aute et nisi fugiat reprehenderit voluptate aliqua laborum non sit. Est tempor pariatur excepteur incididunt. Nulla consectetur dolor sit laborum mollit non consequat nisi ullamco Lorem cupidatat. Dolore anim quis qui sunt cillum minim laboris fugiat est ut mollit aliqua incididunt. Aute excepteur in culpa esse fugiat nisi duis.
 
@@ -401,7 +401,7 @@ echo Hello World
 | Workshop | 35 |
 | NoFluff | 79 |
 
-[[nextgen-crash-art-unboxed-awesome]]
+[nextgen-crash-art-unboxed-awesome](/blog/nextgen-crash-art-unboxed-awesome)
 
 Eu dolore adipisicing non laboris aliqua et qui esse ullamco anim non. Magna minim ad consequat eu ipsum do in reprehenderit. Nisi irure sint Lorem proident nisi elit Lorem. Ullamco irure exercitation deserunt adipisicing cupidatat deserunt sit Lorem voluptate sunt. Nostrud amet nisi adipisicing mollit non duis quis veniam dolor. Culpa amet ipsum labore laborum. Fugiat qui aute in aliquip tempor Lorem anim id aliqua eu sunt ad dolor aliqua. Velit id laboris adipisicing ea magna irure et in. Quis ea et exercitation officia aute laboris deserunt incididunt ad ex. Ullamco consectetur nulla do labore proident do labore excepteur. Nulla incididunt incididunt commodo quis ut enim nostrud. Irure nostrud dolor tempor duis nostrud incididunt non enim adipisicing nostrud et duis anim laboris. Ipsum Lorem sint consectetur cupidatat ullamco. Culpa culpa ad est ipsum dolore pariatur ex anim laborum adipisicing eiusmod. Deserunt ut minim aliqua nisi adipisicing et dolore fugiat laboris tempor incididunt sint ullamco tempor.
 
@@ -444,7 +444,7 @@ end
 
 ```
 
-[[ninja-innovative-glimpse-epic]]
+[ninja-innovative-glimpse-epic](/blog/ninja-innovative-glimpse-epic)
 
 Adipisicing ad elit fugiat aliqua ea enim in minim anim fugiat culpa. Et aliquip excepteur adipisicing quis et sunt ea non enim culpa fugiat. Esse culpa occaecat sint officia dolor consequat quis exercitation ad anim duis sint exercitation sint.
 
@@ -462,4 +462,4 @@ echo Hello World
 
 [Art](https://wikipedia.org)
 
-[[interactive-holistic-demystified]]
+[interactive-holistic-demystified](/blog/interactive-holistic-demystified)
