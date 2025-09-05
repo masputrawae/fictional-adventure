@@ -70,7 +70,6 @@
 
   a {
     text-decoration: underline solid;
-    text-underline-offset: 2px;
 
     &:hover {
       color: var(--text-tertiary);
@@ -216,6 +215,7 @@
     display: flow-root;
     margin-block: 0.5em;
     width: max-content;
+    max-width: 100%;
 
     summary {
       @include m.flex-justify(start,center);
@@ -235,6 +235,6 @@
 
 @include b.min(2xl) {
   :where(.markdown) {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
